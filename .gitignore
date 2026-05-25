@@ -1,0 +1,24 @@
+# Entornos virtuales
+venv/
+ENV/
+env/
+
+# Archivos del sistema
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Archivos temporales o de salida locales
+uploads/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Documentos locales de prueba (opcional, pero sugerido si no quieres subirlos)
+Document 12.docx
+index.html
+contexto.md
+convert.py
