@@ -18,7 +18,7 @@ __pycache__/
 *.pyd
 
 # Documentos locales de prueba (opcional, pero sugerido si no quieres subirlos)
-Document 12.docx
-index.html
-contexto.md
-convert.py
+/Document 12.docx
+/index.html
+/contexto.md
+/convert.py
