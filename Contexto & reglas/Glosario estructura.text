@@ -1,0 +1,87 @@
+# Estructura del Glosario de Verbos
+
+Este documento detalla las reglas de ordenamiento, la estructura de código HTML y los pasos para registrar los verbos en el Glosario de Moodle de forma correcta.
+
+---
+
+## 1. Reglas de Organización y Registro
+
+* **Ordenamiento Alfabético**: Todos los verbos se ordenan alfabéticamente de la A a la Z, basándose en la primera letra del verbo. El orden no depende de la dimensión (Saber, Ser, Hacer).
+* **Campos en la plataforma Moodle**:
+  - **Concepto**: Se debe escribir únicamente el nombre del verbo en mayúscula inicial (ejemplo: "Adaptar", "Analizar"). Esto asegura que Moodle agrupe y muestre la letra de inicial correcta (A, C, D...) en el índice del glosario.
+  - **Definición**: Se debe pegar el código HTML de la tabla correspondiente (activando previamente la vista de código con el botón `</>` o `HTML` en el editor).
+  - **Categorías**: Se debe seleccionar la dimensión correspondiente (SABER, SER, HACER) en la casilla de categorías.
+* **Sin títulos duplicados**: El código HTML no debe incluir etiquetas de título como `<strong><span style="color: #3b71ca;">{Verbo}</span></strong>` ni texto plano con el nombre del verbo fuera de la tabla, ya que Moodle genera automáticamente el título azul del concepto.
+* **Capitalización de Fuentes (Instituciones y Nombres)**: En la columna FUENTE de la tabla del glosario, se debe utilizar capitalización de nombres propios (mayúscula inicial en cada palabra relevante) en lugar de mayúsculas sostenidas o minúsculas sostenidas:
+  - **Estructura con Instituciones**:
+    - *Mal*: `REAL ACADEMIA ESPAÑOLA` o `real academia española`
+    - *Bien*: `Real Academia Española`
+  - **Estructura con Nombres**:
+    - *Mal*: `OMAR BARBOSA SANTIAGO` o `omar barbosa santiago`
+    - *Bien*: `Omar Barbosa Santiago`
+
+---
+
+## 2. Plantillas de Código HTML Oficiales
+
+### A. Estructura Sin Enlace Externo (Citas Generales)
+Se utiliza para verbos cuyas acepciones y fuentes provienen de diccionarios o aportes sin un enlace web activo.
+
+```html
+<table class="table table-striped table-bordered">
+    <tbody>
+        <tr>
+            <th style="text-align:center;">DIMENSIÓN</th>
+            <th style="text-align:center;">VERBO</th>
+            <th style="text-align:center;">ACEPCIÓN</th>
+            <th style="text-align:center;">FUENTE</th>
+        </tr>
+        <tr>
+            <td>Ser</td>
+            <td>Analizar</td>
+            <td>Estudiar o examinar algo, separando o considerando por separado sus partes.</td>
+            <td>María Moliner, Diccionario del uso del español, edición 1997.</td>
+        </tr>
+    </tbody>
+</table>
+<br>
+<p></p>
+```
+
+### B. Estructura Con Enlace Externo (Diccionario RAE)
+Se utiliza cuando la fuente es el diccionario de la Real Academia Española y contiene un hipervínculo activo. El enlace debe abrirse en pestaña nueva y contar con la protección de seguridad del navegador.
+
+```html
+<table class="table table-striped table-bordered">
+    <tbody>
+        <tr>
+            <th style="text-align:center;">DIMENSIÓN</th>
+            <th style="text-align:center;">VERBO</th>
+            <th style="text-align:center;">ACEPCIÓN</th>
+            <th style="text-align:center;">FUENTE</th>
+        </tr>
+        <tr>
+            <td>Hacer</td>
+            <td>Adaptar</td>
+            <td>1. Acomodar, ajustar algo a otra cosa.</td>
+            <td>Real Academia Española: Diccionario de la lengua española, 23.ª ed., [versión 23.7 en línea]. <a href="https://dle.rae.es/adaptar" target="_blank" rel="noreferrer noopener">https://dle.rae.es/adaptar</a> [06 de junio 2025].</td>
+        </tr>
+    </tbody>
+</table>
+<br>
+<p></p>
+```
+
+---
+
+## 3. Instrucciones de Publicación en Moodle
+
+1. Copiar el código HTML limpio del verbo requerido (desde la herramienta visual o el archivo central de códigos).
+2. En Moodle, hacer clic en **"Añadir entrada"**.
+3. Escribir el nombre del verbo en el campo **Concepto** (ej. "Adaptar").
+4. En el campo **Definición**, hacer clic en el **primer botón (cuadrícula/teclado)** de la barra de herramientas del editor para mostrar los botones avanzados.
+5. Hacer clic en el icono **`</>`** (o **`HTML`**) situado en la nueva fila de botones para cambiar al modo código fuente.
+6. Pegar el código HTML.
+7. Volver a hacer clic en el icono **`</>`** o **`HTML`** para verificar que la tabla se muestra visualmente de forma correcta.
+8. Seleccionar la categoría (SABER, SER, HACER) en la parte inferior del formulario.
+9. Guardar los cambios.

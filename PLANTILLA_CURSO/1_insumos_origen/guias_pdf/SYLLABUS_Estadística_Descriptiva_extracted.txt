@@ -1,0 +1,371 @@
+
+--- PAGE 1 ---
+Universidad de Santander - UDES
+Facultad de Ingenierías
+Syllabus del Curso
+Información general el curso
+Nombre del curso
+Código del curso
+Nivel(es) de formación en 
+el que es ofertado el curso
+Estadística descriptiva
+Pregrado Universitario
+Campus Bucaramanga
+Programa o departamento que gestiona 
+el curso
+Ingeniería de Software
+Syllabus del Curso
+Componente al que pertenece 
+el curso en el plan de estudio
+Obligatorio Electivo: 
+Horas teórico-prácticas
+Número de créditos del curso 3 créditos 
+Intensidad horaria semanal 12 horas
+36 horas 
+Horas de trabajo independiente 
+Duración del curso 
+(número de semanas)
+12
+Idioma(s) en el que se 
+desarrolla el curso
+Español 
+Modalidad del curso: virtual 
+Metodología del curso:  Teórico
+144 horas
+--- PAGE 2 ---
+Syllabus del Curso
+Información detallada del curso
+Justiﬁcación La comprensión de los principios estadísticos es indispensable para llevar a cabo investigaciones en el campo de la ingeniería 
+de software, desde el diseño de experimentos hasta la interpretación de los resultados. El curso de Estadística Descriptiva 
+pretende fortalecer en el estudiante, conocimientos, conceptos, categorías y métodos, que le permitan analizar, comprobar y 
+comparar resultados entre lo teórico y lo real. Además de promover el uso de herramientas tecnológicas y el uso de software 
+estadístico especializado. Hoy en día su importancia es tal, que muchos de los trabajos y de las conclusiones procedentes de la 
+investigación, o de una actividad profesional concreta, se debe refrendar estadísticamente antes de su aceptación deﬁnitiva.
+Al ﬁnalizar el curso de Estadística Descriptiva el estudiante de Ingeniería de software estará en la capacidad de comprender, 
+analizar y actuar frente al comportamiento de un conjunto de datos con base a la problemática o situación problema planteada.  
+Lo que le permitirá en el futuro aplicar el conocimiento en su contexto real para tomar decisiones acertadas en un entorno cada 
+vez más impulsado por los datos y para un desempeño exitoso en el ámbito académico, profesional y social. 
+Competencias previas 
+requeridas para el curso • Conceptos basicos de matematicas 
+Problemas que se abordarán en 
+el curso para el desarrollo de 
+la(s) competencia(s) prevista(s)
+Resuelve problemas con base al análisis de indicadores en diversos sectores como salud, seguridad, educación, medio 
+ambiente y otras temáticas de orden político, social y económico que le permitan tomar decisiones a través del uso de 
+métodos, técnicas y herramientas de la estadística descriptiva y proponer soluciones innovadoras que contribuyan a los 
+ODS en el territorio colombiano.                                                                                                           
+Elementos de la unidad 
+competencia del curso
+• Ser:  Analiza variables relacionadas con un problema estadístico.
+• Saber: Expone planteamientos estadísticos formales de una situación problema.
+• Hacer: Propone soluciones basadas en el análisis de datos y representaciones de estos.
+Resultado(s) de aprendizaje 
+del programa con el que se 
+asocia el curso 
+Aplicar principios de las ciencias y matemáticas, en el ámbito de la ingeniería para la interpretación, modelamiento y 
+solución de problemas complejos.
+¿A qué unidad de 
+competencia se asocia el 
+curso?
+Resuelve problemas relacionados con el análisis e interpretación de datos para apoyar la toma de decisiones teniendo 
+en cuenta los fundamentos y técnicas de la estadística descriptiva.
+Resultado(s) de aprendizaje 
+genérico con el que se 
+asocia el curso 
+Al ﬁnalizar el programa académico el estudiante estará en la capacidad de:  
+• Razonamiento cuantitativo: Intervenir en la solución de problemas que involucren información cuantitativa y 
+esquemática desde el diseño y la ejecución de planes y estrategias que lleven a soluciones adecuadas. 
+• Competencias ciudadanas: Interpretar su entorno social y político desde diversas perspectivas dentro del marco que 
+propone la Constitución Política de Colombia. 
+• Comunicación escrita: Expresar ideas por escrito mediante la elaboración de textos argumentativos teniendo en cuenta 
+las características del contexto. 
+• Lectura crítica: interpretar el sentido global de diferentes tipos de texto, teniendo en cuenta las relaciones semánticas 
+existentes entre los elementos que constituyen un texto cotidiano o académico no especializado. 
+• Inglés: Demostrar sus habilidades comunicativas en lectura y uso del lenguaje, para comunicarse efectivamente en 
+inglés 
+--- PAGE 3 ---
+Syllabus del Curso
+Información detallada del curso
+Palabras claves (máximo 5) Variables  cuantitativas y cualitativas, tablas de contingencia, diagramas estadisticos, distribución de frecuencias, 
+medidas univariantes y bivariantes. 
+Organización de las unidades temáticas y contenidos
+ Unidad 1: Investigación estadística 1.Etapas de una investigación estadística.                                                                                                                                                                                      
+2.Conceptos básicos.                                                                                                                                                                                                                                       
+3.Muestreo poblacional.
+Unidad 2: Fundamentos de estadística 1.Variables y atributos.                                                                                                                                                                            
+2. Caracterización de variables cualitativas.                                                                                                                                             
+3. Distribuciones de frecuencias.                                                                                                                                                       
+4.Tablas de contingencia.                                                                                                                                                                     
+5. Diagramas estadísticos.  
+Unidad 4 – Medidas estadísticas 
+bivariantes 
+1.Regresión y correlación.                                                                                                                                                                
+2.Regresión lineal simple.                                                                                                                                                      
+3.Diagramas de dispersión.                                                                                                                                                               
+4. Coeﬁcientes de determinación.                                                                                                                                                         
+5. Coeﬁcientes de Correlación.
+ Unidad 3 – Medidas estadísticas 
+univariantes 
+1.Medidas de tendencia Central.                                                                                                                                                   
+2. Medidas de posición.                                                                                                                                                                  
+3. Medidas de dispersión.                                                                                                                                                                 
+4.Medidas de asimetría y apuntamiento.
+Unidad temática Contenidos
+ Aprendizaje Basado en Problemas (ABP) Aprendizaje activo                                                                                                                                                                                     
+Aprendizaje autonomo                                                                                                                                                                          
+Desarrollo del pensamiento critico                                                                                                                                                 
+Aplicación del conocimiento en el contexto real 
+Nombre de la estrategia Descripción de la estrategia 
+Estrategias de enseñanza-aprendizaje
+--- PAGE 4 ---
+1.Etapas de una investigación estadística.                                                                                                                                                                                      
+2.Conceptos básicos.                                                                                                                                                                                                                                       
+3.Muestreo poblacional.
+Syllabus del Curso
+Organización de las unidades temáticas y contenidos  
+Cartilla Organizadores gráﬁcos
+Dirección General de Educación Tecnológica 
+Agropecuaria y Ciencias del Mar (2025) 
+Organizadores gráﬁcos. 
+https://dgetaycm.sep.gob.mx/storage/recursos/2025/
+01/Wj9GE11AYO-Organizadores%20gr%C3%A1ﬁcos.p
+df
+Capítulo de Libro Capítulo 1. Conceptos generales
+Martínez, C. (2013). Capítulo 1. Conceptos generales. 
+En: Estadística y muestreo, 13a ed. [Online] Bogotá: 
+Ecoe Ediciones. (pp. 10– 
+33).http://ies-booklick.s3.amazonaws.com/162672822
+2781-Estadistica-MuestreoCiro1-198.pdf
+Capítulo de Libro Capítulo 1. Conceptos generales sobre estadística
+Posada, G. (2016). Capítulo 1. Conceptos generales 
+sobre estadística. En: Elementos básicos de 
+estadística descriptiva para el análisis de datos. 
+Fundación Universitaria Luis Amigó. Fondo Editorial 
+Luis Amigó. Medellín. (pp. 11 – 
+21).https://www.funlam.edu.co/uploads/fondoeditori
+al/120_Ebook-elementos_basicos.pdf
+Capítulo de Libro Capítulo 2. Introducción a los tipos de muestreo
+Posada, G. (2016). Capítulo 2. Introducción a los tipos 
+de muestreo. En: Elementos básicos de estadística 
+descriptiva para el análisis de datos. Fundación 
+Universitaria Luis Amigó. Fondo Editorial Luis 
+Amigó. Medellín (pp. 23 -32). 
+https://www.funlam.edu.co/uploads/fondoeditorial/1
+20_Ebook-elementos_basicos.pdf
+Documento Organizadores gráﬁcos
+Orientación Andújar (2015). Organizadores gráﬁcos. 
+https://www.orientacionandujar.es/wp-content/uplo
+ads/2015/07/OrganizadoresGraﬁcos.pdf
+Documento Estadística Descriptiva y análisis de datos
+Fernández, D., y  Guitart. M. (s.f.) Estadística 
+Descriptiva y análisis de datos. 
+http://www1.frm.utn.edu.ar/estadistica/documentos/
+ed&ad.pdf
+Tipo de recurso  Descripción del recurso a utilizar  Datos de identiﬁcación y ubicación del recurso 
+Recursos educativos 
+--- PAGE 5 ---
+Syllabus del Curso
+Organización de las unidades temáticas y contenidos  
+Capítulo de Libro Capítulo 1. Introducción a la estadística
+Suarez. M. (2025). Capítulo 1. Introducción a la 
+estadística. En: Estadística descriptiva para todos: 
+Fundamentos y aplicaciones – Volumen I. (pp.11 – 51) 
+https://www.researchgate.net/publication/391908519
+_ESTADISTICA_DESCRIPTIVA_PARA_TODOS_FUND
+AMENTOS_Y_APLICACIONES_VOLUMEN_I
+Sitio web En los últimos 7 años, los lesionados por siniestros viales han 
+disminuido en el país, pero las muertes han aumentado
+Concejo de Bogotá (2025). En los últimos 7 años, los 
+lesionados por siniestros viales han disminuido en 
+el país, pero las muertes han aumentado. 
+https://concejodebogota.gov.co/en-los-ultimos-7-an
+os-los-lesionados-por-siniestros-viales-han/cbogota/
+2025-03-25/102637.php
+Sitio web 47,3 % de las víctimas fatales en accidentes de tránsito fueron 
+motociclistas.
+Alcaldía de Bogotá (2025). 47,3 % de las víctimas 
+fatales en accidentes de tránsito fueron 
+motociclistas. 
+https://bogota.gov.co/mi-ciudad/movilidad/47-de-vic
+timas-en-accidentes-transito-en-bogota-fueron-mo
+ticiclistas
+Sitio web Mortalidad por accidentes de tránsito en Bogotá D.C. 
+Observatorio de salud de Bogotá (2025). Mortalidad 
+por accidentes de tránsito en Bogotá D.C. 
+https://saludata.saludcapital.gov.co/osb/indicadores/
+mortalidad-de-accidentes-de-transito/
+Sitio web Muertes por accidentes de tránsito en Colombia disminuyeron en 
+enero de 2025: este es el panorama por ciudades.
+Gómez, L. (2025). Muertes por accidentes de tránsito 
+en Colombia disminuyeron en enero de 2025: este 
+es el panorama por 
+ciudades.https://www.infobae.com/colombia/2025/0
+2/16/muertes-por-accidentes-de-transito-en-colomb
+ia-disminuyeron-en-enero-de-2025-este-es-el-pano
+rama-por-ciudades/
+Tipo de recurso  Descripción del recurso a utilizar  Datos de identiﬁcación y ubicación del recurso 
+Recursos educativos 
+--- PAGE 6 ---
+Syllabus del Curso
+Organización de las unidades temáticas y contenidos  
+Capítulo de Libro Capítulo 3. Tabulación de datos estadísticos
+Posada, G. (2016). Capítulo 3. Tabulación de datos 
+estadísticos. En: Elementos básicos de estadística 
+descriptiva para el análisis de datos. Fundación 
+Universitaria Luis Amigó. Fondo Editorial Luis 
+Amigó. Medellín 
+(pp.34-43).https://www.funlam.edu.co/uploads/fond
+oeditorial/120_Ebook-elementos_basicos.pdf
+Capítulo de Libro Capítulo 4. Distribución de frecuencias
+Posada, G. (2016). Capítulo 4. Distribución de 
+frecuencias. En: Elementos básicos de estadística 
+descriptiva para el análisis de datos. Fundación 
+Universitaria Luis Amigó. Fondo Editorial Luis 
+Amigó. Medellín (pp. 44 -51).
+https://www.funlam.edu.co/uploads/fondoeditorial/1
+20_Ebook-elementos_basicos.pdf
+Capítulo de Libro Capítulo 5. Gráﬁcas y Diagramas
+Posada, G. (2016). Capítulo 5. Gráﬁcas y Diagramas. 
+En: Elementos básicos de estadística descriptiva 
+para el análisis de datos. Fundación Universitaria 
+Luis Amigó. Fondo Editorial Luis Amigó. Medellín 
+(pp. 52 - 63).
+https://www.funlam.edu.co/uploads/fondoeditorial/1
+20_Ebook-elementos_basicos.pdf
+Capítulo de Libro Capítulo 2. Tablas estadísticas
+Suarez. M. (2025). Capítulo 2. Tablas estadísticas. En: 
+Estadística descriptiva para todos: Fundamentos y 
+aplicaciones – Volumen I. (pp.52 – 69) 
+https://www.researchgate.net/publication/391908519
+_ESTADISTICA_DESCRIPTIVA_PARA_TODOS_FUND
+AMENTOS_Y_APLICACIONES_VOLUMEN_I
+Capítulo de Libro Capítulo 3. Distribución de frecuencias
+Suarez. M. (2025). Capítulo 3. Distribución de 
+frecuencias. En: Estadística descriptiva para todos: 
+Fundamentos y aplicaciones – Volumen I. (pp.70 – 
+108) 
+https://www.researchgate.net/publication/391908519
+_ESTADISTICA_DESCRIPTIVA_PARA_TODOS_FUND
+AMENTOS_Y_APLICACIONES_VOLUMEN_I
+Tipo de recurso  Descripción del recurso a utilizar  Datos de identiﬁcación y ubicación del recurso 
+Recursos educativos 
+--- PAGE 7 ---
+Syllabus del Curso
+Organización de las unidades temáticas y contenidos  
+Capítulo de Libro Capítulo 2. Distribuciones de frecuencia
+Martínez, C. (2013). Capítulo 2. Distribuciones de 
+frecuencia. En: Estadística y muestreo, 13a ed. 
+[Online] Bogotá: Ecoe Ediciones. (pp 43 – 89).
+http://ies-booklick.s3.amazonaws.com/16267282227
+81-Estadistica-MuestreoCiro1-198.pdf
+Capítulo de Libro Capítulo 7. Medidas de tendencia central. 
+Posada, G. (2016). Capítulo 7. Medidas de tendencia 
+central. En: Elementos básicos de estadística 
+descriptiva para el análisis de datos. Fundación 
+Universitaria Luis Amigó. Fondo Editorial Luis 
+Amigó. Medellín (pp. 72 - 85).
+https://www.funlam.edu.co/uploads/fondoeditorial/1
+20_Ebook-elementos_basicos.pdf
+Capítulo de Libro Capítulo 8. Medidas de posición 
+Posada, G. (2016). Capítulo 8. Medidas de posición. 
+En: Elementos básicos de estadística descriptiva 
+para el análisis de datos. Fundación Universitaria 
+Luis Amigó. Fondo Editorial Luis Amigó. Medellín 
+(pp. 86 - 95).
+https://www.funlam.edu.co/uploads/fondoeditorial/1
+20_Ebook-elementos_basicos.pdf
+Sitio web Características de Una Distribución de Frecuencias
+Montero, J. M. (2007). Características de Una 
+Distribución de Frecuencias. Statistical Descriptive. 
+Cengage Learning Paraninfo, S.A. (pp 17 – 61). 
+https://link.gale.com/apps/doc/CX4052100008/GVRL
+?u=unad&sid=GVRL&xid=d49ed557 
+Documento Unidad 2. Medidas de tendencia central y dispersión. 
+Universidad Abierta y a Distancia de México. (s.f.) 
+Unidad 2. Medidas de tendencia central y 
+dispersión. 
+https://dmd.unadmexico.mx/contenidos/TRONCO_C
+OMUN/EBA/U2/descargables/EBA_U2_Contenidos.p
+df 
+Tipo de recurso  Descripción del recurso a utilizar  Datos de identiﬁcación y ubicación del recurso 
+Recursos educativos 
+--- PAGE 8 ---
+Syllabus del Curso
+Organización de las unidades temáticas y contenidos  
+Capítulo de Libro Capítulo 9. Medidas de dispersión
+Posada, G. (2016). Capítulo 9. Medidas de dispersión. 
+En: Elementos básicos de estadística descriptiva 
+para el análisis de datos. Fundación Universitaria 
+Luis Amigó. Fondo Editorial Luis Amigó. Medellín 
+(pp. 96 - 107).
+https://www.funlam.edu.co/uploads/fondoeditorial/1
+20_Ebook-elementos_basicos.pdf
+Capítulo de Libro Capítulo 10. Medidas de forma
+Posada, G. (2016). Capítulo 10. Medidas de forma. En: 
+Elementos básicos de estadística descriptiva para el 
+análisis de datos. Fundación Universitaria Luis 
+Amigó. Fondo Editorial Luis Amigó. Medellín (pp. 
+108 - 115).
+https://www.funlam.edu.co/uploads/fondoeditorial/1
+20_Ebook-elementos_basicos.pdf
+Capítulo de Libro Capítulo 1. Medidas de tendencia central
+Suarez. M. (2025). Capítulo 1. Medidas de tendencia 
+central. En: Estadística descriptiva para todos: 
+Fundamentos y aplicaciones – Volumen II. (pp.12 
+–35) 
+https://www.researchgate.net/publication/392165180
+_Estadistica_Descriptiva_para_Todos_Fundamentos
+_y_Aplicaciones-Volumen_II
+Capítulo de Libro Capítulo 2. Medidas de posición
+Suarez. M. (2025). Capítulo 2. Medidas de posición. 
+En: Estadística descriptiva para todos: Fundamentos 
+y aplicaciones – Volumen II. (pp.36 – 60) 
+https://www.researchgate.net/publication/392165180
+_Estadistica_Descriptiva_para_Todos_Fundamentos
+_y_Aplicaciones-Volumen_II
+Capítulo de Libro Capítulo 3. Medidas de dispersión
+Suarez. M. (2025). Capítulo 3. Medidas de dispersión. 
+En: Estadística descriptiva para todos: Fundamentos 
+y aplicaciones – Volumen II. (pp.61 – 95) 
+https://www.researchgate.net/publication/392165180
+_Estadistica_Descriptiva_para_Todos_Fundamentos
+_y_Aplicaciones-Volumen_II
+Tipo de recurso  Descripción del recurso a utilizar  Datos de identiﬁcación y ubicación del recurso 
+Recursos educativos 
+--- PAGE 9 ---
+Syllabus del Curso
+Organización de las unidades temáticas y contenidos  
+Sitio web Chapter 10 Correlation and Regression.
+Talagala, P. (2020). Chapter 10 Correlation and 
+Regression.
+https://pridiltal.github.io/CM1110/correlation-and-regr
+ession.html
+Documento Unidad 3. Correlación y regresión lineal simple. 
+Universidad Abierta y a Distancia de México. (s.f.) 
+Unidad 3. Correlación y regresión lineal simple. 
+https://dmd.unadmexico.mx/contenidos/TRONCO_C
+OMUN/EBA/U3/descargables/EBA_U3_Contenidos.p
+df
+Documento Análisis bivariante. 
+Elias, J. (2019). Análisis bivariante. 
+https://openaccess.uoc.edu/bitstream/10609/148455
+/1/AnalisisBivariante.pdf
+Infografía Variables. Torres, L. (2025). Variables [Infografía]
+Presentación Cálculo del tamaño muestral Torres, L. (2025). Cálculo del tamaño muestral [Presentación]
+Presentación Tablas de frecuencias Torres, L. (2025). Tablas de frecuencias [Presentación]
+Presentación Fundamentos de estadística Torres, L. (2025). Fundamentos de estadística [Presentación]
+Paso a paso Como descargar Infostat Torres, L. (2025). Cómo descargar Infostast [Paso a paso]
+Sitio web Capítulo 7 Regresión lineal múltiple. 
+Baron, F. (2022). Capítulo 7 Regresión lineal 
+múltiple. En: Apuntes de Estadística 
+https://www.bioestadistica.uma.es/apuntesMaster/re
+gresi%C3%B3n-lineal-m%C3%BAltiple.html
+Artículo Cinética de adsorción de 2-Nitrofenol desde disolución acuosa 
+sobre carbón activado. 
+Torres, L. Ariza, L y Blanco, D (2016). Cinética de 
+adsorción de 2-Nitrofenol desde disolución acuosa 
+sobre carbón activado. 
+https://revistaciencias.univalle.edu.co/index.php/revi
+sta_de_ciencias/article/view/4674/6855
+Tipo de recurso  Descripción del recurso a utilizar  Datos de identiﬁcación y ubicación del recurso 
+Recursos educativos 

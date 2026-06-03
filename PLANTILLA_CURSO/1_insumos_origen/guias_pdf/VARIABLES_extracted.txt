@@ -1,0 +1,102 @@
+
+--- PAGE 1 ---
+Variables
+Infografía
+Diseñado por: Departamento de Medios Educativos
+EJEMPLOS
+• El coeﬁciente intelectual de los estudiantes 
+• El estado civil 
+• Edad 
+• Número de pacientes en un consultorio 
+• Número de accidentes en un mes  
+Cualquier característica o propiedad general de una 
+población que sea posible medir con distintos valores 
+o describir con diferentes modalidades. 
+Cualitativas o categóricas 
+Describen atributos o características que no pueden medirse numéricamente, como el género, el estado civil 
+o el tipo de dieta. 
+Clasiﬁcación
+según su naturaleza 
+Nominales  
+No tienen un orden 
+predeterminado  
+ Ejemplos: 
+Color, sexo, ocupación, tipo de 
+sangre, religión.  
+No tienen un orden 
+predeterminado  
+ Ejemplos: 
+Nivel educativo, estrato 
+socioeconómico, grado de 
+satisfacción. 
+Ordinales  
+--- PAGE 2 ---
+Variables
+CUANTITATIVAS 
+• Permiten una escala numérica y las características de 
+los elementos son observados cuantitativamente a 
+través de una medida y una escala deﬁnidas.  
+Discretas    
+Surge de un conteo y toma 
+valores enteros   
+ Ejemplos: 
+Número de hijos, número de 
+trabajadores por oﬁcina, 
+número de estudiantes por 
+curso.  
+Surge de una medición y 
+puede tomar cualquier valor 
+dentro de un intervalo 
+ Ejemplos: 
+Temperatura, Ingreso, talla, 
+peso
+Continuas  
+Clasiﬁcación según el rol que
+desempeñan en la investigación  
+Variable independiente VI  
+• Es aquella que el investigador manipula 
+o controla para observar su efecto sobre 
+otra variable. 
+• Ejemplo: Tipo de fertilizante en un 
+experimento. 
+De control  
+• Factores que se mantienen constantes 
+para evitar sesgos. 
+• Ejemplo: Cantidad de agua, temperatura 
+del ambiente. 
+Variable dependiente VD  
+• Es la variable medida como resultado del 
+efecto de la variable independiente. 
+• Ejemplo: Altura de las plantas. 
+Interviniente/mediadora   
+• Explica el proceso por el cual la VI afecta 
+a la VD. 
+• Ejemplo: Liberación de endorﬁnas (entre 
+ejercicio y estrés). 
+Infografía
+Diseñado por: Departamento de Medios Educativos
+--- PAGE 3 ---
+Variables
+Infografía
+Diseñado por: Departamento de Medios Educativos
+Clasiﬁcación por su relación   
+Referencias Bibliográﬁcas    
+Correlacionales 
+• Miden asociación entre variables sin 
+manipulación. 
+• Ejemplo: Horas de estudio vs. nota en un 
+examen. 
+Experimentales 
+• La VI es manipulada para analizar su 
+impacto en la VD. 
+• Ejemplo: Efecto de un medicamento (VI) 
+en la presión arterial (VD). 
+EFFICIENCY
+Posada, G. (2016). Capítulo 1. Conceptos generales sobre estadística. En: Elementos básicos de 
+estadística descriptiva para el análisis de datos. Fundación Universitaria Luis Amigó. Fondo 
+Editorial Luis Amigó. Medellín. (pp. 11 – 21).  
+https://www.funlam.edu.co/uploads/fondoeditorial/120_Ebook-elementos_basicos.pdf 
+Suarez. M. (2025). Capítulo 1. Introducción a la estadística. En: Estadística descriptiva para todos: 
+Fundamentos y aplicaciones – Volumen I. (pp.11 – 51)  
+https://www.researchgate.net/publication/391908519_ESTADISTICA_DESCRIPTIVA_PARA_TODOS
+_FUNDAMENTOS_Y_APLICACIONES_VOLUMEN_I 

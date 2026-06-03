@@ -1,0 +1,1793 @@
+
+--- PAGE 1 ---
+Instrucciones Generales 
+del Curso
+ESTADÍSTICA DESCRIPTIVA
+--- PAGE 2 ---
+Mapa
+del Curso
+Video
+Presentación
+Foro
+Estadística Descriptiva
+Para el desarrollo del curso, tenga en cuenta las siguientes recomendaciones:  
+▪ Organice sus tiempos y prevea la articulación de las actividades académicas a 
+desarrollar, mediante el reconocimiento del aula virtual y lo establecido para el 
+curso en la Agenda de Avance de Aprendizaje - AAA.
+▪ Observe los recursos que describen en forma general el curso: mapa 
+conceptual y video de presentación del curso.   
+▪ Participe en el foro punto de encuentro, preséntese y comparta sus intereses 
+profesionales y expectativas frente al curso, dialogue con quienes encuentre 
+mayor aﬁnidad y fortalezca su proceso académico. 
+▪ Analice la rúbrica y revise el glosario del curso para tener claridad sobre los 
+alcances del aprendizaje en cada momento evaluativo. 
+▪ Elabore los entregables, siga las orientaciones del profesor y lo establecido en 
+la rúbrica del curso. 
+▪ Siga las instrucciones de los formatos establecidos, para la elaboración de 
+entregables: 
+• Entregable 1. Recolección de datos 
+• Entregable 2. Organización de datos 
+• Entregable 3. Análisis de datos 
+• Entregable 4. Interpretación de resultados 
+• Entregable 5. Presentación de resultados 
+Instrucciones
+generales
+Rúbrica de
+curso
+SyllabusGlosario
+--- PAGE 3 ---
+▪ Participe en los encuentros sincrónicos, clases en línea, tutorías y asesorías programadas por el Profesor.
+▪ Conforme equipo de estudio para desarrollar los entregables. Recuerde, las posibilidades y riqueza del 
+trabajo colaborativo.  También puede trabajar de manera individual. 
+▪ Consulte fuentes de información conﬁables publicadas en bases de datos indexadas y referencias 
+actualizadas. Considere los recursos de biblioteca y las bases de datos con las que cuenta la institución. 
+▪ Aplique las Normas APA edición vigente y apropie buenas prácticas de reconocimiento de derechos de 
+autor.   
+Condiciones formales de entrega
+Los entregables a desarrollar durante el curso, deben contemplar las siguientes 
+condiciones formales mínimas de entrega. 
+Entregable 1. (Recolección de datos)
+Desarrolle el entregable siguiendo las indicaciones del formato Entregable1_Recolección de datos suministrado 
+para su estructuración.  Lea con atención las instrucciones para su correcto diligenciamiento.  No modiﬁque ni 
+elimine elementos del formato.
+Deberá organizar todas y cada una de las actividades en un informe, por medio de un archivo en formato PDF y 
+debe cumplir con todas las condiciones formales de entrega: (portada, introducción, objetivos, conclusiones y 
+referencias bibliográﬁcas con normas APA).
+▪ Actividad 1. Organizador gráﬁco – mapa mental: un mapa mental es un diagrama que representa conceptos 
+relacionados a partir de un tema principal o palabra clave. El tema principal se ubica al centro y se expande 
+en todas direcciones con los conceptos relacionados – ideales para lluvias de ideas y organizar información 
+de manera espontánea.
+▪ Actividad 2. Contexto de la problemática: responda las preguntas orientadoras para que pueda 
+contextualizarse con la problemática de estudio. 
+▪ Actividad 3. Clasiﬁcación de variables: clasiﬁca todas las variables de la problemática de estudio según su 
+naturaleza. 
+▪ Actividad 4. Muestreo: realiza cálculos para calcular el tamaño de la muestra.
+Momento evaluativo de proceso - (40 %) 
+Entregable 1 
+Estadística Descriptiva
+--- PAGE 4 ---
+Tenga en cuenta: 
+▪ Aplicación de las Normas APA edición actualizada.
+▪ Redacción con lenguaje técnico, revisión gramatical y ortográﬁca.
+▪ Actividad de tipo individual 
+▪ Documento en formato PDF, denominado con la siguiente estructura:  Nombre_Apellido_Entregable_1
+▪ Nombre del archivo, sin utilizar caracteres especiales como tildes, ñ, entre otros.
+▪ Cada entregable equivale al 20% de la caliﬁcación total del curso.
+Criterios
+No entregó 
+la actividad
+0 puntos 1 punto 2 puntos 3 puntos 4 puntos 5 puntos %
+Desempeño 
+muy bajo 
+Desempeño 
+bajo 
+Desempeño 
+medio
+Desempeño 
+alto
+Desempeño 
+muy alto 
+Ponderación del 
+criterio sobre la 
+nota ﬁnal 
+Esquematiza   las 
+etapas de una 
+investigación 
+estadística 
+mediante un 
+mapa mental 
+No presenta el 
+mapa mental. 25%
+Rúbrica de evaluación entregable 1
+Deﬁne las etapas de 
+una investigación 
+estadística pero no 
+lo hace mediante 
+un mapa mental o 
+adjunta el enlace 
+donde se elaboró, 
+pero este solicita 
+acceso y no es 
+posible su 
+visualización.
+Lista una o dos 
+etapas de una 
+investigación 
+estadística con poca 
+relación de 
+conceptos. 
+Describe tres etapas 
+de una 
+investigación 
+estadística y 
+establece mediana 
+relación entre los 
+conceptos.
+Resume cuatro 
+etapas de una 
+investigación 
+estadística y 
+establece cierta 
+relación entre los 
+conceptos.
+Vincula las cinco 
+etapas de una 
+investigación 
+estadística y 
+presenta relaciones 
+signiﬁcativas entre 
+los conceptos.
+35%
+Argumenta el 
+contexto de la 
+problemática de 
+estudio mediante 
+fuentes 
+bibliográﬁcas para 
+dar respuesta a las 
+preguntas 
+orientadoras
+No responde las 
+preguntas 
+orientadoras.
+20%
+Responde las 
+preguntas 
+orientadoras, pero 
+solo desde su 
+opinión. 
+Reconoce algunos 
+aspectos de la 
+problemática 
+porque responde 
+entre una a tres de 
+las preguntas 
+orientadoras, pero 
+carece de datos, 
+cifras y referentes 
+bibliográﬁcos.
+Reconoce 
+medianamente la 
+problemática 
+dando respuesta a 
+cuatro de las 
+preguntas, pero no 
+presenta datos, 
+cifras estadísticas y 
+referentes 
+bibliográﬁcos.
+Reconoce la 
+problemática 
+dando respuesta a 
+cinco de las 
+preguntas 
+orientadoras con 
+claridad y justiﬁca 
+su respuesta 
+apoyada en datos y 
+cifras estadísticas, 
+pero no menciona 
+los referentes 
+bibliográﬁcos.
+Reconoce 
+exitosamente la 
+problemática 
+dando respuesta a 
+todas las preguntas 
+orientadoras con 
+claridad, coherencia 
+y justiﬁca su 
+respuesta apoyada 
+en datos, cifras 
+estadísticas y 
+menciona los 
+referentes 
+bibliográﬁcos.
+35%
+Categoriza las 
+variables que 
+intervienen en la 
+problemática de 
+estudio
+No realiza la 
+clasiﬁcación de las 
+variables. 25%
+Clasiﬁca 
+pertinentemente 
+entre 0 y 7 de las 
+variables de la 
+problemática de 
+estudio.
+Clasiﬁca 
+debidamente entre 
+8 y 12 de las 
+variables de la 
+problemática de 
+estudio. 
+Clasiﬁca 
+apropiadamente 
+entre 13 y 17 de las 
+variables de la 
+problemática de 
+estudio.  
+Clasiﬁca 
+adecuadamente 
+entre 18 y 22 de las 
+variables de la 
+problemática de 
+estudio. 
+Clasiﬁca 
+correctamente las 
+23
+variables de la 
+problemática de 
+estudio.
+Presenta el 
+informe con todas 
+las condiciones 
+formales de 
+entrega
+No presenta el 
+informe descriptivo. 5%
+El informe no 
+cumple con los 
+lineamientos 
+solicitados en las 
+condiciones 
+formales de 
+entrega. 
+El informe cumple 
+con una o dos   de 
+las condiciones 
+formales de 
+entrega.
+El informe cumple 
+con tres o cuatro de 
+las condiciones 
+formales de 
+entrega. 
+El informe cumple 
+adecuadamente 
+con cinco de las 
+condiciones 
+formales de 
+entrega.
+El informe cumple 
+correctamente con 
+todas las 
+condiciones 
+formales de 
+entrega.
+35%
+Resuelve los dos 
+ejercicios de 
+muestreo 
+mediante la 
+aplicación de 
+fórmulas 
+estadísticas 
+No presenta los dos 
+ejercicios de 
+muestreo.
+25%
+Resuelve uno de los 
+ejercicios de 
+muestreo, pero el 
+resultado es 
+incorrecto o no 
+presenta el 
+procedimiento 
+realizado. 
+Resuelve los dos 
+ejercicios, pero el 
+resultado es 
+incorrecto o no 
+presenta el 
+procedimiento 
+realizado.
+Resuelve los dos 
+ejercicios, pero uno 
+de ellos presenta 
+algunos errores de 
+procedimiento o de 
+cálculo por lo tanto 
+los valores del 
+tamaño de la 
+muestra son 
+incorrectos. 
+Resuelve los dos 
+ejercicios 
+presentando un 
+adecuado 
+procedimiento y el 
+cálculo del tamaño 
+de la muestra es 
+aproximado. 
+Resuelve 
+perfectamente   los 
+dos ejercicios 
+presentando un 
+adecuado 
+procedimiento y 
+calculo exacto del 
+tamaño de la 
+muestra.
+Estadística Descriptiva
+--- PAGE 5 ---
+Entregable 2. (Organización de datos)
+Desarrolle el entregable siguiendo las indicaciones del formato Entregable2_Organización de datos 
+suministrado para su estructuración.  Lea con atención las instrucciones para su correcto diligenciamiento.  No 
+modiﬁque ni elimine elementos del formato.
+Deberá organizar todas y cada una de las actividades en un informe, por medio de un archivo en formato PDF y 
+debe cumplir con todas las condiciones formales de entrega: (portada, introducción, objetivos, conclusiones y 
+referencias bibliográﬁcas con normas APA).
+▪ Actividad 1. Organizador gráﬁco cuadro sinóptico: un cuadro sinóptico – también conocido como mapa 
+sinóptico, y diagrama o esquema de llaves – es una forma visual de resumir y organizar ideas en temas, 
+subtemas y conceptos. Esta herramienta sirve para identiﬁcar la información más importante de un texto, y 
+así, comprenderlo mejor.
+▪ Actividad 2. Caracterización de Variables cualitativas Tabla de frecuencias: realiza una tabla de frecuencias 
+con una variable cualitativa.
+▪ Actividad 3. Diagramas estadísticos: representa la información de la tabla de frecuencias de manera gráﬁca.
+▪ Actividad 4. Tabla de contingencia de doble entrada: realiza una tabla de contingencias o de doble entrada, 
+con dos variables cualitativas. 
+▪ Actividad 5: Aplicaciones de la estadística en la Ingeniería de software: realiza un video en ingles sobre la 
+importancia de aprender estadística descriptiva para su formación profesional como futuro ingeniero de 
+software o que aplicaciones podría darle en su vida cotidiana, académica o laboral. 
+Entregable 2
+Tenga en cuenta: 
+▪ Aplicación de las Normas APA edición actualizada.
+▪ Redacción con lenguaje técnico, revisión gramatical y ortográﬁca.
+▪ Actividad de tipo individual 
+▪ Documento en formato PDF, denominado con la siguiente estructura:  Nombre_Apellido_Entregable_2
+▪ Nombre del archivo, sin utilizar caracteres especiales como tildes, ñ, entre otros.
+▪ Cada entregable equivale al 20% de la caliﬁcación total del curso.
+Estadística Descriptiva
+--- PAGE 6 ---
+Criterios
+No entregó 
+la actividad
+0 puntos 1 punto 2 puntos 3 puntos 4 puntos 5 puntos %
+Desempeño 
+muy bajo 
+Desempeño 
+bajo 
+Desempeño 
+medio
+Desempeño 
+alto
+Desempeño 
+muy alto 
+Ponderación del 
+criterio sobre la 
+nota ﬁnal 
+Rúbrica de evaluación entregable 2
+Asocia elementos 
+de la
+tabulación de 
+datos estadísticos, 
+frecuencias, tipos 
+de diagramas 
+mediante un 
+cuadro sinóptico 
+No presenta el 
+cuadro sinóptico. 20%
+Presenta elementos 
+de la tabulación de 
+datos estadísticos, 
+distribución de 
+frecuencias, tipos 
+de diagramas, pero 
+no lo hace 
+mediante un 
+cuadro sinóptico o 
+adjunta el enlace 
+donde se elaboró, 
+pero este solicita 
+acceso y no es 
+posible su 
+visualización.
+Lista solo elementos 
+de la tabulación de 
+datos relacionado 
+con frecuencias y 
+con poca relación 
+de conceptos. 
+Describe elementos 
+de la
+tabulación de datos 
+estadísticos, 
+frecuencias, tipos 
+de diagramas y 
+establece mediana 
+relación entre los 
+conceptos.
+Resume elementos 
+de la
+tabulación de datos 
+estadísticos, 
+frecuencias, tipos 
+de diagramas y 
+establece cierta 
+relación entre los 
+conceptos.
+Vincula elementos 
+de la
+tabulación de datos 
+estadísticos, 
+frecuencias, tipos 
+de diagramas y 
+presenta relaciones 
+signiﬁcativas entre 
+los conceptos.
+Caracteriza 
+variables 
+cualitativas 
+empleando tablas 
+de frecuencias 
+No presenta la tabla 
+de frecuencias. 20%
+Presenta la tabla de 
+frecuencias, pero no 
+caracterizo una 
+variable 
+cualitativa.
+Presenta la tabla de 
+frecuencias 
+caracterizando una 
+variable cualitativa 
+pero los cálculos de 
+las frecuencias 
+absoluta, relativa y 
+porcentual son 
+incorrectos. 
+Caracteriza 
+variables 
+cualitativas a través 
+del cálculo correcto 
+de la frecuencia 
+absoluta, pero se 
+calculó 
+incorrectamente la 
+frecuencia relativa y 
+la frecuencia 
+porcentual. 
+Caracteriza 
+variables 
+cualitativas a través 
+del cálculo correcto 
+de la frecuencia 
+absoluta y 
+frecuencia relativa, 
+pero se calculó 
+incorrectamente
+la frecuencia 
+porcentual.
+Caracteriza 
+variables 
+cualitativas a través 
+del cálculo correcto 
+de la frecuencia 
+absoluta, frecuencia 
+relativa y frecuencia 
+porcentual.
+Elabora diagramas 
+estadísticos y 
+presenta análisis 
+asociados a la 
+problemática de 
+estudio
+No presenta 
+diagramas 
+estadísticos.
+20%
+Elabora uno de los 
+diagramas 
+estadísticos y este 
+quedo de manera 
+incorrecta o no 
+presenta un análisis 
+asociado a la 
+problemática de 
+estudio. 
+Elabora   los dos 
+diagramas 
+estadísticos y estos 
+quedaron de 
+manera incorrecta o 
+no presenta un 
+análisis asociado a 
+la problemática de 
+estudio.
+Elabora los 
+diagramas 
+estadísticos, pero 
+uno de los dos 
+quedo de manera 
+incorrecta o 
+presenta un análisis 
+parcial o 
+incompleto 
+asociado a la 
+problemática de 
+estudio. 
+Elabora los dos 
+diagramas 
+estadísticos, pero 
+falto realizar un 
+análisis más 
+minucioso asociado 
+a la problemática 
+de estudio. 
+Elabora 
+correctamente los 
+dos diagramas 
+estadísticos y 
+presenta un análisis 
+completo y 
+detallado asociado 
+a la problemática 
+de estudio. 
+Esquematiza los 
+datos mediante 
+una tabla de 
+contingencia de 
+doble entrada
+No elabora la tabla 
+de contingencia de 
+doble entrada.
+15%
+Elabora la tabla de 
+contingencia de 
+doble entrada, pero 
+no emplea dos 
+variables 
+cualitativas.
+Elabora la tabla de 
+contingencia de 
+doble entrada, pero 
+esta quedo de 
+manera inadecuada 
+y no representa los 
+datos de manera 
+gráﬁca.
+Elabora la tabla de 
+contingencia de 
+doble entrada, 
+representa los datos 
+gráﬁcamente y no 
+presenta análisis.
+Elabora 
+adecuadamente la 
+tabla de 
+contingencia de 
+doble entrada, 
+representa los datos 
+gráﬁcamente, pero 
+falto realizar un 
+análisis más amplio. 
+Elabora 
+correctamente la 
+tabla de 
+contingencia de 
+doble entrada, 
+representa los datos 
+gráﬁcamente y
+presenta un análisis 
+completo y 
+detallado. 
+Presenta el 
+informe con todas 
+las condiciones 
+formales de 
+entrega
+No presenta el 
+informe descriptivo 5%
+El informe no 
+cumple con los 
+lineamientos 
+solicitados en las 
+condiciones 
+formales de 
+entrega. 
+El informe cumple 
+con una o dos   de 
+las condiciones 
+formales de 
+entrega.
+El informe cumple 
+con tres o cuatro de 
+las condiciones 
+formales de 
+entrega. 
+El informe cumple 
+adecuadamente 
+con cinco de las 
+condiciones 
+formales de 
+entrega.
+El informe cumple 
+correctamente con 
+todas las 
+condiciones 
+formales de 
+entrega.
+Sustenta las 
+aplicaciones de la 
+estadística en la 
+Ingeniería de 
+software mediante 
+un video en inglés
+No presenta el 
+enlace del video 20%
+Presenta el enlace 
+del video, pero este 
+no se puede 
+visualizar 
+correctamente.
+Presenta el enlace 
+del video, y este    
+cumple con pocas 
+de las condiciones 
+de entrega además 
+realiza su 
+presentación en 
+español fuera del 
+rango de tiempo 
+establecido.
+Presenta el enlace 
+del video, y este   
+cumple con algunas   
+de las condiciones 
+de entrega además 
+realiza su 
+presentación en 
+español dentro del 
+rango de tiempo 
+establecido.
+Presenta el enlace 
+del video y este 
+cumple con la 
+mayoría de las 
+condiciones de 
+entrega además 
+realiza su 
+presentación en 
+inglés fuera del 
+rango de tiempo 
+establecido.
+Presenta el enlace 
+del video y este 
+cumple con todas 
+las condiciones de 
+entrega además 
+realiza su 
+presentación en 
+inglés y está dentro 
+del rango de tiempo 
+establecido.
+Estadística Descriptiva
+--- PAGE 7 ---
+Entregable 3. (Análisis de datos)
+Desarrolle el entregable siguiendo las indicaciones del formato Entregable3_Ánalisis de datos suministrado para 
+su estructuración.  Lea con atención las instrucciones para su correcto diligenciamiento.  No modiﬁque ni elimine 
+elementos del formato.
+Deberá organizar todas y cada una de las actividades en un informe, por medio de un archivo en formato PDF y 
+debe cumplir con todas las condiciones formales de entrega: (portada, introducción, objetivos, conclusiones y 
+referencias bibliográﬁcas con normas APA).
+▪ Actividad 1. Organizador gráﬁco mapa conceptual: el mapa conceptual es un diagrama que ayuda a 
+entender un tema en especíﬁco al visualizar las relaciones entre las ideas y conceptos. Por lo general, las ideas 
+son representadas en nodos estructurados jerárquicamente y se conectan con palabras de enlace sobre las 
+líneas para explicar las relaciones.
+▪ Actividad 2. Medidas Univariantes - Variable Discreta: realiza cálculos para identiﬁcar las medidas 
+univariantes con la variable discreta y construye una tabla de datos no agrupados. 
+▪ Actividad 3. Medidas Univariantes - Variable Continua: realiza cálculos para identiﬁcar las medidas 
+univariantes con la variable continua y construye una tabla de datos agrupados.
+▪ Actividad 4: Relación de la situación problema con los ODS (Objetivos de Desarrollo Sostenible): elabora una 
+infografía en ingles en la cual pueda presentar como mejorar los indicadores de accidentalidad vial en 
+algunos departamentos de Colombia podría contribuir a los ODS (Objetivos de Desarrollo Sostenible) y con 
+cuales especíﬁcamente se podría relacionar.
+Entregable 3, 4 y 5
+Tenga en cuenta: 
+▪ Aplicación de las Normas APA edición actualizada.
+▪ Redacción con lenguaje técnico, revisión gramatical y ortográﬁca.
+▪ Actividad de tipo individual 
+▪ Documento en formato PDF, denominado con la siguiente estructura:  Nombre_Apellido_Entregable_3
+▪ Nombre del archivo, sin utilizar caracteres especiales como tildes, ñ, entre otros.
+▪ Cada entregable equivale al 20% de la caliﬁcación total del curso.
+Momento evaluativo de producto - (60 %)
+Estadística Descriptiva
+--- PAGE 8 ---
+Criterios
+No entregó 
+la actividad
+0 puntos 1 punto 2 puntos 3 puntos 4 puntos 5 puntos %
+Desempeño 
+muy bajo 
+Desempeño 
+bajo 
+Desempeño 
+medio
+Desempeño 
+alto
+Desempeño 
+muy alto 
+Ponderación del 
+criterio sobre la 
+nota ﬁnal 
+Diseña un mapa 
+conceptual con las 
+medidas 
+estadísticas 
+univariantes 
+No presenta el 
+mapa conceptual. 20%
+Rúbrica de evaluación entregable 3
+Presenta las 
+medidas 
+estadísticas 
+univariantes, pero 
+no lo hace 
+mediante un mapa 
+conceptual o 
+adjunta el enlace 
+donde se elaboró, 
+pero este solicita 
+acceso y no es 
+posible su 
+visualización.
+Lista algunas de las 
+medidas 
+estadísticas 
+univariantes y con 
+poca relación de 
+conceptos. 
+Describe elementos 
+de 
+las medidas 
+estadísticas 
+univariantes y 
+establece mediana 
+relación entre los 
+conceptos. 
+Resume las 
+medidas 
+estadísticas 
+univariantes y
+establece cierta 
+relación entre los 
+conceptos.
+Vincula las medidas 
+estadísticas 
+univariantes y 
+presenta relaciones 
+signiﬁcativas entre 
+los conceptos.
+Construye una 
+tabla de 
+frecuencia para 
+datos no 
+agrupados y 
+diagramas para la 
+variable discreta
+No construye la 
+tabla de frecuencias 
+para datos no 
+agrupados.
+10%
+Construye la tabla 
+de frecuencias para 
+datos no agrupados 
+con sus diagramas, 
+pero no lo hace con 
+una variable 
+discreta.
+Construye la tabla 
+de frecuencias para 
+datos no agrupados, 
+pero
+se evidencian 
+errores en algunos 
+de los valores y no 
+presenta los 
+diagramas.
+Construye 
+parcialmente la 
+tabla de frecuencias 
+para datos no 
+agrupados, ya que 
+se evidencian 
+errores en algunos 
+de los valores 
+reportados o en los 
+diagramas.
+Construye 
+adecuadamente la 
+tabla de frecuencias 
+para datos no 
+agrupados y 
+presenta uno de los 
+diagramas. 
+Construye 
+apropiadamente la 
+tabla de frecuencias 
+para datos no 
+agrupados y 
+presenta los dos 
+diagramas.
+Deduce las 
+medidas 
+univariantes para 
+la variable discreta
+No realiza los 
+cálculos para aplicar 
+las medidas 
+univariantes con la 
+variable discreta.  
+20%
+Aplico los cálculos 
+para las medidas 
+univariantes, pero 
+no lo realizo con 
+una variable 
+discreta.
+Aplica de forma 
+incorrecta los 
+cálculos para las 
+medidas 
+univariantes con la 
+variable discreta y 
+no interpreta los 
+resultados.
+Aplica de manera 
+parcial los cálculos 
+para las medidas 
+univariantes con la 
+variable discreta, 
+pero interpreta con 
+diﬁcultad   los 
+resultados.
+Aplica los cálculos 
+para las medidas 
+univariantes con la 
+variable discreta, 
+pero interpreta 
+aproximadamente 
+los resultados. 
+Aplica 
+correctamente 
+todos los cálculos 
+para reportar las 
+medidas 
+univariantes con la 
+variable discreta e 
+interpreta con 
+precisión los 
+resultados. 
+Construye una 
+tabla de 
+frecuencia para 
+datos agrupados y 
+diagramas para la 
+variable continua 
+No construye la 
+tabla de frecuencias 
+para datos 
+agrupados
+10%
+Construye la tabla 
+de frecuencias para 
+datos agrupados 
+con sus diagramas, 
+pero no lo hace con 
+una variable 
+continua.
+Construye la tabla 
+de frecuencias para 
+datos agrupados, 
+pero
+se evidencian 
+errores en algunos 
+de los valores y no 
+presenta los 
+diagramas.
+Construye 
+parcialmente la 
+tabla de frecuencias 
+para datos 
+agrupados, ya que 
+se evidencian 
+errores en algunos 
+de los valores 
+reportados o en los 
+diagramas.
+Construye 
+adecuadamente la 
+tabla de frecuencias 
+para datos 
+agrupados y 
+presenta uno de los 
+diagramas. 
+Construye 
+apropiadamente la 
+tabla de frecuencias 
+para datos 
+agrupados y 
+presenta los dos 
+diagramas.
+Presenta el 
+informe con todas 
+las condiciones 
+formales de 
+entrega 
+No presenta el 
+informe descriptivo
+5%
+El informe no 
+cumple con los 
+lineamientos 
+solicitados en las 
+condiciones 
+formales de 
+entrega. 
+El informe cumple 
+con una o dos   de 
+las condiciones 
+formales de 
+entrega.
+El informe cumple 
+con tres o cuatro de 
+las condiciones 
+formales de 
+entrega. 
+El informe cumple 
+adecuadamente 
+con cinco de las 
+condiciones 
+formales de 
+entrega.
+El informe cumple 
+correctamente con 
+todas las 
+condiciones 
+formales de 
+entrega.
+Deduce las 
+medidas 
+univariantes para 
+la variable 
+continua 
+No realiza los 
+cálculos para aplicar 
+las medidas 
+univariantes con la 
+variable continua. 
+20%
+Aplico los cálculos 
+para las medidas 
+univariantes, pero 
+no lo realizo con 
+una variable 
+continua.
+Aplica de forma 
+incorrecta los 
+cálculos para las 
+medidas 
+univariantes con la 
+variable continua y 
+no interpreta los 
+resultados.
+Aplica de manera 
+parcial los cálculos 
+para las medidas 
+univariantes con la 
+variable continua, 
+pero interpreta con 
+diﬁcultad   los 
+resultados.
+Aplica los cálculos 
+para las medidas 
+univariantes con la 
+variable continua, 
+pero interpreta 
+aproximadamente 
+los resultados.
+Aplica 
+correctamente 
+todos los cálculos 
+para reportar las 
+medidas 
+univariantes con la 
+variable continua e 
+interpreta con 
+precisión los 
+resultados. 
+Inﬁere cual es la 
+relación entre la 
+situación 
+problema con los 
+ODS (Objetivos de 
+Desarrollo 
+Sostenible) 
+mediante una 
+infografía en 
+ingles  
+No presenta la 
+infografía.
+15%
+Presenta la relación 
+de la situación 
+problema con los 
+ODS, pero no lo 
+hace mediante una 
+infografía o adjunta 
+un enlace donde se 
+elaboró, pero este 
+solicita acceso y no 
+es posible su 
+visualización.
+La infografía 
+presenta conceptos 
+generales y poco 
+precisos que no    
+permiten inferir la 
+relación de la 
+situación problema 
+con los ODS 
+además se presenta 
+en español. 
+La infografía 
+presenta cierta 
+claridad y mediana 
+precisión en los 
+conceptos que 
+permiten inferir 
+parcialmente la 
+relación de la 
+situación problema 
+con los ODS 
+además se presenta 
+en español.
+La infografía explica 
+con mayor claridad 
+y precisión los 
+conceptos que 
+permiten inferir la 
+situación problema 
+con los ODS 
+además se presenta 
+en inglés, pero no 
+incluye referentes 
+bibliográﬁcos. 
+La infografía 
+presenta conceptos 
+con completa 
+claridad y precisión 
+que permiten inferir 
+a profundidad la 
+situación problema 
+con los ODS 
+además se presenta 
+en inglés e incluye 
+referentes 
+bibliográﬁcos. 
+Estadística Descriptiva
+--- PAGE 9 ---
+Entregable 4. (Interpretación de resultados)
+Desarrolle el entregable siguiendo las indicaciones del formato Entregable4_Interpretación de resultados 
+suministrado para su estructuración.  Lea con atención las instrucciones para su correcto diligenciamiento.  No 
+modiﬁque ni elimine elementos del formato.
+Deberá organizar todas y cada una de las actividades en un informe, por medio de un archivo en formato PDF y 
+debe cumplir con todas las condiciones formales de entrega: (portada, introducción, objetivos, conclusiones y 
+referencias bibliográﬁcas con normas APA).
+▪ Actividad 1. Organizador gráﬁco diagrama de araña: un diagrama de araña es una técnica visual que se 
+utiliza para crear una lluvia de ideas. Tal como lo sugiere su nombre, en este diagrama, las ideas se 
+distribuyen de una forma algo similar a la de una araña. La idea principal se escribe en el centro y, desde allí, 
+se dibujan líneas en forma de ramiﬁcaciones para agregar más conceptos e ideas relacionadas.
+▪ Actividad 2. Aplicación de regresión y correlación: consulta un artículo nacional o internacional relacionado 
+con su carrera profesional como futuro ingeniero de software o una temática de su interés y realiza un breve 
+resumen en ingles compuesto por mínimo 250 palabras en inglés, donde destaque: título, autores, objetivos, 
+resultados y conclusiones del artículo.
+▪ Actividad 3. Ejercicio de aplicación: resuelve un ejercicio aplicando la regresión y correlación. 
+▪ Actividad 4. Regresión y correlación lineal simple: identiﬁca parámetros de la situación problema aplicando 
+regresión y correlación lineal. 
+▪ Actividad 5. Regresión y correlación múltiple: identiﬁca parámetros de la situación problema aplicando 
+regresión y correlación lineal múltiple. 
+Tenga en cuenta: 
+▪ Aplicación de las Normas APA edición actualizada.
+▪ Redacción con lenguaje técnico, revisión gramatical y ortográﬁca.
+▪ Actividad de tipo individual
+▪ Documento en formato PDF denominado con la siguiente estructura:  Nombre_Apellido_Entregable_4
+▪ Nombre del archivo, sin utilizar caracteres especiales como tildes, ñ, entre otros.
+▪ Cada entregable equivale al 20% de la caliﬁcación total del curso.
+Estadística DescriptivaEstadística Descriptiva
+--- PAGE 10 ---
+Criterios
+No entregó 
+la actividad
+0 puntos 1 punto 2 puntos 3 puntos 4 puntos 5 puntos %
+Desempeño 
+muy bajo 
+Desempeño 
+bajo 
+Desempeño 
+medio
+Desempeño 
+alto
+Desempeño 
+muy alto 
+Ponderación del 
+criterio sobre la 
+nota ﬁnal 
+Crea un diagrama 
+de araña con las 
+medidas 
+estadísticas 
+bivariantes y 
+establece 
+relaciones 
+signiﬁcativas entre 
+los conceptos
+No presenta el 
+diagrama de araña. 20%
+Rúbrica de evaluación entregable 4
+Presenta las 
+medidas 
+estadísticas 
+bivariantes, pero no 
+lo hace mediante 
+un diagrama de 
+araña o adjunta el 
+enlace donde se 
+elaboró, pero este 
+solicita acceso y no 
+es posible su 
+visualización.
+Lista algunas de las 
+medidas 
+estadísticas 
+bivariantes y con 
+poca relación de 
+conceptos. 
+Describe elementos 
+de 
+las medidas 
+estadísticas 
+bivariantes y 
+establece mediana 
+relación entre los 
+conceptos. 
+Resume las 
+medidas 
+estadísticas 
+bivariantes y
+establece cierta 
+relación entre los 
+conceptos.
+Vincula las medidas 
+estadísticas 
+bivariantes y 
+presenta relaciones 
+signiﬁcativas entre 
+los conceptos.
+Técnicas de 
+Regresión y 
+correlación simple 
+con variables de la 
+situación 
+problema 
+No presenta la 
+actividad aplicando 
+las técnicas de 
+regresión y 
+correlación simple.
+20%
+Aplica las técnicas 
+de regresión y 
+correlación simple 
+pero no lo hace con 
+dos variables 
+cuantitativas. 
+Calcula 
+correctamente uno 
+de los parámetros 
+solicitados de 
+Regresión y 
+correlación lineal 
+con variables de la 
+situación problema. 
+Calcula 
+correctamente dos 
+de los parámetros 
+solicitados de 
+Regresión y 
+correlación lineal 
+con variables de la 
+situación problema. 
+Calcula 
+correctamente tres 
+de los parámetros 
+solicitados de 
+Regresión y 
+correlación lineal 
+con variables de la 
+situación problema.
+Calcula 
+correctamente 
+todos los 
+parámetros 
+solicitados de 
+Regresión y 
+correlación lineal 
+con variables de la 
+situación problema.
+Técnicas de 
+Regresión y 
+correlación 
+múltiple con 
+variables de la 
+situación 
+problema 
+No presenta la 
+actividad aplicando 
+las técnicas de 
+regresión y 
+correlación 
+múltiple. 
+20%
+Aplica las técnicas 
+de regresión y 
+correlación múltiple 
+pero no lo hace con 
+dos variables 
+cuantitativas. 
+Calcula 
+correctamente uno 
+de los parámetros 
+solicitados de 
+Regresión y 
+correlación múltiple 
+con variables de la 
+situación problema. 
+Calcula 
+correctamente dos 
+de los parámetros 
+solicitados de 
+Regresión y 
+correlación múltiple 
+con variables de la 
+situación problema. 
+Calcula 
+correctamente tres 
+de los parámetros 
+solicitados de 
+Regresión y 
+correlación múltiple 
+con variables de la 
+situación problema.
+Calcula 
+correctamente 
+todos los 
+parámetros 
+solicitados de 
+Regresión y 
+correlación múltiple 
+con variables de la 
+situación problema.
+Presenta el 
+informe con todas 
+las condiciones 
+formales de 
+entrega
+No presenta el 
+informe descriptivo 5%
+El informe no 
+cumple con los 
+lineamientos 
+solicitados en las 
+condiciones 
+formales de 
+entrega.
+El informe cumple 
+con una o dos   de 
+las condiciones 
+formales de 
+entrega.
+El informe cumple 
+con tres o cuatro de 
+las condiciones 
+formales de 
+entrega. 
+El informe cumple 
+adecuadamente 
+con cinco de las 
+condiciones 
+formales de 
+entrega.
+El informe cumple 
+correctamente con 
+todas las 
+condiciones 
+formales de 
+entrega.
+Deduce los 
+parámetros de las 
+medidas 
+bivariantes en el 
+ejercicio de 
+aplicación
+No presenta el 
+ejercicio de 
+aplicación. 
+10%
+Calcula 
+incorrectamente los 
+parámetros 
+solicitados en el 
+ejercicio práctico de 
+Regresión y 
+correlación lineal.
+Calcula 
+correctamente uno 
+de los parámetros 
+solicitados en el 
+ejercicio práctico de 
+Regresión y 
+correlación lineal.
+Calcula 
+correctamente dos 
+de los parámetros 
+solicitados en el 
+ejercicio práctico de 
+Regresión y 
+correlación lineal.
+Calcula 
+correctamente tres 
+de los parámetros 
+solicitados en el 
+ejercicio práctico de 
+Regresión y 
+correlación lineal.
+Calcula 
+correctamente 
+todos los 
+parámetros 
+solicitados en el 
+ejercicio práctico de 
+Regresión y 
+correlación lineal. 
+Investiga un 
+artículo donde se 
+haya aplicado la 
+regresión y 
+correlación y 
+realiza un 
+resumen en ingles 
+que cumple con 
+todas las 
+condiciones de 
+presentación
+No entrega el 
+resumen con base a 
+un artículo donde 
+se haya aplicado la 
+regresión y 
+correlación.
+25%
+Realizo el resumen 
+del articulo y 
+cumple con todos 
+los parámetros de 
+entrega, pero el 
+articulo elegido no 
+muestra la 
+aplicación de 
+regresión y 
+correlación lineal. 
+Realizó el resumen 
+del artículo donde 
+se emplea regresión 
+y correlación lineal y 
+aunque cumple con 
+la cantidad mínima 
+de palabras este se 
+presenta en 
+español. 
+Realizó el resumen 
+del artículo donde 
+se emplea regresión 
+y correlación lineal 
+en idioma inglés y 
+aunque cumple con 
+la cantidad mínima 
+de palabras no 
+contiene todos los 
+elementos 
+solicitados 
+(objetivos, 
+resultados y 
+conclusiones). 
+Realizó 
+correctamente el 
+resumen del 
+artículo 
+presentando 
+objetivos, resultados 
+y conclusiones 
+donde se emplea 
+regresión y 
+correlación lineal en 
+idioma inglés, pero 
+no cumple con la 
+cantidad mínima de 
+palabras. 
+Realizó 
+correctamente el 
+resumen del 
+artículo 
+presentando 
+objetivos, resultados 
+y conclusiones 
+donde se emplea 
+regresión y 
+correlación lineal en 
+idioma inglés y 
+cumple con la 
+cantidad mínima de 
+palabras. 
+Estadística Descriptiva
+--- PAGE 11 ---
+Entregable 5. (Presentación de resultados)
+Desarrolle el entregable siguiendo las indicaciones del formato Entregable5_Presentación de resultados 
+suministrado para su estructuración.  Lea con atención las instrucciones para su correcto diligenciamiento.  No 
+modiﬁque ni elimine elementos del formato.
+Deberá organizar todas y cada una de las actividades en un informe, por medio de un archivo en formato PDF y 
+debe cumplir con todas las condiciones formales de entrega: (portada, introducción, objetivos, conclusiones y 
+referencias bibliográﬁcas con normas APA).
+▪ Actividad 1. Variable cualitativa: caracteriza variables cualitativas de la situación problema. 
+▪ Actividad 2. Variable cuantitativa discreta: calcula medidas univariantes de variables discretas de la situación 
+problema. 
+▪ Actividad 3. Variable cuantitativa continua: calcula medidas univariantes de variables continuas de la 
+situación problema.
+▪ Actividad 4. Regresión y correlación entre variables cuantitativas: identiﬁcar parámetros de regresión y 
+correlación de variables cuantitativas de la situación problema. 
+▪ Actividad 5. Análisis y propuesta de solución a la problemática: realiza análisis con base en todos los datos 
+obtenidos y propone alternativas de solución a la problemática.
+Tenga en cuenta: 
+▪ Aplicación de las Normas APA edición actualizada.
+▪ Redacción con lenguaje técnico, revisión gramatical y ortográﬁca.
+▪ Actividad de tipo grupal (máximo tres estudiantes).
+▪ Documento en formato PDF, denominado con la siguiente estructura:  Nombre_Apellido_Entregable_5
+▪ Nombre del archivo, sin utilizar caracteres especiales como tildes, ñ, entre otros.
+▪ Cada entregable equivale al 20% de la caliﬁcación total del curso.
+Estadística DescriptivaEstadística Descriptiva
+--- PAGE 12 ---
+Criterios
+No entregó 
+la actividad
+0 puntos 1 punto 2 puntos 3 puntos 4 puntos 5 puntos %
+Desempeño 
+muy bajo 
+Desempeño 
+bajo 
+Desempeño 
+medio
+Desempeño 
+alto
+Desempeño 
+muy alto 
+Ponderación del 
+criterio sobre la 
+nota ﬁnal 
+Métodos y 
+técnicas de la 
+estadística 
+descriptiva para 
+caracterizar y 
+representar 
+variables 
+cualitativas de 
+manera grupal
+No caracteriza y 
+representa variables 
+cualitativas. 15%
+Rúbrica de evaluación entregable 5
+Caracteriza y 
+representa 
+variables, pero no 
+son cualitativas. 
+Caracteriza y 
+representa variables 
+cualitativas 
+mediante tabla de 
+frecuencias, 
+diagramas y tablas 
+de contingencia, 
+pero realiza la 
+entrega de manera 
+individual.
+Caracterizan y 
+representa variables 
+cualitativas 
+mediante tabla de 
+frecuencias, pero no 
+presentan   
+diagramas ni la 
+tabla de 
+contingencia y 
+realizan la entrega 
+de manera grupal. 
+Caracterizan y 
+representan 
+variables 
+cualitativas 
+mediante tabla de 
+frecuencias y 
+diagramas, pero no 
+elaboraron la tabla 
+de contingencia y 
+realizan la entrega 
+de manera grupal.
+Validan y 
+representan 
+correctamente 
+variables 
+cualitativas 
+mediante tabla de 
+frecuencias, 
+diagramas y tablas 
+de contingencia de 
+manera grupal.
+Medidas 
+estadísticas 
+univariantes para 
+variables discretas 
+de manera grupal
+No procesa los 
+datos para 
+identiﬁcar y aplicar 
+las medidas 
+univariantes para 
+variables discretas. 
+20%
+Aplica(n) las 
+medidas 
+estadísticas 
+univariantes, pero 
+no lo hace(n) con 
+una variable 
+discreta. 
+Aplica todas las 
+medidas 
+estadísticas 
+univariantes, pero 
+realiza la entrega de 
+manera individual.
+Aplican 
+inadecuadamente 
+las medidas 
+estadísticas 
+univariantes, a 
+través del desarrollo 
+de una variable 
+cuantitativa discreta 
+de manera grupal.
+Aplican de manera 
+sobresaliente las 
+medidas 
+estadísticas 
+univariantes, a 
+través del desarrollo 
+de una variable 
+cuantitativa discreta 
+de manera grupal.
+Aplican 
+correctamente las 
+medidas 
+estadísticas 
+univariantes, a 
+través del desarrollo 
+de una variable 
+cuantitativa discreta 
+de manera grupal.
+Medidas 
+estadísticas 
+univariantes para 
+variables 
+continuas de 
+manera grupal
+No procesa los 
+datos para 
+identiﬁcar y aplicar 
+las medidas 
+univariantes para 
+variables continuas. 
+20%
+Aplica(n) las 
+medidas 
+estadísticas 
+univariantes, pero 
+no lo hace(n) con 
+una variable 
+continua. 
+Aplica todas las 
+medidas 
+estadísticas 
+univariantes, pero 
+realiza la entrega de 
+manera individual.
+Aplican 
+inadecuadamente 
+las medidas 
+estadísticas 
+univariantes, a 
+través del desarrollo 
+de una variable 
+cuantitativa 
+continua de manera 
+grupal.
+Aplican de manera 
+sobresaliente las 
+medidas 
+estadísticas 
+univariantes, a 
+través del desarrollo 
+de una variable 
+cuantitativa 
+continua de manera 
+grupal.
+Aplican 
+correctamente las 
+medidas 
+estadísticas 
+univariantes, a 
+través del desarrollo 
+de una variable 
+cuantitativa 
+continua de manera 
+grupal.
+Alternativas 
+innovadoras de 
+solución a la 
+problemática de 
+manera grupal
+No propone y 
+analiza una 
+alternativa de 
+solución a la 
+problemática. 
+20%
+Propone(n) una 
+alternativa de 
+solución que no se 
+fundamenta en los 
+análisis estadísticos 
+realizados.
+Propone una 
+alternativa de 
+solución, que se 
+fundamenta en los 
+análisis estadísticos 
+realizados, pero 
+realiza la entrega de 
+manera individual.
+Proponen una 
+alternativa de 
+solución, que se 
+fundamenta en 
+pocos de los análisis 
+estadísticos 
+realizados de 
+manera grupal.
+Proponen una 
+alternativa de 
+solución, que se 
+fundamenta en 
+algunos de los 
+análisis estadísticos 
+realizados de 
+manera grupal.
+Crea una alternativa 
+de solución, que se 
+fundamenta en 
+todos los análisis 
+estadísticos 
+realizados de 
+manera grupal. 
+Presenta el 
+informe con todas 
+las condiciones 
+formales de 
+entrega 
+No presenta el 
+informe descriptivo 5%
+El informe no 
+cumple con los 
+lineamientos 
+solicitados en las 
+condiciones 
+formales de 
+entrega. 
+El informe cumple 
+con una o dos   de 
+las condiciones 
+formales de 
+entrega.
+El informe cumple 
+con tres o cuatro de 
+las condiciones 
+formales de 
+entrega. 
+El informe cumple 
+adecuadamente 
+con cinco de las 
+condiciones 
+formales de 
+entrega.
+El informe cumple 
+correctamente con 
+todas las 
+condiciones 
+formales de 
+entrega.
+Medidas 
+estadísticas 
+bivariantes de 
+manera grupal
+No procesa los 
+datos para 
+identiﬁcar y aplicar 
+las medidas 
+bivariantes.
+20%
+Aplica(n) las 
+medidas 
+estadísticas 
+bivariantes, pero no 
+lo hace(n) con dos 
+variables 
+cuantitativas. 
+Aplica todas las 
+medidas 
+estadísticas 
+bivariantes, pero 
+realiza la entrega de 
+manera individual.
+Aplican 
+inadecuadamente 
+las medidas 
+estadísticas 
+bivariantes de 
+manera grupal.
+Aplican de manera 
+sobresaliente las 
+medidas 
+estadísticas 
+bivariantes de 
+manera grupal.
+Aplican 
+correctamente las 
+medidas 
+estadísticas 
+bivariantes de 
+manera grupal.
+Estadística Descriptiva

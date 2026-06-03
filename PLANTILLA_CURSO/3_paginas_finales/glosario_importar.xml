@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GLOSSARY>
+  <INFO>
+    <NAME>Glosario de Verbos del Curso</NAME>
+    <INTRO>Importación automática del Glosario de Verbos de Rúbricas.</INTRO>
+  </INFO>
+  <CATEGORIES>
+    <CATEGORY>
+      <NAME>SABER</NAME>
+      <USEDYNALINK>0</USEDYNALINK>
+    </CATEGORY>
+    <CATEGORY>
+      <NAME>SER</NAME>
+      <USEDYNALINK>0</USEDYNALINK>
+    </CATEGORY>
+    <CATEGORY>
+      <NAME>HACER</NAME>
+      <USEDYNALINK>0</USEDYNALINK>
+    </CATEGORY>
+  </CATEGORIES>
+  <ENTRIES>
+    <ENTRY>
+      <CONCEPT>Analizar</CONCEPT>
+      <DEFINITION><![CDATA[
+<table class="table table-striped table-bordered">
+    <tbody>
+        <tr>
+            <th style="text-align:center;">DIMENSIÓN</th>
+            <th style="text-align:center;">VERBO</th>
+            <th style="text-align:center;">ACEPCIÓN</th>
+            <th style="text-align:center;">FUENTE</th>
+        </tr>
+        <tr>
+            <td>Ser</td>
+            <td>Analizar</td>
+            <td>Estudiar o examinar algo, separando o considerando por separado sus partes.</td>
+            <td>María Moliner, Diccionario del Uso del Español, Edición 1997.</td>
+        </tr>
+    </tbody>
+</table>
+<br>
+<p></p>
+      ]]></DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>0</USEDYNALINK>
+      <CASESENSITIVE>0</CASESENSITIVE>
+      <FULLMATCH>0</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+      <CATEGORIES>
+        <CATEGORY>SER</CATEGORY>
+      </CATEGORIES>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>Asociar</CONCEPT>
+      <DEFINITION><![CDATA[
+<table class="table table-striped table-bordered">
+    <tbody>
+        <tr>
+            <th style="text-align:center;">DIMENSIÓN</th>
+            <th style="text-align:center;">VERBO</th>
+            <th style="text-align:center;">ACEPCIÓN</th>
+            <th style="text-align:center;">FUENTE</th>
+        </tr>
+        <tr>
+            <td>Saber</td>
+            <td>Asociar</td>
+            <td>Relacionar. Establecer una relación o enlace no físico entre ideas, recuerdos,sucesos.</td>
+            <td>María Moliner, Diccionario del Uso del Español, Edición 1997</td>
+        </tr>
+    </tbody>
+</table>
+<br>
+<p></p>
+      ]]></DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>0</USEDYNALINK>
+      <CASESENSITIVE>0</CASESENSITIVE>
+      <FULLMATCH>0</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+      <CATEGORIES>
+        <CATEGORY>SABER</CATEGORY>
+      </CATEGORIES>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>Comprobar</CONCEPT>
+      <DEFINITION><![CDATA[
+<table class="table table-striped table-bordered">
+    <tbody>
+        <tr>
+            <th style="text-align:center;">DIMENSIÓN</th>
+            <th style="text-align:center;">VERBO</th>
+            <th style="text-align:center;">ACEPCIÓN</th>
+            <th style="text-align:center;">FUENTE</th>
+        </tr>
+        <tr>
+            <td>Ser</td>
+            <td>Comprobar</td>
+            <td>Revisar o analizar alguna cosa con el fin de confirmar o corroborar su
+veracidad, existencia o exactitud.</td>
+            <td>Diccionario de la Rae.</td>
+        </tr>
+    </tbody>
+</table>
+<br>
+<p></p>
+      ]]></DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>0</USEDYNALINK>
+      <CASESENSITIVE>0</CASESENSITIVE>
+      <FULLMATCH>0</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+      <CATEGORIES>
+        <CATEGORY>SER</CATEGORY>
+      </CATEGORIES>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>Crear</CONCEPT>
+      <DEFINITION><![CDATA[
+<table class="table table-striped table-bordered">
+    <tbody>
+        <tr>
+            <th style="text-align:center;">DIMENSIÓN</th>
+            <th style="text-align:center;">VERBO</th>
+            <th style="text-align:center;">ACEPCIÓN</th>
+            <th style="text-align:center;">FUENTE</th>
+        </tr>
+        <tr>
+            <td>Hacer</td>
+            <td>Crear</td>
+            <td>Establecer, fundar, introducir por vez primera algo; hacerlo nacer o
+darle vida, en sentido figurado.</td>
+            <td>Real Academia Española.</td>
+        </tr>
+    </tbody>
+</table>
+<br>
+<p></p>
+      ]]></DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>0</USEDYNALINK>
+      <CASESENSITIVE>0</CASESENSITIVE>
+      <FULLMATCH>0</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+      <CATEGORIES>
+        <CATEGORY>HACER</CATEGORY>
+      </CATEGORIES>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>Cumplir</CONCEPT>
+      <DEFINITION><![CDATA[
+<table class="table table-striped table-bordered">
+    <tbody>
+        <tr>
+            <th style="text-align:center;">DIMENSIÓN</th>
+            <th style="text-align:center;">VERBO</th>
+            <th style="text-align:center;">ACEPCIÓN</th>
+            <th style="text-align:center;">FUENTE</th>
+        </tr>
+        <tr>
+            <td>Hacer</td>
+            <td>Cumplir</td>
+            <td>Realizar algo que ya había sido convenido como un compromiso, un plazo.</td>
+            <td>María Moliner, Diccionario del Uso del Español, Edición 1997.</td>
+        </tr>
+    </tbody>
+</table>
+<br>
+<p></p>
+      ]]></DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>0</USEDYNALINK>
+      <CASESENSITIVE>0</CASESENSITIVE>
+      <FULLMATCH>0</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+      <CATEGORIES>
+        <CATEGORY>HACER</CATEGORY>
+      </CATEGORIES>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>Describir</CONCEPT>
+      <DEFINITION><![CDATA[
+<table class="table table-striped table-bordered">
+    <tbody>
+        <tr>
+            <th style="text-align:center;">DIMENSIÓN</th>
+            <th style="text-align:center;">VERBO</th>
+            <th style="text-align:center;">ACEPCIÓN</th>
+            <th style="text-align:center;">FUENTE</th>
+        </tr>
+        <tr>
+            <td>Saber</td>
+            <td>Describir</td>
+            <td>Delinear, dibujar, figurar una cosa, representándola de modo que dé cabal ideal de ella.</td>
+            <td>María Moliner, Diccionario del Uso del Español, Edición 1997.</td>
+        </tr>
+    </tbody>
+</table>
+<br>
+<p></p>
+      ]]></DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>0</USEDYNALINK>
+      <CASESENSITIVE>0</CASESENSITIVE>
+      <FULLMATCH>0</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+      <CATEGORIES>
+        <CATEGORY>SABER</CATEGORY>
+      </CATEGORIES>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>Determinar</CONCEPT>
+      <DEFINITION><![CDATA[
+<table class="table table-striped table-bordered">
+    <tbody>
+        <tr>
+            <th style="text-align:center;">DIMENSIÓN</th>
+            <th style="text-align:center;">VERBO</th>
+            <th style="text-align:center;">ACEPCIÓN</th>
+            <th style="text-align:center;">FUENTE</th>
+        </tr>
+        <tr>
+            <td>Ser</td>
+            <td>Determinar</td>
+            <td>Tomar la decisión de hacer la cosa que se expresa o hacer que alguien
+tome una decisión, expresar lo que debe hacerse.</td>
+            <td>Real Academia Española.</td>
+        </tr>
+    </tbody>
+</table>
+<br>
+<p></p>
+      ]]></DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>0</USEDYNALINK>
+      <CASESENSITIVE>0</CASESENSITIVE>
+      <FULLMATCH>0</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+      <CATEGORIES>
+        <CATEGORY>SER</CATEGORY>
+      </CATEGORIES>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>Examinar</CONCEPT>
+      <DEFINITION><![CDATA[
+<table class="table table-striped table-bordered">
+    <tbody>
+        <tr>
+            <th style="text-align:center;">DIMENSIÓN</th>
+            <th style="text-align:center;">VERBO</th>
+            <th style="text-align:center;">ACEPCIÓN</th>
+            <th style="text-align:center;">FUENTE</th>
+        </tr>
+        <tr>
+            <td>Hacer</td>
+            <td>Examinar</td>
+            <td>Investigar con diligencia y cuidado una cosa.</td>
+            <td>Real Academia Española.</td>
+        </tr>
+    </tbody>
+</table>
+<br>
+<p></p>
+      ]]></DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>0</USEDYNALINK>
+      <CASESENSITIVE>0</CASESENSITIVE>
+      <FULLMATCH>0</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+      <CATEGORIES>
+        <CATEGORY>HACER</CATEGORY>
+      </CATEGORIES>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>Explorar</CONCEPT>
+      <DEFINITION><![CDATA[
+<table class="table table-striped table-bordered">
+    <tbody>
+        <tr>
+            <th style="text-align:center;">DIMENSIÓN</th>
+            <th style="text-align:center;">VERBO</th>
+            <th style="text-align:center;">ACEPCIÓN</th>
+            <th style="text-align:center;">FUENTE</th>
+        </tr>
+        <tr>
+            <td>Hacer</td>
+            <td>Explorar</td>
+            <td>Examinar o analizar con detenimiento algo para conocerlo mejor y,
+generalmente, obrar en consecuencia.</td>
+            <td>Acepción 1: Rae. Acepción 2:Maria Moliner (3Ra Version, 2009). Acepción 2: Lexico (Oxford).</td>
+        </tr>
+    </tbody>
+</table>
+<br>
+<p></p>
+      ]]></DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>0</USEDYNALINK>
+      <CASESENSITIVE>0</CASESENSITIVE>
+      <FULLMATCH>0</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+      <CATEGORIES>
+        <CATEGORY>HACER</CATEGORY>
+      </CATEGORIES>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>Exponer</CONCEPT>
+      <DEFINITION><![CDATA[
+<table class="table table-striped table-bordered">
+    <tbody>
+        <tr>
+            <th style="text-align:center;">DIMENSIÓN</th>
+            <th style="text-align:center;">VERBO</th>
+            <th style="text-align:center;">ACEPCIÓN</th>
+            <th style="text-align:center;">FUENTE</th>
+        </tr>
+        <tr>
+            <td>Saber</td>
+            <td>Exponer</td>
+            <td>Acción de presentar algo de forma clara y detallada ante los demás, ya sea para enseñar, informar o argumentar</td>
+            <td>María Moliner, Diccionario del Uso del Español, Edición 1997.</td>
+        </tr>
+    </tbody>
+</table>
+<br>
+<p></p>
+      ]]></DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>0</USEDYNALINK>
+      <CASESENSITIVE>0</CASESENSITIVE>
+      <FULLMATCH>0</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+      <CATEGORIES>
+        <CATEGORY>SABER</CATEGORY>
+      </CATEGORIES>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>Generar</CONCEPT>
+      <DEFINITION><![CDATA[
+<table class="table table-striped table-bordered">
+    <tbody>
+        <tr>
+            <th style="text-align:center;">DIMENSIÓN</th>
+            <th style="text-align:center;">VERBO</th>
+            <th style="text-align:center;">ACEPCIÓN</th>
+            <th style="text-align:center;">FUENTE</th>
+        </tr>
+        <tr>
+            <td>Hacer</td>
+            <td>Generar</td>
+            <td>Producir una cosa. Crear, dar origen.</td>
+            <td>María Moliner, Diccionario del Uso del Español, Edición 1997.</td>
+        </tr>
+    </tbody>
+</table>
+<br>
+<p></p>
+      ]]></DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>0</USEDYNALINK>
+      <CASESENSITIVE>0</CASESENSITIVE>
+      <FULLMATCH>0</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+      <CATEGORIES>
+        <CATEGORY>HACER</CATEGORY>
+      </CATEGORIES>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>Identificar</CONCEPT>
+      <DEFINITION><![CDATA[
+<table class="table table-striped table-bordered">
+    <tbody>
+        <tr>
+            <th style="text-align:center;">DIMENSIÓN</th>
+            <th style="text-align:center;">VERBO</th>
+            <th style="text-align:center;">ACEPCIÓN</th>
+            <th style="text-align:center;">FUENTE</th>
+        </tr>
+        <tr>
+            <td>Saber</td>
+            <td>Identificar</td>
+            <td>1. Identificar como. “Reconocer”. Comprobar que una persona o una cosa es la misma conocida en otras circunstancias o de la que se poseen ciertos datos. Establecer la identidad de una persona.</td>
+            <td>María Moliner, Diccionario del Uso del Español, Edición 1997.</td>
+        </tr>
+    </tbody>
+</table>
+<br>
+<p></p>
+      ]]></DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>0</USEDYNALINK>
+      <CASESENSITIVE>0</CASESENSITIVE>
+      <FULLMATCH>0</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+      <CATEGORIES>
+        <CATEGORY>SABER</CATEGORY>
+      </CATEGORIES>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>Indagar</CONCEPT>
+      <DEFINITION><![CDATA[
+<table class="table table-striped table-bordered">
+    <tbody>
+        <tr>
+            <th style="text-align:center;">DIMENSIÓN</th>
+            <th style="text-align:center;">VERBO</th>
+            <th style="text-align:center;">ACEPCIÓN</th>
+            <th style="text-align:center;">FUENTE</th>
+        </tr>
+        <tr>
+            <td>Ser</td>
+            <td>Indagar</td>
+            <td>Tratar de llegar al conocimiento de una cosa reflexionando sobre ella o por conjeturas y pruebas.</td>
+            <td>Real Academia Española</td>
+        </tr>
+    </tbody>
+</table>
+<br>
+<p></p>
+      ]]></DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>0</USEDYNALINK>
+      <CASESENSITIVE>0</CASESENSITIVE>
+      <FULLMATCH>0</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+      <CATEGORIES>
+        <CATEGORY>SER</CATEGORY>
+      </CATEGORIES>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>Listar</CONCEPT>
+      <DEFINITION><![CDATA[
+<table class="table table-striped table-bordered">
+    <tbody>
+        <tr>
+            <th style="text-align:center;">DIMENSIÓN</th>
+            <th style="text-align:center;">VERBO</th>
+            <th style="text-align:center;">ACEPCIÓN</th>
+            <th style="text-align:center;">FUENTE</th>
+        </tr>
+        <tr>
+            <td>Saber</td>
+            <td>Listar</td>
+            <td>Incluir en lista. Crear secuencia consecutiva de nombres de cosas, situaciones o fenómenos.</td>
+            <td>María Moliner, Diccionario del Uso del Español, Edición 1997. y Aportes del Equipo de Dngp.</td>
+        </tr>
+    </tbody>
+</table>
+<br>
+<p></p>
+      ]]></DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>0</USEDYNALINK>
+      <CASESENSITIVE>0</CASESENSITIVE>
+      <FULLMATCH>0</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+      <CATEGORIES>
+        <CATEGORY>SABER</CATEGORY>
+      </CATEGORIES>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>Percibir</CONCEPT>
+      <DEFINITION><![CDATA[
+<table class="table table-striped table-bordered">
+    <tbody>
+        <tr>
+            <th style="text-align:center;">DIMENSIÓN</th>
+            <th style="text-align:center;">VERBO</th>
+            <th style="text-align:center;">ACEPCIÓN</th>
+            <th style="text-align:center;">FUENTE</th>
+        </tr>
+        <tr>
+            <td>Ser</td>
+            <td>Percibir</td>
+            <td>“Advertir. Apreciar. Notar”. Enterarse de la existencia de una cosa por los sentidos, o por la inteligencia servida por los sentidos. Percibir la diferencia entre dos cosas.</td>
+            <td>María Moliner, Diccionario del Uso del Español, Edición 1997.</td>
+        </tr>
+    </tbody>
+</table>
+<br>
+<p></p>
+      ]]></DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>0</USEDYNALINK>
+      <CASESENSITIVE>0</CASESENSITIVE>
+      <FULLMATCH>0</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+      <CATEGORIES>
+        <CATEGORY>SER</CATEGORY>
+      </CATEGORIES>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>Proponer</CONCEPT>
+      <DEFINITION><![CDATA[
+<table class="table table-striped table-bordered">
+    <tbody>
+        <tr>
+            <th style="text-align:center;">DIMENSIÓN</th>
+            <th style="text-align:center;">VERBO</th>
+            <th style="text-align:center;">ACEPCIÓN</th>
+            <th style="text-align:center;">FUENTE</th>
+        </tr>
+        <tr>
+            <td>Hacer</td>
+            <td>Proponer</td>
+            <td>Exponer una persona, un plan, trato, proyecto, etc., buscando su conformidad para llevarlo a efecto. (V.: “PLANTEAR. PROPONER. SUGERIR</td>
+            <td>María Moliner, Diccionario del Uso del Español, Edición 1997.</td>
+        </tr>
+    </tbody>
+</table>
+<br>
+<p></p>
+      ]]></DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>0</USEDYNALINK>
+      <CASESENSITIVE>0</CASESENSITIVE>
+      <FULLMATCH>0</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+      <CATEGORIES>
+        <CATEGORY>HACER</CATEGORY>
+      </CATEGORIES>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>Seleccionar</CONCEPT>
+      <DEFINITION><![CDATA[
+<table class="table table-striped table-bordered">
+    <tbody>
+        <tr>
+            <th style="text-align:center;">DIMENSIÓN</th>
+            <th style="text-align:center;">VERBO</th>
+            <th style="text-align:center;">ACEPCIÓN</th>
+            <th style="text-align:center;">FUENTE</th>
+        </tr>
+        <tr>
+            <td>Ser</td>
+            <td>Seleccionar</td>
+            <td>Elegir una o varias personas o cosas entre un conjunto por un determinado criterio o motivo</td>
+            <td>Oxford</td>
+        </tr>
+    </tbody>
+</table>
+<br>
+<p></p>
+      ]]></DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>0</USEDYNALINK>
+      <CASESENSITIVE>0</CASESENSITIVE>
+      <FULLMATCH>0</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+      <CATEGORIES>
+        <CATEGORY>SER</CATEGORY>
+      </CATEGORIES>
+    </ENTRY>
+    <ENTRY>
+      <CONCEPT>Validar</CONCEPT>
+      <DEFINITION><![CDATA[
+<table class="table table-striped table-bordered">
+    <tbody>
+        <tr>
+            <th style="text-align:center;">DIMENSIÓN</th>
+            <th style="text-align:center;">VERBO</th>
+            <th style="text-align:center;">ACEPCIÓN</th>
+            <th style="text-align:center;">FUENTE</th>
+        </tr>
+        <tr>
+            <td>Saber</td>
+            <td>Validar</td>
+            <td>Hacer válida una cosa. En su lugar dar validez</td>
+            <td>María Moliner, Diccionario del Uso del Español, Edición 1997.</td>
+        </tr>
+    </tbody>
+</table>
+<br>
+<p></p>
+      ]]></DEFINITION>
+      <FORMAT>1</FORMAT>
+      <USEDYNALINK>0</USEDYNALINK>
+      <CASESENSITIVE>0</CASESENSITIVE>
+      <FULLMATCH>0</FULLMATCH>
+      <TEACHERENTRY>1</TEACHERENTRY>
+      <CATEGORIES>
+        <CATEGORY>SABER</CATEGORY>
+      </CATEGORIES>
+    </ENTRY>
+  </ENTRIES>
+</GLOSSARY>

@@ -1,0 +1,177 @@
+
+--- PAGE 1 ---
+Niveles y rangos de caliﬁcación 
+Dimensiones del
+ resultado de 
+aprendizaje 
+Nivel 1
+Nota: 0 a 0.9   
+Nivel 2
+Nota: 1.0 a 1.9   
+Nivel 3
+Nota: 2.0 a 2.9   
+Nivel 4
+Nota: 3.0 a 3.5 
+Nivel 5
+Nota: 3.6  a 4.2   
+II
+Nivel alcanzado 
+(60 %) 
+Uniestructural Multiestructural Relacional Abstracto ampliado 
+Momento de evaluación de producto  
+NO APROBADO   APROBADO  
+Dimensión 
+Saber
+(Cognitiva) 
+Expone 
+planteamientos 
+estadísticos formales 
+de una situación 
+problema.
+Analiza variables 
+relacionadas con un 
+problema estadístico.
+Esquematiza la 
+construcción de 
+una estructura de 
+un sistema web 
+existente 
+Ser
+(Actitudinal) 
+Hacer
+(Procedimental) 
+Nivel 6
+Nota: 4.3 a 5.0   
+Propone soluciones 
+basadas en el análisis 
+de datos y 
+representaciones de 
+estos.
+Expone 
+planteamientos 
+estadísticos formales 
+de una situación 
+problema.
+Analiza variables 
+relacionadas con un 
+problema estadístico.
+Propone soluciones 
+basadas en el análisis 
+de datos y 
+representaciones de 
+estos.
+Identiﬁca medidas 
+estadisticas 
+univariantes y 
+bivariantes.
+Percibe la 
+importancia de la 
+estadística descriptiva 
+para abordar la 
+situación problema.
+Cumple con presentar  
+un organizador 
+graﬁco para 
+representar las 
+medidas univariantes 
+y bivariantes.
+Lista aspectos y 
+conceptos de las 
+medidas estadisticas 
+univariantes y 
+bivariantes.
+Indaga acerca de los 
+conceptos especiﬁcos 
+y la manera de 
+aplicarlos a la 
+situación problema.
+Examina referentes 
+bibliográﬁcos para 
+tomar decisiones con 
+base a la situación 
+problema.
+Describe el contexto 
+de la problemática 
+mediante  variables 
+cuantitativas.
+Selecciona variables 
+cuantitativas de la 
+situación problema.
+Explora el uso de 
+hojas de calculo o 
+software estadístico 
+para analizar y 
+representar datos de 
+variables cuantitativas 
+de la situación 
+problema.
+Asocia conceptos 
+fundamentales de la 
+estadística y los pone 
+en practica para la 
+interpretación y 
+presentación de 
+resultados.
+Determina la 
+importancia de la 
+investigación 
+estadística para 
+abordar la situación 
+problema y para su 
+contexto real.
+Genera   métodos, 
+técnicas y 
+herramientas 
+estadísticas para 
+analizar, representar 
+datos y encontrar 
+soluciones basada en 
+fundamentos con 
+base a  la situación 
+problema.
+Valida métodos, 
+técnicas y 
+herramientas  de la 
+estadística descriptiva 
+para analizar, 
+comprobar y 
+comparar resultados 
+con base a la situación 
+problema. 
+Comprueba el 
+impacto que tiene el 
+estudio de la 
+estadística descriptiva 
+para resolver 
+problemas en el 
+contexto real y en su 
+desarrollo profesional.
+Crea soluciones 
+innovadoras para 
+resolver la situación 
+problema aplicando   
+métodos, técnicas y 
+herramientas 
+estadísticas para la 
+presentación de 
+resultados.
+Rúbrica del curso
+(Basado en Taxonomía SOLO) 
+Condiciones de recepción de entregables 
+Ver los detalles en la instrucciones generales del curso. 
+Universidad de Santander - UDES
+Facultad de Ingenierías
+PregradoNivel
+Créditos 3
+Versión y
+Fecha   
+Versión 1, 
+Septiembre de 2023
+Curso Estadística Descriptiva 
+RESULTADO DE APRENDIZAJE 
+(Competencia)  
+Intervenir en la solución de problemas que involucren información cuantitativa y esquemática desde el diseño y la ejecución de planes y estrategias que lleven 
+a soluciones adecuadas. 
+Unidad de Competencia Resuelve problemas relacionados con el análisis e interpretación de datos para apoyar la toma de decisiones teniendo en cuenta los fundamentos y técnicas 
+de la estadística descriptiva.
+Rúbrica del Curso

@@ -1,0 +1,167 @@
+================================================================================
+LISTADO COMPLETO DE ENLACES A RECURSOS (DRIVES, DLE Y ARCHIVOS LOCALES/PDF/WORDS)
+================================================================================
+
+Este archivo detalla la ubicación (línea de código) y URL de cada enlace a recurso
+encontrado en los documentos HTML finales del directorio 'paginas_finales/'.
+
+================================================================================
+ARCHIVO: paginas_finales/Introduccion al curso/Introduccion al curso.html
+================================================================================
+Enlace 1 (Línea 64):
+  - Texto Visible: 'Glosario'
+  - Dirección URL: 'https://virtual.udes.edu.co/mod/glossary/view.php?id=3849#section-0'
+
+
+================================================================================
+ARCHIVO: paginas_finales/Momentos/Momento Evaluativo1.html
+================================================================================
+Enlace 1 (Línea 91):
+  - Texto Visible: 'Anexo
+                                    1. Cuadro comparativo. (Tabla con filas y columnas)'
+  - Dirección URL: '@@PLUGINFILE@@/Anexo1_Formato_Cuadro comparativo.docx'
+
+Enlace 2 (Línea 96):
+  - Texto Visible: 'Anexo
+                                    2. Criminología organizacional y trasnacional las crónicas de Enriq: noches de
+                                    cocaína.'
+  - Dirección URL: '@@PLUGINFILE@@/Anexo2_Criminología_organizacional.docx'
+
+Enlace 3 (Línea 103):
+  - Texto Visible: 'Rúbrica'
+  - Dirección URL: '@@PLUGINFILE@@/Rúbrica1_Rúbrica2_Introducción_criminología.pdf'
+
+Enlace 4 (Línea 113):
+  - Texto Visible: 'Enviar Entregable
+                                Avance 1'
+  - Dirección URL: 'https://virtual.udes.edu.co/mod/assign/view.php?id=3844'
+
+Enlace 5 (Línea 119):
+  - Texto Visible: 'Enviar Entregable
+                                Avance 2'
+  - Dirección URL: 'https://virtual.udes.edu.co/mod/assign/view.php?id=3874'
+
+Enlace 6 (Línea 168):
+  - Texto Visible: 'rúbrica'
+  - Dirección URL: '@@PLUGINFILE@@/Rúbrica1_Rúbrica2_Introducción_criminología.pdf'
+
+Enlace 7 (Línea 170):
+  - Texto Visible: 'syllabus'
+  - Dirección URL: '@@PLUGINFILE@@/Syllabus_ntroducción_criminología.pdf'
+
+Enlace 8 (Línea 172):
+  - Texto Visible: 'documento
+                                                    de instrucciones generales'
+  - Dirección URL: '@@PLUGINFILE@@/Instrucciones_Generales_Introducción_Criminología.pdf'
+
+Enlace 9 (Línea 190):
+  - Texto Visible: 'Mapa
+                                                        conceptual'
+  - Dirección URL: '@@PLUGINFILE@@/Mapa_Introducción_Criminología.pdf'
+
+Enlace 10 (Línea 193):
+  - Texto Visible: 'Syllabus'
+  - Dirección URL: '@@PLUGINFILE@@/Syllabus_ntroducción_criminología.pdf'
+
+Enlace 11 (Línea 241):
+  - Texto Visible: 'Mapa
+                                                        conceptual: introducción a la criminología.'
+  - Dirección URL: '@@PLUGINFILE@@/Mapa_Introducción_Criminología.pdf'
+
+Enlace 12 (Línea 244):
+  - Texto Visible: 'Infografía:
+                                                        conceptualización de la criminología.'
+  - Dirección URL: '@@PLUGINFILE@@/Infografia_concepto_criminología.PDF'
+
+Enlace 13 (Línea 271):
+  - Texto Visible: 'Línea
+                                                        de tiempo: evolución histórica de la criminología.'
+  - Dirección URL: '@@PLUGINFILE@@/Línea_tiempo_criminología.pdf'
+
+Enlace 14 (Línea 313):
+  - Texto Visible: 'Anexo
+                                                        1. Formato: cuadro comparativo. Entregable-Avance
+                                                        1.'
+  - Dirección URL: '@@PLUGINFILE@@/Anexo1_Formato_Cuadro comparativo.docx'
+
+Enlace 15 (Línea 332):
+  - Texto Visible: 'Enviar Entregable
+                                                    1.'
+  - Dirección URL: 'https://virtual.udes.edu.co/mod/assign/view.php?id=3844'
+
+Enlace 16 (Línea 366):
+  - Texto Visible: 'Mapa
+                                                        conceptual: factores endógenos.'
+  - Dirección URL: '@@PLUGINFILE@@/Mapa_Factores_endógenos.pdf'
+
+Enlace 17 (Línea 451):
+  - Texto Visible: 'Enviar Entregable
+                                                    2.'
+  - Dirección URL: 'https://virtual.udes.edu.co/mod/assign/view.php?id=3874'
+
+
+================================================================================
+ARCHIVO: paginas_finales/Momentos/Momento Evaluativo2.html
+================================================================================
+Enlace 1 (Línea 111):
+  - Texto Visible: 'Anexo
+                                    3. Perfil criminal. Perfil criminológico completo: Theodore Robert
+                                    Bundy'
+  - Dirección URL: '@@PLUGINFILE@@/Anexo3_Perfil_Ted_Bondy.docx'
+
+Enlace 2 (Línea 122):
+  - Texto Visible: 'Rúbrica'
+  - Dirección URL: '@@PLUGINFILE@@/Rúbrica2_Introducción_criminología.pdf'
+
+Enlace 3 (Línea 132):
+  - Texto Visible: 'Enviar Entregable
+                                Avance 3'
+  - Dirección URL: 'https://virtual.udes.edu.co/mod/assign/view.php?id=3877'
+
+Enlace 4 (Línea 138):
+  - Texto Visible: 'Enviar Entregable
+                                Avance 4'
+  - Dirección URL: 'https://virtual.udes.edu.co/mod/assign/view.php?id=3878'
+
+Enlace 5 (Línea 144):
+  - Texto Visible: 'Enviar Entregable
+                                Avance 5'
+  - Dirección URL: 'https://virtual.udes.edu.co/mod/assign/view.php?id=3879'
+
+Enlace 6 (Línea 241):
+  - Texto Visible: 'Anexo
+                                                    2. Caso: Ismael Bukowsky: micro-relatos de vigorexia y
+                                                    depravación.'
+  - Dirección URL: '@@PLUGINFILE@@/Anexo2_Criminología_organizacional.docx'
+
+Enlace 7 (Línea 333):
+  - Texto Visible: 'Enviar Entregable
+                                                    3.'
+  - Dirección URL: 'https://virtual.udes.edu.co/mod/assign/view.php?id=3877'
+
+Enlace 8 (Línea 401):
+  - Texto Visible: 'Anexo
+                                                    2'
+  - Dirección URL: '@@PLUGINFILE@@/Anexo2_Criminología_organizacional.docx'
+
+Enlace 9 (Línea 431):
+  - Texto Visible: 'Enviar Entregable
+                                                    4.'
+  - Dirección URL: 'https://virtual.udes.edu.co/mod/assign/view.php?id=3878'
+
+Enlace 10 (Línea 479):
+  - Texto Visible: 'Mapa
+                                                        conceptual: asesinos seriales parte I.'
+  - Dirección URL: '@@PLUGINFILE@@/Mapa1_ Asesinos_seriales.I.pdf'
+
+Enlace 11 (Línea 482):
+  - Texto Visible: 'Mapa
+                                                        conceptual: asesinos seriales parte II.'
+  - Dirección URL: '@@PLUGINFILE@@/Mapa2_ Asesinos_seriales.2.pdf'
+
+Enlace 12 (Línea 546):
+  - Texto Visible: 'Enviar Entregable
+                                                    5.'
+  - Dirección URL: 'https://virtual.udes.edu.co/mod/assign/view.php?id=3879'
+
+

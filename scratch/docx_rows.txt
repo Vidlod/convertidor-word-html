@@ -1,0 +1,359 @@
+=== ROW 0 ===
+[
+  "Agenda de avance de aprendizaje"
+]
+
+=== ROW 1 ===
+[
+  "Identificación del curso"
+]
+
+=== ROW 2 ===
+[
+  "Nombre del curso",
+  "Estadística descriptiva",
+  ""
+]
+
+=== ROW 3 ===
+[
+  "Recursos de reconocimiento del curso",
+  "",
+  "",
+  ""
+]
+
+=== ROW 4 ===
+[
+  "Recursos de consulta permanente",
+  "",
+  "",
+  ""
+]
+
+=== ROW 5 ===
+[
+  "",
+  "",
+  "AAA"
+]
+
+=== ROW 6 ===
+[
+  "Resultado de aprendizaje al que le aporta el curso",
+  "Resuelve problemas relacionados con el análisis e interpretación de datos para apoyar la toma de decisiones teniendo en cuenta los fundamentos y técnicas de la estadística descriptiva."
+]
+
+=== ROW 7 ===
+[
+  "Dimensiones del resultado de aprendizaje",
+  "Cognitiva (saber)Expone planteamientos estadísticos formales de una situación problema.",
+  "Actitudinal (ser)Analiza variables relacionadas con un problema estadístico",
+  "Procedimental (hacer)Propone soluciones basadas en el análisis de datos y representaciones de estos."
+]
+
+=== ROW 8 ===
+[
+  "RESUMEN DE ENTREGAS"
+]
+
+=== ROW 9 ===
+[
+  "Avances",
+  "Duración semanas",
+  "NOMBRE DEL ENTREGABLE",
+  "Peso%",
+  "Semana de entrega"
+]
+
+=== ROW 10 ===
+[
+  "I – 40%",
+  "1 - 3",
+  "Avance 1. Recolección de datos – Informe con la elaboración de un mapa mental, respuesta a las preguntas orientadoras del contexto de la problemática, clasificación de variables y ejercicio de muestreo.",
+  "10%",
+  "3"
+]
+
+=== ROW 11 ===
+[
+  "Cuestionario de evaluación – Unidad 1 - Investigación estadística",
+  "10%"
+]
+
+=== ROW 12 ===
+[
+  "4 – 5",
+  "Avance 2. Organización de datos – Informe con la construcción de un cuadro sinóptico, caracterización de variables cualitativas, diagramas estadísticos, tabla de contingencia de doble entrada y aplicaciones de la estadística en la Ingeniería de software.",
+  "10%",
+  "5"
+]
+
+=== ROW 13 ===
+[
+  "Cuestionario de evaluación - Unidad 2 – Fundamentos de Estadística",
+  "10%"
+]
+
+=== ROW 14 ===
+[
+  "II – 60%",
+  "6-7",
+  "Avance 3. Análisis de datos – Informe con el diseño de un mapa conceptual, medidas univariantes - Variable Discreta, medidas Univariantes - variable continua y relación de la situación problema con los ODS (Objetivos de Desarrollo Sostenible).",
+  "10%",
+  "7"
+]
+
+=== ROW 15 ===
+[
+  "Cuestionario de evaluación - Unidad 3 – medidas estadísticas univariantes",
+  "10%"
+]
+
+=== ROW 16 ===
+[
+  "8-9",
+  "Avance 4. Interpretación de resultados – Informe con la creación de un diagrama de araña, aplicación de regresión y correlación, ejercicio de aplicación, regresión y correlación lineal simple y regresión y correlación múltiple.",
+  "10%",
+  "9"
+]
+
+=== ROW 17 ===
+[
+  "Cuestionario de evaluación - Unidad 4 – Medidas estadísticas bivariantes",
+  "10%"
+]
+
+=== ROW 18 ===
+[
+  "10-12",
+  "Producto final. Presentación de resultados – Informe variable cualitativa, variable cuantitativa discreta, variable cuantitativa continua, regresión y correlación entre variables cuantitativas y análisis y propuesta de solución a la problemática.",
+  "10%",
+  "12"
+]
+
+=== ROW 19 ===
+[
+  "Cuestionario de evaluación final",
+  "10 %"
+]
+
+=== ROW 20 ===
+[
+  "Primer reporte de avance (1 y 2) – 40%"
+]
+
+=== ROW 21 ===
+[
+  "Descripción general: Durante el desarrollo del avance 1 y 2 deberá entregar dos informes en formato PDF donde se consolide el desarrollo de todas las actividades propuestas. Los informes deben cumplir con las siguientes condiciones formales de entrega: • Portada• Introducción• Justificación• Objetivos•Conclusiones (Relacionadas con los métodos estadísticos aplicados y la problemática estudiada)• Referencias bibliográficas.Al finalizar cada informe deberá adjuntar evidencias del desarrollo de las actividades como pantallazos o compartir el enlace directo de la hoja de cálculo donde realizo los procedimientos correspondientes. Verifique en la configuración que cualquier persona con el enlace pueda ver el archivo y asegúrese de que el enlace abra correctamente.Tenga en cuenta la siguiente situación hipotética:Usted ha sido contratado como ingeniero de software en la Agencia Nacional de Seguridad Vial (ANSV) y debe apoyar el área del observatorio nacional y entre sus funciones debe recopilar estudios, informes, investigaciones y documentos técnicos relacionados con las áreas de acción del sistema seguro y seguridad vial. Dentro de su labor deberá realizar análisis de datos, gráficos y presentar informes con los resultados parciales de la problemática de estudio. La problemática de estudio que le fue asignada es analizar la accidentalidad vial en algunos departamentos de Colombia para el primer semestre del 2024 por lo tanto deberá trabajar siempre con el Anexo 1. Base de datos indicadores de accidentalidad vial en algunos departamentos de Colombia para el desarrollo de las actividades propuestas de cada entregable. No es casualidad que cada uno de los entregables tenga el nombre de las etapas de una investigación estadística, ya que en cada uno de los informes o entregables se espera que pueda ir desarrollando las competencias esperadas y de esta manera logre avanzar de manera progresiva hasta alcanzar el nivel relacional más alto en las dimensiones ser, saber y hacer para lograr la aprobación del curso.El desarrollo de las actividades se puede realizar utilizando Excel (Office) o el software Estadístico Infostat.Complemente su proceso de enseñanza aprendizaje con el estudio de los recursos educativos Digitales RED, elaborados por el experto disciplinar: Video Tutorial para la descarga del software InfostatEnlace para la descarga del Infostat: www.infostat.com.ar"
+]
+
+=== ROW 22 ===
+[
+  "Entregables del avance 1 y 2"
+]
+
+=== ROW 23 ===
+[
+  "En este primer reporte de avances, realizará la entrega de los dos informes correspondientes denominados recolección de datos (entregable 1) y organización de datos (entregable 2). El desarrollo de las actividades se realizará de manera individual. En este momento evaluativo del proceso usted deberá lograr alcanzar las dimensiones del saber, ser y hacer contemplados en la rúbrica del momento I en el nivel 5.SABER: asocia conceptos fundamentales de la estadística y los pone en práctica para la recolección y organización de datos de la situación problema.SER: Determina la importancia de la investigación estadística para abordar la situación problema y para su contexto real.HACER: Genera métodos, técnicas y herramientas estadísticas para analizar, representar datos y encontrar soluciones basada en fundamentos con base a la situación problema.Los dos entregables a solicitar equivalen al 40% del total de la calificación final del curso."
+]
+
+=== ROW 24 ===
+[
+  "Condiciones particulares de entrega:",
+  "Diligencie el formato o plantilla Entregable_1. Recolección de datos y entregable_2. Organización de datos de acuerdo con la secuencia y apartados de presentación registrados en el mismo.Tenga presente las instrucciones y condiciones para los entregables."
+]
+
+=== ROW 25 ===
+[
+  "Semana",
+  "Secuencia",
+  "Recursos Educativos"
+]
+
+=== ROW 26 ===
+[
+  "1",
+  "Cordial saludo Bienvenido(a) al curso de estadística descriptiva Inicie su proceso académico, revisando el syllabus, el video de bienvenida y presentación del curso, la rúbrica, así como el mapa conceptual para que pueda identificar la información general y detallada del curso, además de la organización y secuencia de las temáticas y contenidos propuestos, las estrategias de enseñanza – aprendizaje. Así mismo es importante realizar la exploración de los recursos educativos sugeridos para el desarrollo exitoso de las actividades propuestas.Se realizarán encuentros sincrónicos para abordar aspectos y contenidos relacionados con las temáticas del curso. También se resolverán inquietudes que surjan en la construcción de los entregable e igualmente es importante que pueda participar e interactuar a través del foro social para que intercambien expectativas e intereses individuales que tengan del curso.",
+  "Torres, L. (2025). Mapa mental Estadística Descriptiva. Torres, L. (2025). Syllabus del curso Estadística Descriptiva.Torres, L. (2025). Video de presentación y bienvenida del curso Estadística Descriptiva."
+]
+
+=== ROW 27 ===
+[
+  "2",
+  "Iniciamos la Unidad 1 - Investigación estadística con el entregable 1 - Recolección de datosDeberá entregar un informe en formato PDF donde se consolide el desarrollo de las actividades propuestas en la plantilla Entregable_1. Recolección de datosActividad 1: Organizador graficoResumir mediante un organizador grafico las etapas para el inicio de una investigación estadística (planeación, recolección, organización, análisis y presentación de resultados) describiendo cada una de ellas.Para el desarrollo de este podrá seleccionar de manera libre el organizador grafico de su preferencia (cuadro sinóptico, mapa conceptual, mapa mental, mentefacto, etc.). Se sugiere explorar los siguientes recursos para que pueda revisar diferentes alternativas y tener en cuenta los aspectos fundamentales para el diseño y la presentación. Dirección General de Educación Tecnológica Agropecuaria y Ciencias del Mar (2025) Organizadores gráficos. Orientación Andújar (2015). Organizadores gráficos. Para el desarrollo del organizador grafico teniendo en cuenta la temática propuesta puede revisar los referentes:Martínez, C. (2013). Capítulo 1. Conceptos generales. En: Estadística y muestreo.Fernández, D., y Guitart. M. (s.f.) Estadística descriptiva y análisis de datos. Para la elaboración del organizador grafico puede realizarlo en plataformas como: Miro, Mindmeister, Canva, Genially, Lucidchart, Creately, etc. Debe adjuntar directamente la imagen del organizador gráfico. Evitar adjuntar enlaces donde se haya creado el organizador grafico ya que la mayoría de las veces solicitan acceso. En caso de adjuntarlo y si no se logra su visualización se calificará teniendo en cuenta los criterios de la rúbrica de evaluación.Actividad 2: contexto de la problemática Responda las siguientes preguntas orientadoras para que pueda contextualizarse con la problemática de estudio.1) ¿Cuáles son las causas o factores que ocasionan los accidentes de tránsito en las vías?2) ¿Qué impacto podría tener el estado de ánimo del conductor, en un accidente de tránsito? 3) ¿Como influye el estado y las condiciones de las vías de los accidentes reportados en algunos departamentos en Colombia?4) ¿Quiénes son más responsables a la hora de conducir los hombres o las mujeres? 5) ¿Cuáles considera son los accidentes de tránsito más frecuentes en Bogotá?6) ¿Qué es un anuario de siniestralidad? Para el desarrollo de esta actividad se recomienda explorar los recursos: Concejo de Bogotá (2025). En los últimos 7 años, los lesionados por siniestros viales han disminuido en el país, pero las muertes han aumentado. Alcaldía de Bogotá (2025). 47,3 % de las víctimas fatales en accidentes de tránsito fueron motociclistas.Observatorio de salud de Bogotá (2025). Mortalidad por accidentes de tránsito en Bogotá D.C. Gómez, L. (2025). Muertes por accidentes de tránsito en Colombia disminuyeron en enero de 2025: este es el panorama por ciudades. No obstante, puede dirigirse a otras fuentes de información. Responda las preguntas planteadas no solo desde su opinión, sino también debe argumentar y justificar su respuesta teniendo en cuenta cifras y datos estadísticos.",
+  "Dirección General de Educación Tecnológica Agropecuaria y Ciencias del Mar (2025) Organizadores gráficos. https://dgetaycm.sep.gob.mx/storage/recursos/2025/01/Wj9GE11AYO-Organizadores%20gr%C3%A1ficos.pdfOrientación Andújar (2015). Organizadores gráficos. https://www.orientacionandujar.es/wp-content/uploads/2015/07/OrganizadoresGraficos.pdfMartínez, C. (2013). Capítulo 1. Conceptos generales. En: Estadística y muestreo, 13a ed. [Online] Bogotá: Ecoe Ediciones. (pp. 10– 33).http://ies-booklick.s3.amazonaws.com/1626728222781-Estadistica-MuestreoCiro1-198.pdfFernández, D., y Guitart. M. (s.f.) Estadística Descriptiva y análisis de datos. http://www1.frm.utn.edu.ar/estadistica/documentos/ed&ad.pdfConcejo de Bogotá (2025). En los últimos 7 años, los lesionados por siniestros viales han disminuido en el país, pero las muertes han aumentado. https://concejodebogota.gov.co/en-los-ultimos-7-anos-los-lesionados-por-siniestros-viales-han/cbogota/2025-03-25/102637.phpAlcaldía de Bogotá (2025). 47,3 % de las víctimas fatales en accidentes de tránsito fueron motociclistas.https://bogota.gov.co/mi-ciudad/movilidad/47-de-victimas-en-accidentes-transito-en-bogota-fueron-moticiclistasObservatorio de salud de Bogotá (2025). Mortalidad por accidentes de tránsito en Bogotá D.C. https://saludata.saludcapital.gov.co/osb/indicadores/mortalidad-de-accidentes-de-transito/Gómez, L. (2025). Muertes por accidentes de tránsito en Colombia disminuyeron en enero de 2025: este es el panorama por ciudades. https://www.infobae.com/colombia/2025/02/16/muertes-por-accidentes-de-transito-en-colombia-disminuyeron-en-enero-de-2025-este-es-el-panorama-por-ciudades/"
+]
+
+=== ROW 28 ===
+[
+  "3",
+  "A través de su proceso de enseñanza - aprendizaje y de la apropiación del conocimiento, enfoque su aprendizaje en la actividad 3 y 4. Actividad 3: clasificación de variablesPara el desarrollo de esta actividad se puede apoyar de los recursos:Posada, G. (2016). Capítulo 1. Conceptos generales sobre estadística. En: Elementos básicos de estadística descriptiva para el análisis de datos. Complemente su proceso de enseñanza aprendizaje con el estudio de los recursos educativos Digitales RED, elaborados por el experto disciplinar:Infografía de variables Clasifique todas las variables del Anexo 1. Base de datos indicadores de accidentalidad vial en algunos departamentos de Colombia en cualitativas (nominales, ordinales) y cuantitativas (Discretas o Continuas) teniendo en cuenta la tabla que se encuentra en la plantilla.Actividad 4. MuestreoRevise los siguientes recursos para el desarrollo de esta actividad:Posada, G. (2016). Capítulo 2. Introducción a los tipos de muestreo. En: Elementos básicos de estadística descriptiva para el análisis de datos. Complemente su proceso de enseñanza aprendizaje con el estudio de los recursos educativos Digitales RED, elaborados por el experto disciplinar:Presentación cálculo del tamaño muestral Dado que la base de datos suministrada Anexo 1. Base de datos indicadores de accidentalidad vial en algunos departamentos de Colombia corresponde a una muestra ya definida, es importante reconocer que, en algunas ocasiones, la muestra se debe calcular.Realice los dos ejercicios que se presentan a continuación: 1. Si se desea establecer una muestra representativa para estudiar la problemática indicadores de accidentalidad vial en algunos departamentos de Colombia a través del muestreo aleatorio simple con un nivel de confianza del 90%, un error estimado del 5% y una población de 2920 defunciones, ¿Cuál sería el tamaño de la muestra?2. Si se desea establecer una muestra representativa para estudiar el problema de indicadores de accidentalidad vial en algunos departamentos de Colombia a través del muestreo aleatorio simple, con un nivel de confianza del 91%, un error estimado del 5%, pero se desconoce el total de la población constituida mayormente por peatones, ¿Cuál sería el tamaño de la muestra?Se debe presentar no solo el resultado sino los procedimientos o cálculos realizados para llegar a las respuestasRealice la entrega del entregable en la plataforma.Una vez realizada la calificación recuerde tener en cuenta los comentarios de retroalimentación para los próximos entregables.",
+  "Posada, G. (2016). Capítulo 1. Conceptos generales sobre estadística. En: Elementos básicos de estadística descriptiva para el análisis de datos. Fundación Universitaria Luis Amigó. Fondo Editorial Luis Amigó. Medellín. (pp. 11 – 21). https://www.funlam.edu.co/uploads/fondoeditorial/120_Ebook-elementos_basicos.pdfTorres, L. (2025). Infografía de variables.Posada, G. (2016). Capítulo 2. Introducción a los tipos de muestreo. En: Elementos básicos de estadística descriptiva para el análisis de datos. Fundación Universitaria Luis Amigó. Fondo Editorial Luis Amigó. Medellín (pp. 23 -32).https://www.funlam.edu.co/uploads/fondoeditorial/120_Ebook-elementos_basicos.pdfTorres, L. (2025). Cálculo del tamaño muestral [Presentación]."
+]
+
+=== ROW 29 ===
+[
+  "4",
+  "Avanzamos a la Unidad 2 – Fundamentos de Estadística con el entregable 2 -Organización de datosDeberá entregar un informe en formato PDF donde se consolide el desarrollo de las actividades propuestas en la plantilla Entregable_2. Organización de datos.Actividad 1: Organizador graficoDiseñar un cuadro sinóptico donde se recopile lo relacionado con la tabulación de datos estadísticos, distribución de frecuencias y tipos de gráficas y diagramas. Para el desarrollo de la actividad puede consultar los recursos:Posada, G. (2016). Capítulo 3. Tabulación de datos estadísticos. En: Elementos básicos de estadística descriptiva para el análisis de datos. Posada, G. (2016). Capítulo 4. Distribución de frecuencias. En: Elementos básicos de estadística descriptiva para el análisis de datos. Posada, G. (2016). Capítulo 5. Gráficas y Diagramas. En: Elementos básicos de estadística descriptiva para el análisis de datos. Suarez. M. (2025). Capítulo 2. Tablas estadísticas. En: Estadística descriptiva para todos: Fundamentos y aplicaciones – Volumen I. Suarez. M. (2025). Capítulo 3. Distribución de frecuencias. En: Estadística descriptiva para todos: Fundamentos y aplicaciones – Volumen I. Para la elaboración del organizador grafico puede realizarlo en plataformas como: Miro, Mindmeister, Canva, Genially, Lucidchart, Creately, etc. Debe adjuntar directamente el cuadro sinóptico. Evitar adjuntar enlaces donde se haya creado el recurso ya que la mayoría de las veces solicitan acceso. En caso de adjuntarlo y si no se logra su visualización se calificará teniendo en cuenta los criterios de la rúbrica de evaluación.Las actividades 2, 3 y 4 se pueden realizar utilizando Excel (Office) o el software Estadístico Infostat. Complemente su proceso de enseñanza aprendizaje con el estudio de los recursos educativos Digitales RED, elaborados por el experto disciplinar para el desarrollo de las actividades 2, 3 y 4. Presentación unidad 2 – Fundamentos de estadísticaPresentación Tablas de frecuenciasActividad 2: Caracterización de Variables cualitativas tabla de frecuencias Se sugiere revisar los siguientes referentes para una mayor comprensión de la temática propuesta. Martínez, C. (2013). Capítulo 2. Distribuciones de frecuencia. En: Estadística y muestreo.Suarez. M. (2025). Capítulo 3. Distribución de frecuencias. En: Estadística descriptiva para todos: Fundamentos y aplicaciones – Volumen I. Teniendo en cuenta el Anexo 1. Base de datos indicadores de accidentalidad vial en algunos departamentos de Colombia seleccione una variable cualitativa. a) Calcule la frecuencia absoluta, frecuencia relativa y frecuencia porcentual de la variable cualitativa elegida y reporte los valores en la tabla de frecuencias consignada en la plantilla.",
+  "Posada, G. (2016). Capítulo 3. Tabulación de datos estadísticos. En: Elementos básicos de estadística descriptiva para el análisis de datos. Fundación Universitaria Luis Amigó. Fondo Editorial Luis Amigó. Medellín (pp. 34 -43).https://www.funlam.edu.co/uploads/fondoeditorial/120_Ebook-elementos_basicos.pdfPosada, G. (2016). Capítulo 4. Distribución de frecuencias. En: Elementos básicos de estadística descriptiva para el análisis de datos. Fundación Universitaria Luis Amigó. Fondo Editorial Luis Amigó. Medellín (pp. 44 -51).https://www.funlam.edu.co/uploads/fondoeditorial/120_Ebook-elementos_basicos.pdfPosada, G. (2016). Capítulo 5. Gráficas y Diagramas. En: Elementos básicos de estadística descriptiva para el análisis de datos. Fundación Universitaria Luis Amigó. Fondo Editorial Luis Amigó. Medellín (pp. 52 - 63).https://www.funlam.edu.co/uploads/fondoeditorial/120_Ebook-elementos_basicos.pdfSuarez. M. (2025). Capítulo 2. Tablas estadísticas. En: Estadística descriptiva para todos: Fundamentos y aplicaciones – Volumen I. (pp.52 – 69) https://www.researchgate.net/publication/391908519_ESTADISTICA_DESCRIPTIVA_PARA_TODOS_FUNDAMENTOS_Y_APLICACIONES_VOLUMEN_ITorres, L. (2025). Fundamentos de estadística [Presentación].Torres, L. (2025). Tablas de frecuencias [Presentación].Suarez. M. (2025). Capítulo 3. Distribución de frecuencias. En: Estadística descriptiva para todos: Fundamentos y aplicaciones – Volumen I. (pp.70 – 108) https://www.researchgate.net/publication/391908519_ESTADISTICA_DESCRIPTIVA_PARA_TODOS_FUNDAMENTOS_Y_APLICACIONES_VOLUMEN_IMartínez, C. (2013). Capítulo 2. Distribuciones de frecuencia. En: Estadística y muestreo, 13a ed. [Online] Bogotá: Ecoe Ediciones. (pp 43 – 89).http://ies-booklick.s3.amazonaws.com/1626728222781-Estadistica-MuestreoCiro1-198.pdf"
+]
+
+=== ROW 30 ===
+[
+  "5",
+  "A través de su proceso de enseñanza - aprendizaje y de la apropiación del conocimiento, enfoque su aprendizaje en la actividad 3 y 4. Actividad 3: Diagramas estadísticosRepresentar la información de la tabla de datos realizada en la actividad 2 (variable vs frecuencia absoluta) por medio de (diagrama de barras y diagrama circular).Posteriormente determine cual es la moda de la variable cualitativa.Realizar un análisis estadístico asociado con la situación objeto de estudio en este caso indicadores de accidentalidad vial en algunos departamentos de Colombia. El análisis debe ser coherente de acuerdo con las gráficas realizadas y la moda.Copie y pegue las gráficas realizadas en Excel o en el software estadístico de Infostat. Evite adjuntar enlaces de hojas de cálculo. Deben presentarse directamente las imágenes de los diagramas estadísticos. En caso de adjuntarlo y si no se logra su visualización se calificará teniendo en cuenta los criterios de la rúbrica de evaluación.Actividad 4: Tabla de contingencia de doble entradaRealizar una tabla de contingencias o de doble entrada, con dos variables cualitativas, las cuales usted considere podrían estar relacionadas. (Representarla gráficamente) y realizar un análisis asociado con la situación objeto de estudio en este caso indicadores de accidentalidad vial en algunos departamentos de Colombia.Puede emplear la misma variable que uso en las actividades anteriores junto con otra variable de su preferencia o puede escoger una variable distinta a la que selecciono inicialmente lo importante es analizar y establecer si existe alguna relación entre dos variables.Recuerde que las variables deben ser únicamente de tipo cualitativo",
+  ""
+]
+
+=== ROW 31 ===
+[
+  "5",
+  "Continue su proceso de enseñanza - aprendizaje con el desarrollo de la actividad 5. Actividad 5: Aplicaciones de la estadística en la Ingeniería de software Realice un video (de máximo 3 a 5 minutos), subirlo a un canal como YouTube o similares (se sugiere publicar en modo oculto); y compartir el enlace.El video debe presentarse teniendo en cuenta los siguientes parámetros:Debe realizar su presentación personal (nombre, edad, con quien vive, lugar de residencia, hobby o pasatiempos). Debe responder a la pregunta ¿Porque es importante aprender estadística descriptiva para su formación profesional como futuro ingeniero de software o que aplicaciones podría darle en su vida cotidiana, académica o laboral?Puede emplear diapositivas o presentación con las respuestas o las ideas que quiera expresar y puede acompañarla de imágenes o fotografías. Debe compartir la pantalla en caso de tener una presentación de apoyo y debe activarse la cámara durante todo el transcurso de la presentación. Es importante tener en cuenta aspectos como buena iluminación, sonido, presentación personal. Verificar que el enlace del video se pueda visualizar correctamente y no solicite ningún tipo de permiso.Copiar el enlace del video.Realice la entrega del entregable en la plataforma.Una vez realizada la calificación recuerde tener en cuenta los comentarios de retroalimentación para los próximos entregables.",
+  ""
+]
+
+=== ROW 32 ===
+[
+  "Segundo reporte de avances (3, 4 y producto final) – 60%"
+]
+
+=== ROW 33 ===
+[
+  "Descripción general: Durante el desarrollo del avance 3, 4 y el producto final deberá entregar tres informes en formato PDF donde se consolide el desarrollo de todas las actividades propuestas. Los informes deben cumplir con las siguientes condiciones formales de entrega: • Portada• Introducción• Justificación• Objetivos•Conclusiones (Relacionadas con los métodos estadísticos aplicados y la problemática estudiada)• Referencias Bibliográficas.Al finalizar cada informe deberá adjuntar evidencias del desarrollo de las actividades como pantallazos o compartir el enlace directo de la hoja de cálculo donde realizo los procedimientos correspondientes. Verifique en la configuración que cualquier persona con el enlace pueda ver el archivo y asegúrese de que el enlace abra correctamente.Recuerde que deberá seguir trabajando con la problemática de estudio que le fue asignada “accidentalidad vial en algunos departamentos de Colombia para el primer semestre del 2024” y los datos del Anexo 1. Base de datos indicadores de accidentalidad vial en algunos departamentos de Colombia.El desarrollo de las actividades se puede realizar utilizando Excel (Office) o el software Estadístico Infostat.Complemente su proceso de enseñanza aprendizaje con el estudio de los recursos educativos Digitales RED, elaborados por el experto disciplinar: Video Tutorial para la descarga del software InfostatEnlace para la descarga del Infostat: www.infostat.com.ar"
+]
+
+=== ROW 34 ===
+[
+  "Entregables del Avance 3, 4 y producto final."
+]
+
+=== ROW 35 ===
+[
+  "En este segundo reporte de avances, realizará la entrega de los tres informes correspondientes denominados análisis de datos (entregable 3), interpretación de resultados (entregable 4) y presentación de resultados (entregable 5).El desarrollo de las actividades de los entregables 3 y 4 se realizarán de manera individual. El desarrollo de las actividades del entregable 5 se realizará de manera grupal. En este momento evaluativo del proceso usted deberá lograr alcanzar las dimensiones del saber, ser y hacer contemplados en la rúbrica del momento II en el nivel 6.SABER: Valida métodos, técnicas y herramientas de la estadística descriptiva para analizar, comprobar y comparar resultados con base a la situación problema.SER: Comprueba el impacto que tiene el estudio de la estadística descriptiva para resolver problemas en el contexto real y en su desarrollo profesional.HACER: Crea soluciones innovadoras para resolver la situación problema aplicando métodos, técnicas y herramientas estadísticas para la presentación de resultados.Los tres entregables a solicitar equivalen al 60% del total de la calificación final del curso."
+]
+
+=== ROW 36 ===
+[
+  "Condiciones particulares de entrega:",
+  "Diligencie el formato o plantilla Entregable_3. Análisis de datos, Entregable_4. Interpretación de resultados y Entregable_5. Presentación de resultados de acuerdo con la secuencia y apartados de presentación registrados en el mismo.Tenga presente las instrucciones y condiciones para los entregables."
+]
+
+=== ROW 37 ===
+[
+  "Semana",
+  "Secuencia",
+  "Recursos Educativos"
+]
+
+=== ROW 38 ===
+[
+  "6",
+  "Continuamos a la Unidad 3 – medidas estadísticas univariantes con el entregable 3 – Análisis de datosDeberá entregar un informe en formato PDF donde se consolide el desarrollo de las actividades propuestas en la plantilla Entregable_3. Análisis de datos.Actividad 1: Organizador graficoResuma en un mapa conceptual las medidas estadísticas univariantes (medidas de tendencia central, medidas de posición, medidas de dispersión, medidas de asimetría y apuntamiento), detallando cada una de ellas.Se recomienda realizar una revisión de los recursos:Universidad Abierta y a Distancia de México. (s.f.) Unidad 2. Medidas de tendencia central y dispersión. Posada, G. (2016). Capítulo 7. Medidas de tendencia central. En: Elementos básicos de estadística descriptiva para el análisis de datos. Posada, G. (2016). Capítulo 8. Medidas de posición. En: Elementos básicos de estadística descriptiva para el análisis de datos.Posada, G. (2016). Capítulo 9. Medidas de dispersión. En: Elementos básicos de estadística descriptiva para el análisis de datos. Posada, G. (2016). Capítulo 10. Medidas de forma. En: Elementos básicos de estadística descriptiva para el análisis de datos. Suarez. M. (2025). Capítulo 1. Medidas de tendencia central. En: Estadística descriptiva para todos: Fundamentos y aplicaciones – Volumen II. Suarez. M. (2025). Capítulo 2. Medidas de posición. En: Estadística descriptiva para todos: Fundamentos y aplicaciones – Volumen II. Suarez. M. (2025). Capítulo 3. Medidas de dispersión. En: Estadística descriptiva para todos: Fundamentos y aplicaciones – Volumen II. Para la elaboración del organizador grafico puede realizarlo en plataformas como: Miro, Mindmeister, Canva, Genially, Lucidchart, Creately, etc. Debe adjuntar directamente el cuadro sinóptico. Evitar adjuntar enlaces donde se haya creado el recurso ya que la mayoría de las veces solicitan acceso. En caso de adjuntarlo y si no se logra su visualización se calificará teniendo en cuenta los criterios de la rúbrica de evaluación.Las actividades 2 y 3 se pueden realizar utilizando Excel (Office) o el software Estadístico Infostat. Complemente su proceso de enseñanza aprendizaje con el estudio de los recursos educativos Digitales RED, elaborados por el experto disciplinar para el desarrollo de las actividades 2 y 3. Tarjetas didácticas medidas de tendencia central y de dispersiónTarjetas didácticas medidas de posición y medidas de formaPresentación caza del tesoro de las medidas estadísticasPresentación tablas de frecuenciasActividad 2: Medidas univariantes - variable discretaPara el desarrollo de la actividad puede consultar los recursos sugeridos en la actividad 1 y adicionalmente la referencia:Montero, J. M. (2007). Características de Una Distribución de Frecuencias. Statistical Descriptive. Cengage Learning Paraninfo, S.A. Con base en el Anexo 1. Base de datos indicadores de accidentalidad vial en algunos departamentos de Colombia seleccione una variable CUANTITATIVA DISCRETA.Determine los siguientes elementos: a. Tabla de frecuencia datos no agrupados. diseñar una tabla de frecuencia para datos no agrupados de la variable elegida, a partir de ella elaborar un diagrama de barras y un diagrama de líneas o de puntos.b. Medidas de tendencias central y de posición: para la variable cuantitativa discreta elegida, deberá calcular las medidas de tendencia central (media, mediana y moda), medidas de posición: cuartiles 1, 2 y 3, percentil 30 y 90, determinar el tipo de asimetría y curtosis, interpretar los resultados, sacar conclusiones de los parámetros hallados y asociarlos con la problemática de estudio indicadores de accidentalidad vial en algunos departamentos de Colombia.c. Medidas de dispersión: para la variable cuantitativa discreta elegida calcular: rango, varianza, desviación típica o estándar, coeficiente de variación, posteriormente interpretar los resultados, sacar conclusiones de los parámetros hallados y asociarlos con la problemática de estudio indicadores de accidentalidad vial en algunos departamentos de Colombia.Se deben presentar los resultados teniendo en cuenta la tabla consignada en la plantilla del entregable.",
+  "Universidad Abierta y a Distancia de México. (s.f.) Unidad 2. Medidas de tendencia central y dispersión. https://dmd.unadmexico.mx/contenidos/TRONCO_COMUN/EBA/U2/descargables/EBA_U2_Contenidos.pdfPosada, G. (2016). Capítulo 7. Medidas de tendencia central. En: Elementos básicos de estadística descriptiva para el análisis de datos. Fundación Universitaria Luis Amigó. Fondo Editorial Luis Amigó. Medellín (pp. 72 - 85).https://www.funlam.edu.co/uploads/fondoeditorial/120_Ebook-elementos_basicos.pdfPosada, G. (2016). Capítulo 8. Medidas de posición. En: Elementos básicos de estadística descriptiva para el análisis de datos. Fundación Universitaria Luis Amigó. Fondo Editorial Luis Amigó. Medellín (pp. 86 - 95).https://www.funlam.edu.co/uploads/fondoeditorial/120_Ebook-elementos_basicos.pdfPosada, G. (2016). Capítulo 9. Medidas de dispersión. En: Elementos básicos de estadística descriptiva para el análisis de datos. Fundación Universitaria Luis Amigó. Fondo Editorial Luis Amigó. Medellín (pp. 96 - 107).https://www.funlam.edu.co/uploads/fondoeditorial/120_Ebook-elementos_basicos.pdfPosada, G. (2016). Capítulo 10. Medidas de forma. En: Elementos básicos de estadística descriptiva para el análisis de datos. Fundación Universitaria Luis Amigó. Fondo Editorial Luis Amigó. Medellín (pp. 108 - 115).https://www.funlam.edu.co/uploads/fondoeditorial/120_Ebook-elementos_basicos.pdfSuarez. M. (2025). Capítulo 1. Medidas de tendencia central. En: Estadística descriptiva para todos: Fundamentos y aplicaciones – Volumen II. (pp.12 –35) https://www.researchgate.net/publication/391908519_ESTADISTICA_DESCRIPTIVA_PARA_TODOS_FUNDAMENTOS_Y_APLICACIONES_VOLUMEN_ISuarez. M. (2025). Capítulo 2. Medidas de posición. En: Estadística descriptiva para todos: Fundamentos y aplicaciones – Volumen II. (pp.36 – 60) https://www.researchgate.net/publication/391908519_ESTADISTICA_DESCRIPTIVA_PARA_TODOS_FUNDAMENTOS_Y_APLICACIONES_VOLUMEN_ISuarez. M. (2025). Capítulo 3. Medidas de dispersión. En: Estadística descriptiva para todos: Fundamentos y aplicaciones – Volumen II. (pp.61 – 95) https://www.researchgate.net/publication/391908519_ESTADISTICA_DESCRIPTIVA_PARA_TODOS_FUNDAMENTOS_Y_APLICACIONES_VOLUMEN_IMontero, J. M. (2007). Características de Una Distribución de Frecuencias. Statistical Descriptive. Cengage Learning Paraninfo, S.A. (pp 17 – 61). https://link.gale.com/apps/doc/CX4052100008/GVRL?u=unad&sid=GVRL&xid=d49ed557"
+]
+
+=== ROW 39 ===
+[
+  "7",
+  "A través de su proceso de enseñanza - aprendizaje y de la apropiación del conocimiento, enfoque su aprendizaje en la actividad 3. Actividad 3: Medidas univariantes - variable continua Para el desarrollo de la actividad puede consultar los recursos sugeridos en la actividad 1 y 2.Con base en el Anexo 1. Base de datos indicadores de accidentalidad vial en algunos departamentos de Colombia seleccione una variable CUANTITATIVA CONTINUA.Determine los siguientes elementos: a. Tabla de frecuencia datos agrupados. Con la variable cuantitativa continúa elegida, diseñar una tabla de frecuencias para datos agrupados, identificando rango, número de intervalos, amplitud y a partir de ella elaborar un histograma de frecuencias y un polígono de frecuencias. Finalmente, interpretar los resultados de la tabla, de los gráficos estadísticos y asociarlos con la problemática indicadores de accidentalidad vial en algunos departamentos de Colombia.Debe realizar las tablas en Excel teniendo en cuenta el diseño consignado en la plantilla en su hoja de cálculo para la presentación de los resultados.b. Medidas de tendencias central y de posición: Para la variable cuantitativa continúa elegida, deberá calcular las medidas de tendencia central (media, mediana, moda), medidas de posición: cuartiles 1, 2 y 3, percentil 15, 55 y 90, determinar el tipo de asimetría y curtosis e interpretar los resultados, sacar conclusiones de los parámetros hallados y asociarlos con la problemática indicadores de accidentalidad vial en algunos departamentos de Colombia.c. Medidas de dispersión: Para la variable cuantitativa continua elegida calcular: rango, varianza, desviación típica o estándar, coeficiente de variación, posteriormente interpretar los resultados, sacar conclusiones de los parámetros hallados y asociarlos con la problemática indicadores de accidentalidad vial en algunos departamentos de Colombia.Se deben presentar los resultados teniendo en cuenta la tabla consignada en la plantilla del entregable.",
+  ""
+]
+
+=== ROW 40 ===
+[
+  "7",
+  "A través de su proceso de enseñanza - aprendizaje y de la apropiación del conocimiento, enfoque su aprendizaje en la actividad 4. Actividad 4: Relación de la situación problema con los ODS (Objetivos de Desarrollo Sostenible)Diseñe una infografía en la cual pueda presentar como mejorar los indicadores de accidentalidad vial en algunos departamentos de Colombia podría contribuir a los ODS (Objetivos de Desarrollo Sostenible) y con cuales específicamente se podría relacionar. Tener en cuenta los siguientes parámetros de presentación:Busque fuentes de información confiables para el desarrollo de la infografía.Debe incluir gráficos, diagramas, esquemas o imágenes.El texto que se incluya dentro de la infografía debe ser en inglés.Debe tener un diseño creativo.Puede crearlo en cualquier plataforma de preferencia personal. Debe adjuntar directamente la imagen de la infografía. Evitar adjuntar enlaces donde se haya creado, ya que la mayoría de las veces solicitan acceso. En caso de adjuntarlo y si no se logra su visualización se calificará teniendo en cuenta los criterios de la rúbrica de evaluación.Realice la entrega del entregable en la plataforma. Una vez realizada la calificación recuerde tener en cuenta los comentarios de retroalimentación para los próximos entregables",
+  ""
+]
+
+=== ROW 41 ===
+[
+  "8",
+  "Exploraremos la Unidad 4 – Medidas estadísticas bivariantes con el entregable 4 –interpretación de resultados.Deberá entregar un informe en formato PDF donde se consolide el desarrollo de las actividades propuestas en la plantilla Entregable_4. Interpretación de resultados. Actividad 1: Organizador graficoResuma en un diagrama de araña las medidas estadísticas bivariantes de regresión y correlación. Para el desarrollo de la actividad puede consultar los recursos:Talagala, P. (2020). Chapter 10 Correlation and Regression.Universidad Abierta y a Distancia de México. (s.f.) Unidad 3. Correlación y regresión lineal simple. Elias, J. (2019). Análisis bivariante. Para la elaboración del organizador grafico puede realizarlo en plataformas como: Miro, Mindmeister, Canva, Genially, Lucidchart, Creately, etc. Debe adjuntar directamente el diagrama de araña. Evitar adjuntar enlaces donde se haya creado el recurso ya que la mayoría de las veces solicitan acceso. En caso de adjuntarlo y si no se logra su visualización se calificará teniendo en cuenta los criterios de la rúbrica de evaluación.Actividad 2: Aplicación de regresión y correlaciónRealice la consulta de un artículo nacional o internacional (académico o científico relacionado con su carrera profesional como futuro ingeniero de software o una temática de su interés), en el cual se haya implementado un modelo de regresión o análisis de correlación.Para tal fin podrá consultar en la biblioteca en línea de la UDES a través del siguiente enlace: https://udes.edu.co/biblioteca/serviciosPosterior a su lectura y revisión deberá realizar un breve resumen compuesto por mínimo 250 palabras en inglés, donde destaque: titulo, autores, objetivos, resultados y conclusiones del artículo. No se admite presentar el mismo resumen que viene en el artículo en caso de presentar el mismo se calificara teniendo en cuenta la rúbrica de evaluación. Como ejemplo puede consultar el recurso: Torres, L. Ariza, L y Blanco, D (2016). Cinética de adsorción de 2-Nitrofenol desde disolución acuosa sobre carbón activado. Es indispensable que dentro del artículo de su elección efectivamente se haya realizado la aplicación de un modelo de regresión y correlación lineal de lo contrario el articulo no podrá servirle para el desarrollo efectivo de la actividad.",
+  "Talagala, P. (2020). Chapter 10 Correlation and Regression.https://pridiltal.github.io/CM1110/correlation-and-regression.htmlUniversidad Abierta y a Distancia de México. (s.f.) Unidad 3. Correlación y regresión lineal simple. https://dmd.unadmexico.mx/contenidos/TRONCO_COMUN/EBA/U3/descargables/EBA_U3_Contenidos.pdfElias, J. (2019). Análisis bivariante. https://openaccess.uoc.edu/bitstream/10609/148455/1/AnalisisBivariante.pdfTorres, L. Ariza, L y Blanco, D (2016). Cinética de adsorción de 2-Nitrofenol desde disolución acuosa sobre carbón activado. https://revistaciencias.univalle.edu.co/index.php/revista_de_ciencias/article/view/4674/6855"
+]
+
+=== ROW 42 ===
+[
+  "8",
+  "Las actividades 3, 4 y 5 se pueden realizar utilizando Excel (Office) o el software Estadístico Infostat. Complemente su proceso de enseñanza aprendizaje con el estudio de los recursos educativos Digitales RED, elaborados por el experto disciplinar para el desarrollo de las actividades 3, 4 y 5. Tarjetas didácticas medidas estadísticas bivariantes Presentación Unidad 4 – Medidas bivariantes Actividad 3: Ejercicio de aplicaciónCon base a la tabla que se encuentra en la plantilla en la cual se ilustran 8 valores anuales de ganancias de una empresa colombiana en miles de millones en el eje (y), y la inversión en miles de millones de dicha empresa en el eje (x).Calcule los siguientes parámetros: a. Realice el diagrama de dispersión y determine el tipo de asociación entre las variables.b. Encuentre el coeficiente de determinación y correlación.c. Determine el modelo matemático que permite predecir el efecto de una variable sobre la otra. ¿Es confiable?d. Determine el grado de relación de las dos variables.",
+  ""
+]
+
+=== ROW 43 ===
+[
+  "9",
+  "A través de su proceso de enseñanza - aprendizaje y de la apropiación del conocimiento, enfoque su aprendizaje en la actividad 4 y 5. Actividad 4. Regresión y correlación lineal simplePara el desarrollo de la actividad 4 y 5 puede apoyarse en los referentes sugeridos de la actividad 1. Con base en el Anexo 1. Base de datos indicadores de accidentalidad vial en algunos departamentos de Colombia presente los siguientes parámetros:a. Identificar dos variables cuantitativas de la situación estudiada que puedan estar relacionadas e identificar cual podría ser la variable dependiente e independiente.b. Realizar el diagrama de dispersión de dichas variables y determinar el tipo de relación entre las variables.c. Determine al coeficiente de determinación y de correlación de las dos variables. Interprete los resultadosd. Encuentre el modelo matemático que permite predecir el efecto de una variable sobre la otra. ¿Es confiable?e. Presente un análisis general de los resultados obtenidos de acuerdo con la problemática de estudio. Copie y pegue el diagrama de dispersión que realizo desde Excel o desde Infostat. Recuerde que debe aparecer directamente la imagen y no adjuntar enlaces de ningún tipo.Actividad 5. Regresión y correlación múltipleSe sugiere revisar el recurso adicional. Barón, F. (2022). Capítulo 7 Regresión lineal múltiple. En: Apuntes de Estadística.Con base en el Anexo 1. Base de datos indicadores de accidentalidad vial en algunos departamentos de Colombia presente los siguientes parámetros:a. Identificar una variable cuantitativa dependiente y varias variables cuantitativas independientes del estudio de investigación.b. Realizar el diagrama de dispersión de dichas variables y determinar el tipo de relación entre las variables.c. Determine al coeficiente de determinación y de correlación para probar estadísticamente su relación.d. Encuentre el modelo de regresión lineal múltiple. D. Presente un análisis general de los resultados obtenidos de acuerdo con la problemática de estudio. Copie y pegue el diagrama de dispersión que realizo desde Excel o desde Infostat. Recuerde que debe aparecer directamente la imagen y no adjuntar enlaces de ningún tipo. Realice la entrega del entregable en la LMSUna vez realizada la calificación recuerde tener en cuenta los comentarios de retroalimentación para los próximos entregables.",
+  "Barón, F. (2022). Capítulo 7 Regresión lineal múltiple. En: Apuntes de Estadística https://www.bioestadistica.uma.es/apuntesMaster/regresi%C3%B3n-lineal-m%C3%BAltiple.html"
+]
+
+=== ROW 44 ===
+[
+  "10",
+  "Culminamos el curso con el entregable 5 el cual se debe entregar de manera grupal en caso de realizar la entrega de manera individual tenga en cuenta que se tendrá en cuenta los criterios de la rúbrica para su evaluación. Deberá entregar un informe en formato PDF donde se consolide el desarrollo de las actividades propuestas en la plantilla Entregable_5. Presentación de resultados. Las actividades se pueden realizar utilizando Excel (Office) o el software Estadístico Infostat. Ajuste de datos Para iniciar su trabajo, el grupo deberá ajustar la base de datos: Anexo 1. Base de datos indicadores de accidentalidad vial en algunos departamentos de Colombia trabajada a lo largo del curso, el grupo dejará sólo los primeros 100 datos en cada una de las variables y procederá a procesarlos como una muestra de la base original.Una vez ajustada la base de datos, el grupo deberá tomar mínimo seis variables (al menos dos cualitativas, dos cuantitativas discretas y dos cuantitativas continuas) y procesará para cada variable la información solicitada a continuación: Para el desarrollo de esta actividad puede apoyarse en los recursos bibliográficos que fueron trabajados en la Unidad 1,2,3 y 4. Actividad 1. Variable cualitativa -Caracterizar una de las variables cualitativas elegidas presentando: tabla de frecuencias, diagrama de barras y circular, moda, tabla de contingencias y conclusiones.-Realizar una tabla de contingencias con las dos variables cualitativasseleccionadas. Actividad 2. Variable cuantitativa discreta Para una de las variables discreta elegida, se deberán calcular las medidas univariantes de tendencia central: media, mediana, moda y todos los cuartiles. Así mismo deberán calcular las medidas univariantes de dispersión: rango, varianza, desviación típica y coeficiente de variación. Actividad 3. Variable cuantitativa continuaPara una de las variables continúa elegida, se deberán calcular las medidas univariantes de tendencia central: media, mediana, moda y todos los cuartiles. Así mismo deberán calcular las medidas univariantes de dispersión: rango, varianza, desviación típica y coeficiente de variación.",
+  ""
+]
+
+=== ROW 45 ===
+[
+  "12",
+  "Actividad 4. Regresión y correlación entre variables cuantitativasIdentificar las dos variables cuantitativas discreta y continua que no se hayan trabajado en la actividad 2 y 3 de las 6 que se eligieron inicialmente y calcular los siguientes parámetros. Realizar el diagrama de dispersión de dichas variables y determinar el tipo de asociación entre las variables. Encontrar el modelo matemático que permite predecir el efecto de una variable sobre la otra. ¿Es confiable? Determinar el grado de relación de las dos variables. Relacionar la información obtenida con el problema.Actividad 5. Análisis y propuesta de solución a la problemáticaFinalmente, el grupo deberá responder a la pregunta: ¿Qué alternativa de solución plantea para la problemática estudiada?, dicha respuesta deberá estar justificada descriptivamente, es decir para ello (utilizará tablas, gráficos, medidas, diagramas, entre otros) que fueron realizados en las actividades 1,2 y 3.Describir: es explicar, representar, definir con detalle, las cualidades características o las circunstancias de algo o de alguien. Por ejemplo: Del diagrama estadístico “XX\" se desprende que.... De la tabla \"XX\" podemos concluir que.... A partir del valor de las medidas univariantes o de dispersión …Podemos afirmar que…. y… por esto consideramos necesario realizar……. Para ello es necesario disponer de …. (ver tabla XX) y se propone realizar.Realice la entrega del entregable en la plataforma.",
+  ""
+]
+
+=== ROW 46 ===
+[
+  "CIERRE DEL CURSO"
+]
+
+=== ROW 47 ===
+[
+  "Participe en la sesión sincrónica de realimentación y cierre del curso."
+]
+
+=== ROW 48 ===
+[
+  "Nombre",
+  "Rol",
+  "Acción",
+  "Versión",
+  "Fecha"
+]
+
+=== ROW 49 ===
+[
+  "Lady Johana Torres Romero",
+  "Profesor disciplinar",
+  "Diseño del curso",
+  "1",
+  ""
+]
+
+=== ROW 50 ===
+[
+  "",
+  "Diseñador(a) instruccional",
+  "Revisión pedagógica e instruccional",
+  "1",
+  ""
+]
+
+=== ROW 51 ===
+[
+  "",
+  "Revisor(a) de estilo",
+  "Corrección estilo",
+  "1",
+  ""
+]
+
+=== ROW 52 ===
+[
+  "",
+  "Director (a) Coordinador(a) programa",
+  "Aprobación",
+  "1",
+  ""
+]
+

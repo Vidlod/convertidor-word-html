@@ -1,0 +1,412 @@
+## Tabla 1 con A - Adaptar
+
+<table class="table table-striped table-bordered">
+    <tbody>
+        <tr>
+            <th style="text-align:center;">DIMENSIÓN</th>
+            <th style="text-align:center;">VERBO</th>
+            <th style="text-align:center;">ACEPCIÓN</th>
+            <th style="text-align:center;">FUENTE</th>
+        </tr>
+        <tr>
+            <td>Hacer</td>
+            <td>Adaptar</td>
+            <td>1. Acomodar, ajustar algo a otra cosa.</td>
+            <td>Real Academia Española: Diccionario de la lengua española, 23.ª ed., [versión 23.7 en línea]. <a href="https://dle.rae.es/adaptar" target="_blank" rel="noreferrer noopener">https://dle.rae.es/adaptar</a> [06 de junio 2025].</td>
+        </tr>
+    </tbody>
+</table>
+<br>
+<p></p>
+
+--------------------------------------------------------------------------------
+
+## Tabla 2 con A - Analizar
+
+<table class="table table-striped table-bordered">
+    <tbody>
+        <tr>
+            <th style="text-align:center;">DIMENSIÓN</th>
+            <th style="text-align:center;">VERBO</th>
+            <th style="text-align:center;">ACEPCIÓN</th>
+            <th style="text-align:center;">FUENTE</th>
+        </tr>
+        <tr>
+            <td>Ser</td>
+            <td>Analizar</td>
+            <td>Estudiar o examinar algo, separando o considerando por separado sus partes</td>
+            <td>María Moliner, Diccionario del uso del español, edición 1997.</td>
+        </tr>
+    </tbody>
+</table>
+<br>
+<p></p>
+
+--------------------------------------------------------------------------------
+
+## Tabla 3 con A - Atender
+
+<table class="table table-striped table-bordered">
+    <tbody>
+        <tr>
+            <th style="text-align:center;">DIMENSIÓN</th>
+            <th style="text-align:center;">VERBO</th>
+            <th style="text-align:center;">ACEPCIÓN</th>
+            <th style="text-align:center;">FUENTE</th>
+        </tr>
+        <tr>
+            <td>Hacer</td>
+            <td>Atender</td>
+            <td>Tener algo en cuenta o tomar en consideración</td>
+            <td>Real Academia Española: Diccionario de la lengua española, 23.ª ed., [versión 23.7 en línea]. <a href="https://dle.rae.es/atender" target="_blank" rel="noreferrer noopener">https://dle.rae.es/atender</a> [06 de junio de 2025].</td>
+        </tr>
+    </tbody>
+</table>
+<br>
+<p></p>
+
+--------------------------------------------------------------------------------
+
+## Tabla 4 con C - Caracterizar
+
+<table class="table table-striped table-bordered">
+    <tbody>
+        <tr>
+            <th style="text-align:center;">DIMENSIÓN</th>
+            <th style="text-align:center;">VERBO</th>
+            <th style="text-align:center;">ACEPCIÓN</th>
+            <th style="text-align:center;">FUENTE</th>
+        </tr>
+        <tr>
+            <td>Saber</td>
+            <td>Caracterizar</td>
+            <td>Presentar o describir una cosa con sus razgos característicos de manera que resulture inconfundible.</td>
+            <td>Real Academia Española Diccionario de la lengua española, 23.ª ed., [versión 23.7 en línea]. <a href="https://dle.rae.es/caracterizar" target="_blank" rel="noreferrer noopener">https://dle.rae.es/caracterizar</a> [06 de junio 2025].</td>
+        </tr>
+    </tbody>
+</table>
+<br>
+<p></p>
+
+--------------------------------------------------------------------------------
+
+## Tabla 5 con D - Debatir
+
+<table class="table table-striped table-bordered">
+    <tbody>
+        <tr>
+            <th style="text-align:center;">DIMENSIÓN</th>
+            <th style="text-align:center;">VERBO</th>
+            <th style="text-align:center;">ACEPCIÓN</th>
+            <th style="text-align:center;">FUENTE</th>
+        </tr>
+        <tr>
+            <td>Ser</td>
+            <td>Debatir</td>
+            <td>Discutir dos o más personas sobre uno o varios temas exponiendo sus ideas y defendiendo sus opiniones e intereses.</td>
+            <td>Lexico (Oxford)</td>
+        </tr>
+    </tbody>
+</table>
+<br>
+<p></p>
+
+--------------------------------------------------------------------------------
+
+## Tabla 6 con D - Describir
+
+<table class="table table-striped table-bordered">
+    <tbody>
+        <tr>
+            <th style="text-align:center;">DIMENSIÓN</th>
+            <th style="text-align:center;">VERBO</th>
+            <th style="text-align:center;">ACEPCIÓN</th>
+            <th style="text-align:center;">FUENTE</th>
+        </tr>
+        <tr>
+            <td>Saber</td>
+            <td>Describir</td>
+            <td>Delinear, dibujar, figurar una cosa, representándola de modo que dé cabal ideal de ella.</td>
+            <td>María Moliner, Diccionario del uso del español, edición 1997.</td>
+        </tr>
+    </tbody>
+</table>
+<br>
+<p></p>
+
+--------------------------------------------------------------------------------
+
+## Tabla 7 con D - Diseñar
+
+<table class="table table-striped table-bordered">
+    <tbody>
+        <tr>
+            <th style="text-align:center;">DIMENSIÓN</th>
+            <th style="text-align:center;">VERBO</th>
+            <th style="text-align:center;">ACEPCIÓN</th>
+            <th style="text-align:center;">FUENTE</th>
+        </tr>
+        <tr>
+            <td>Hacer</td>
+            <td>Diseñar</td>
+            <td>Hacer el diseño de una cosa, de una estrategia, de un plan. Incorporar talento y creatividad a algo que porta identidad única.</td>
+            <td>María Moliner, Diccionario del uso del español, edición 1997. Y aportes del equipo de DNGP.</td>
+        </tr>
+    </tbody>
+</table>
+<br>
+<p></p>
+
+--------------------------------------------------------------------------------
+
+## Tabla 8 con E - Enunciar
+
+<table class="table table-striped table-bordered">
+    <tbody>
+        <tr>
+            <th style="text-align:center;">DIMENSIÓN</th>
+            <th style="text-align:center;">VERBO</th>
+            <th style="text-align:center;">ACEPCIÓN</th>
+            <th style="text-align:center;">FUENTE</th>
+        </tr>
+        <tr>
+            <td>Saber</td>
+            <td>Enunciar</td>
+            <td>1. Exponer o expresar una idea, un principio o una teoría de manera clara y concisa y en los términos precisos.</td>
+            <td>María Moliner, Diccionario del uso del español, edición 1997.</td>
+        </tr>
+    </tbody>
+</table>
+<br>
+<p></p>
+
+--------------------------------------------------------------------------------
+
+## Tabla 9 con E - Estructurar
+
+<table class="table table-striped table-bordered">
+    <tbody>
+        <tr>
+            <th style="text-align:center;">DIMENSIÓN</th>
+            <th style="text-align:center;">VERBO</th>
+            <th style="text-align:center;">ACEPCIÓN</th>
+            <th style="text-align:center;">FUENTE</th>
+        </tr>
+        <tr>
+            <td>Hacer</td>
+            <td>Estructurar</td>
+            <td>Dar a las partes de un todo una estructura determinada.</td>
+            <td>María Moliner (3ra Version, 2009).</td>
+        </tr>
+    </tbody>
+</table>
+<br>
+<p></p>
+
+--------------------------------------------------------------------------------
+
+## Tabla 10 con E - Explicar
+
+<table class="table table-striped table-bordered">
+    <tbody>
+        <tr>
+            <th style="text-align:center;">DIMENSIÓN</th>
+            <th style="text-align:center;">VERBO</th>
+            <th style="text-align:center;">ACEPCIÓN</th>
+            <th style="text-align:center;">FUENTE</th>
+        </tr>
+        <tr>
+            <td>Saber</td>
+            <td>Explicar</td>
+            <td>Hablar de una cosa para hacerle comprender o conocer a otros. Justificar. Dar razones con las que se demuestra que cierta cosa que parecía culpable o censurable no lo es.</td>
+            <td>María Moliner, Diccionario del uso del español, edición 1997.</td>
+        </tr>
+    </tbody>
+</table>
+<br>
+<p></p>
+
+--------------------------------------------------------------------------------
+
+## Tabla 11 con I - Identificar
+
+<table class="table table-striped table-bordered">
+    <tbody>
+        <tr>
+            <th style="text-align:center;">DIMENSIÓN</th>
+            <th style="text-align:center;">VERBO</th>
+            <th style="text-align:center;">ACEPCIÓN</th>
+            <th style="text-align:center;">FUENTE</th>
+        </tr>
+        <tr>
+            <td>Saber</td>
+            <td>Identificar</td>
+            <td>1. Identificar como. “Reconocer”. Comprobar que una persona o una cosa es la misma conocida en otras circunstancias o de la que se poseen ciertos datos. Establecer la identidad de una persona.</td>
+            <td>María Moliner, Diccionario del uso del español, edición 1997.</td>
+        </tr>
+    </tbody>
+</table>
+<br>
+<p></p>
+
+--------------------------------------------------------------------------------
+
+## Tabla 12 con I - Inferir
+
+<table class="table table-striped table-bordered">
+    <tbody>
+        <tr>
+            <th style="text-align:center;">DIMENSIÓN</th>
+            <th style="text-align:center;">VERBO</th>
+            <th style="text-align:center;">ACEPCIÓN</th>
+            <th style="text-align:center;">FUENTE</th>
+        </tr>
+        <tr>
+            <td>Ser</td>
+            <td>Inferir</td>
+            <td>Deducir una cosa de otra por cualquier razonamiento</td>
+            <td>Acepción 1: María Moliner (3ra Version, 2009).</td>
+        </tr>
+    </tbody>
+</table>
+<br>
+<p></p>
+
+--------------------------------------------------------------------------------
+
+## Tabla 13 con I - Inspeccionar
+
+<table class="table table-striped table-bordered">
+    <tbody>
+        <tr>
+            <th style="text-align:center;">DIMENSIÓN</th>
+            <th style="text-align:center;">VERBO</th>
+            <th style="text-align:center;">ACEPCIÓN</th>
+            <th style="text-align:center;">FUENTE</th>
+        </tr>
+        <tr>
+            <td>Hacer</td>
+            <td>Inspeccionar</td>
+            <td>tr. Examinar, reconocer atentamente.</td>
+            <td>Real Academia Española: Diccionario de la lengua española, 23.ª ed., [versión 23.7 en línea]. <a href="https://dle.rae.es/inspeccionar" target="_blank" rel="noreferrer noopener">https://dle.rae.es/inspeccionar</a> [06 de junio 2025].</td>
+        </tr>
+    </tbody>
+</table>
+<br>
+<p></p>
+
+--------------------------------------------------------------------------------
+
+## Tabla 14 con L - Listar
+
+<table class="table table-striped table-bordered">
+    <tbody>
+        <tr>
+            <th style="text-align:center;">DIMENSIÓN</th>
+            <th style="text-align:center;">VERBO</th>
+            <th style="text-align:center;">ACEPCIÓN</th>
+            <th style="text-align:center;">FUENTE</th>
+        </tr>
+        <tr>
+            <td>Saber</td>
+            <td>Listar</td>
+            <td>Incluir en lista. Crear secuencia consecutiva de nombres de cosas, situaciones o fenómenos.</td>
+            <td>María Moliner, Diccionario del uso del español, edición 1997. Y aportes del equipo de DNGP.</td>
+        </tr>
+    </tbody>
+</table>
+<br>
+<p></p>
+
+--------------------------------------------------------------------------------
+
+## Tabla 15 con O - Opinar
+
+<table class="table table-striped table-bordered">
+    <tbody>
+        <tr>
+            <th style="text-align:center;">DIMENSIÓN</th>
+            <th style="text-align:center;">VERBO</th>
+            <th style="text-align:center;">ACEPCIÓN</th>
+            <th style="text-align:center;">FUENTE</th>
+        </tr>
+        <tr>
+            <td>Ser</td>
+            <td>Opinar</td>
+            <td>Tener cierta opinión sobre algo o alguien. Expresar de forma subjetiva, comentarios sobre algo.</td>
+            <td>María Moliner, Diccionario del uso del español, edición 1997. Y aportes del equipo de DNGP.</td>
+        </tr>
+    </tbody>
+</table>
+<br>
+<p></p>
+
+--------------------------------------------------------------------------------
+
+## Tabla 16 con O - Organizar
+
+<table class="table table-striped table-bordered">
+    <tbody>
+        <tr>
+            <th style="text-align:center;">DIMENSIÓN</th>
+            <th style="text-align:center;">VERBO</th>
+            <th style="text-align:center;">ACEPCIÓN</th>
+            <th style="text-align:center;">FUENTE</th>
+        </tr>
+        <tr>
+            <td>Hacer</td>
+            <td>Organizar</td>
+            <td>Disponer como ha de realizarse una cosa y preparar lo necesario para ello.</td>
+            <td>María Moliner, Diccionario del uso del español, edición 1997.</td>
+        </tr>
+    </tbody>
+</table>
+<br>
+<p></p>
+
+--------------------------------------------------------------------------------
+
+## Tabla 17 con P - Percibir
+
+<table class="table table-striped table-bordered">
+    <tbody>
+        <tr>
+            <th style="text-align:center;">DIMENSIÓN</th>
+            <th style="text-align:center;">VERBO</th>
+            <th style="text-align:center;">ACEPCIÓN</th>
+            <th style="text-align:center;">FUENTE</th>
+        </tr>
+        <tr>
+            <td>Ser</td>
+            <td>Percibir</td>
+            <td>“Advertir. Apreciar. Notar”. Enterarse de la existencia de una cosa por los sentidos, o por la inteligencia servida por los sentidos. Percibir la diferencia entre dos cosas.</td>
+            <td>María Moliner, Diccionario del uso del español, edición 1997.</td>
+        </tr>
+    </tbody>
+</table>
+<br>
+<p></p>
+
+--------------------------------------------------------------------------------
+
+## Tabla 18 con S - Seleccionar
+
+<table class="table table-striped table-bordered">
+    <tbody>
+        <tr>
+            <th style="text-align:center;">DIMENSIÓN</th>
+            <th style="text-align:center;">VERBO</th>
+            <th style="text-align:center;">ACEPCIÓN</th>
+            <th style="text-align:center;">FUENTE</th>
+        </tr>
+        <tr>
+            <td>Ser</td>
+            <td>Seleccionar</td>
+            <td>Elegir una o varias personas o cosas entre un conjunto por un determinado criterio o motivo</td>
+            <td>Oxford</td>
+        </tr>
+    </tbody>
+</table>
+<br>
+<p></p>
+

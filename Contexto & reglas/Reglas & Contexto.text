@@ -1,0 +1,127 @@
+La estructura siempre será la siguiente:
+
+
+Para Entregables
+
+Los entregables, mismo caso estructura correcta información equivocada, en el archivo pdf de Instrucciones generales de la criminología, se encuentran los 5 entregables.
+
+Ahora la estructura que maneja el html tiene dos apartados:
+Forma de entrega / Tenga en cuenta (esta pestaña debe corregirse si dice "Formato de entrega").
+
+Si en el pdf suministrado el párrafo "Documento: (Información del pdf)" no está en el html entonces no se coloca el apartado y se toma el primer párrafo y se deja en la pestaña "forma de entrega".
+En la estructura del archivo original a veces puede decir (Desarrolle el entregable siguiendo las indicaciones del formato suministrado para su estructuración. Lea con atención las instrucciones para su correcto diligenciamiento. No modifique ni elimine elementos del formato.), esta parte no se coloca a no ser de que esté en el archivo pdf de su respectivo Entregable / Avance.
+
+Anexos: 
+
+Si en cualquier estructura del html se encuentran anexos, se deben enlazar de forma local utilizando el formato portable @@PLUGINFILE@@/Nombre_Archivo.ext con el nombre exacto del archivo ubicado en la carpeta "Archivos E", siempre en negrita (<strong>). Se prohíbe el uso de enlaces a OneDrive o SharePoint (Drives) en el HTML.
+
+En los grupos de las viñetas, cuando las viñetas sobrepasen los 3 o dos renglones dejas un espacio entre ellas (style="margin-bottom: 10px;"), cuando solo tengan un renglón las puedes dejar pegadas (sin margen).
+
+
+Para Línea del tiempo:
+
+Necesito que cuando le dé click a los títulos me lleve a los enlaces del respectivo entregable / avance.
+Los títulos solo deben ser "Avance (Número)" (sin subtítulos ni textos adicionales).
+Para el último avance (Producto Final) se aplica la regla de colocar "Producto Final" tanto en el texto como en el atributo title.
+Elimina la línea de CIERRE DE CURSO (no va).
+
+REGLAS (No inventar nada, no parafrasear nada, si no se encuentra me avisas, si en un grupo de viñetas, una tiene más de 3 renglones o 2 tienen 2 renglones se separan con style="margin-bottom: 10px;").
+El texto nunca se pone en cursiva, solo negrita y texto normal. Si en la estructura original los títulos están con las negritas en azulado, se deja el título corregido con esa estructura. Todo esto guiándote de los archivos Word y a veces PDF adjuntados.
+
+En cuanto a viñetas:
+- **Prohibición de saltos de línea inter-bloque**: Queda prohibido usar saltos de línea (`<br>` o `<br><br>`) directamente entre elementos de bloque (ej. entre `</p>` y `<ul>` o entre `</ul>` y `<p>`). Esto causa una visualización de doble/triple renglón en Moodle debido a la acumulación con los márgenes por defecto de los bloques. Las listas y párrafos deben ir consecutivos sin saltos entre ellos.
+- **No combinar `<li>` y `<p>`**: Queda estrictamente prohibido colocar etiquetas de párrafo `<p>` dentro de viñetas `<li>`. El texto debe ir directo dentro del `<li>` sin anidar `<p>`.
+- **Punto final obligatorio**: Siempre al final del texto de cada viñeta (`<li>`) se debe colocar un punto (`.`).
+
+Si se hace una cita junto con un enlace, el texto de la cita va en formato normal (texto plano sin negrita ni cursiva), y el link se coloca debajo separado por un salto de línea (<br>), visible e hipervinculado, y siempre en negrita (<strong>). Las citas siempre se van a separar por viñetas.
+
+Si en cualquier html llega a hacer referencia a un RECURSO EDUCATIVO (RED) o anexo:
+- Se debe enlazar localmente en formato portable usando @@PLUGINFILE@@/Nombre_Archivo.ext con el nombre exacto del archivo en negrita, abriendo siempre en pestaña nueva (target="_blank" rel="noopener").
+- **Siempre deben de tener su propia viñeta (`<li>`)**. Nunca colocarlos fuera de viñetas.
+- **Audición de Podcasts**: Siempre que haya un podcast en los recursos, se debe escuchar para verificar y cambiar su título en el HTML dependiendo de lo que el audio mencione en su grabación.
+
+En el apartado de Contenidos de los entregables:
+En los momentos 1 o 2, en la última semana de cada avance (ej. Semana 3 para Avance 1, Semana 6 para Avance 2, Semana 8 para Avance 3, Semana 10 para Avance 4, Semana 14 para Producto Final), se agrega un botón de envío centrado al final de esa semana con el formato estándar de Moodle:
+
+<div style="text-align: center;">
+    <a href="https://virtual.udes.edu.co/mod/assign/view.php?id=XXXX" target="_blank" rel="noopener">
+        <button type="button" class="btn btn-outline-primary btn-lg" aria-pressed="true" role="button">
+            <span class="spinner-grow spinner-grow-sm"></span> Enviar Producto Final.
+        </button>
+    </a>
+</div>
+
+*Nota: Para el último avance del momento 2 (Producto Final), el botón debe decir "Enviar Producto Final." en lugar de "Enviar Producto Final".*
+
+También en la pestaña "Instrumento para Enviar Entregable" (Pestaña 4) de cada momento, se deben colocar o ajustar los botones de envío correspondientes al número de avances de dicho momento.
+
+Estructura Glosario:
+
+Sin enlace:
+
+<table class="table table-striped table-bordered">
+    <tbody>
+        <tr>
+            <th style="text-align:center;">DIMENSIÓN</th>
+            <th style="text-align:center;">VERBO</th>
+            <th style="text-align:center;">ACEPCIÓN</th>
+            <th style="text-align:center;">FUENTE</th>
+        </tr>
+        <tr>
+            <td>Ser</td>
+            <td>Analizar</td>
+            <td>Estudiar o examinar algo, separando o considerando por separado sus partes.</td>
+            <td>María Moliner, Diccionario del uso del español, edición 1997.</td>
+        </tr>
+    </tbody>
+</table>
+<br>
+<p></p>
+
+Con enlace (ej. Real Academia Española):
+Usar la misma estructura de tabla. El enlace de la fuente en la última columna debe abrir en una nueva pestaña (target="_blank" rel="noreferrer noopener").
+
+Regla de Destino de Enlaces:
+Todos los links (páginas externas, botones de envío, archivos locales como PDF o Word mediante @@PLUGINFILE@@) deben abrirse en otra pestaña utilizando target="_blank" y rel="noopener" (excepto los enlaces de anclaje internos que inician con #). Para enlaces externos como RAE o eLibro, usar rel="noreferrer noopener".
+
+Regla de Créditos y Horas (Introducción al Curso):
+Los créditos académicos y la intensidad horaria en la pestaña "Detalles del Curso" se extraen obligatoriamente de la Rúbrica 1 (Rúbrica 1.pdf).
+
+Regla de Respeto a la Puntuación Original:
+Todos los puntos seguidos y puntos aparte (párrafos y saltos de línea) de los documentos Word/PDF de origen se deben respetar y trasladar de forma exacta al HTML sin alterarlos.
+
+Regla de Terminología (Cambio de "Módulo" a "curso"):
+Siempre que aparezca la palabra "Módulo" (o sus variantes m/M y s/pl: módulo, Módulos, módulos) en los insumos o plantillas HTML, se debe cambiar por la palabra "curso" (o curso, cursos), manteniéndose en minúscula a no ser que sea necesario el uso de mayúscula inicial por reglas ortográficas o de redacción.
+
+Regla de Ubicación de Párrafo de Envío:
+El párrafo que indica la acción de entrega (ej. "Envíe el documento en formato PDF...") debe colocarse obligatoriamente al final de todo el cuerpo de texto de la pestaña/sección (directamente encima del botón de envío). Cualquier otro párrafo (como el de "Exposiciones orales") debe ir arriba de este.
+
+Regla de Estructura de Entregables (Subtítulo de Entregable):
+Debajo del título principal (<h3>) de cada entregable (ya sea Avance o Producto Final), debe ir un subtítulo (<h5>) con la descripción del entregable tomada de la tabla de la AAA bajo la columna "Nombre del entregable". Esta descripción debe estructurarse de la forma "<h5>Tipo de entregable: <span style="">Descripción...</span></h5><br>". Se prohíbe duplicar este párrafo descriptivo del entregable dentro de la pestaña "Forma de entrega".
+
+Regla de Fusión de Filas en Resumen de Entregas:
+En la tabla de Resumen de Entregas (tanto de la Introducción al curso como de los Momentos Evaluativos), no se deben repetir filas que compartan el mismo bloque de semanas y la misma semana de entrega. En su lugar, las celdas de las columnas de "Duración Semana" y "Semana de Entrega" correspondientes al avance y al cuestionario de ese periodo deben fusionarse utilizando el atributo rowspan="2" (o el número de celdas correspondiente) para agruparlas de forma ordenada.
+
+Regla de Fusión de Semanas en Pestañas de Contenido (Contenido de los Entregables):
+En las pestañas de "Contenido de los Entregables" de ambos Momentos Evaluativos, no se deben tener pestañas separadas para cada semana individual si estas corresponden al mismo entregable o avance. En su lugar, se deben fusionar en una única pestaña agrupada que abarque el rango de semanas correspondiente (ej. "Semanas 1 - 3", "Semanas 4 - 5" para el Momento 1; "Semanas 6 - 7", "Semanas 8 - 9", "Semanas 10 - 12" para el Momento 2), y se debe consolidar todo el contenido de esas semanas en un único panel de contenido correspondiente a la pestaña agrupada.
+
+Regla de Formateo Único de Recursos (Alineamiento con Momento 2):
+Todos los recursos bibliográficos y de ampliación temática deben ser listados una única vez en el lugar donde son presentados (debajo del párrafo de la actividad correspondiente). Queda estrictamente prohibido duplicar los recursos bibliográficos al final de las pestañas semanales como una lista general. Los recursos se colocan en viñetas (<ul> y <li>) únicamente si el recurso mencionado tiene un link en el word (con la cita completa y link visible en negrita <strong><a href="..." target="_blank" rel="noopener">...</a></strong>). Los recursos (RED) se dejan igual en negrita (y con el @@plugin si corresponde).
+
+Regla de Separación de Listas de Texto (Cuestionarios y Ejercicios):
+Siempre que se presente una lista basada en texto plano en la cual los elementos estén numerados (ej. 1), 2), 3)... o 1., 2., 3....), se debe asegurar que cada elemento se separe del siguiente utilizando un doble salto de línea (<br><br>), de forma que visualmente quede una línea en blanco de separación y no queden agrupados en renglones consecutivos pegados, respetando el límite máximo de 2 saltos de línea y no dejando saltos vacíos al final.
+
+Regla de Prevención de Emoticonos Automáticos en Moodle:
+Moodle cuenta con filtros automáticos que convierten combinaciones de caracteres como (y) o (x) en emoticonos (por ejemplo, (y) se convierte en 👍). Para evitar esto sin alterar visualmente el texto, se debe envolver el carácter interior en una etiqueta span (ej. (<span>y</span>) o (<span>x</span>)), lo cual rompe la expresión regular del filtro de Moodle manteniendo la renderización exacta en pantalla.
+
+Regla de Consistencia en Marcadores de Listas de Texto (Negritas):
+Cuando se tengan listas de texto plano marcadas con letras o números (ej. a., b., c. o 1., 2., 3.) y los títulos de los elementos lleven negrita (<strong>), el marcador (la letra o número) debe ir consistentemente dentro del tag de negrita para todos los elementos (ej. <strong>a. Título.</strong>), y nunca mezclar formatos donde algunos marcadores queden fuera y otros dentro del tag strong.
+
+Regla de Espaciado de Botones de Envío:
+Todos los botones de envío (tanto los de las pestañas semanales como los de la pestaña "Instrumento para Enviar Entregable") deben ir colocados exactamente un renglón después del último párrafo o elemento que los antecede. Queda estrictamente prohibido usar saltos de línea (<br> o <br><br>) o párrafos vacíos redundantes en medio. La separación debe lograrse de manera limpia a través del margen inferior nativo del elemento anterior. Únicamente se permite usar un párrafo vacío (<p></p>) entre botones de envío consecutivos en la pestaña de envíos múltiples para asegurar su separación visual.
+
+
+
+
+
+

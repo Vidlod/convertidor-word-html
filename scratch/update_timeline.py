@@ -1,0 +1,84 @@
+import os
+
+timeline_html = """<section class="timeline_area section_padding_130 bg-white border-light rounded pt-3 pt-md-4 pt-lg-5 pb-3 pb-md-4 pb-lg-5 px-3 px-md-4 px-lg-5" style="border-width: 1px; border-style: solid;">
+    <div class="container">
+
+        <div class="row" style="border-width: 0px; border-style: solid;">
+            <div class="col-12">
+                <!-- Timeline Area-->
+                <div class="apland-timeline-area">
+                    <!-- Single Timeline Content-->
+                    <div class="single-timeline-area">
+                        <div class="timeline-date wow fadeInLeft" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInLeft;">
+                            <p>Semanas 1 a 5<br>40%</p>
+                        </div>
+                        <div class="row">
+                            <!-- Inicio-->
+                            <div class="col-12 col-md-6 col-lg-4">
+                                <div class="single-timeline-content d-flex wow fadeInLeft" data-wow-delay="0.3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInLeft;">
+                                    <div class="timeline-icon"><i class="fa fa-check-square-o" aria-hidden="true"></i></div>
+                                    <div class="timeline-text">
+                                        <h6><a href="https://virtual.udes.edu.co/mod/assign/view.php?id=3891" target="_blank" rel="noopener" title="Avance 1">Avance 1</a></h6>
+                                        <p>de la Semana 1 a la Semana 3</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-12 col-md-6 col-lg-4">
+                                <div class="single-timeline-content d-flex wow fadeInLeft" data-wow-delay="0.4s">
+                                    <div class="timeline-icon"><i class="fa fa-check-square-o" aria-hidden="true"></i></div>
+                                    <div class="timeline-text">
+                                        <h6><a href="https://virtual.udes.edu.co/mod/assign/view.php?id=3892" target="_blank" rel="noopener" title="Avance 2">Avance 2</a></h6>
+                                        <p>de la Semana 4 a la Semana 5</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Single Timeline Content-->
+                    <div class="single-timeline-area">
+                        <div class="timeline-date wow fadeInLeft" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInLeft;">
+                            <p>Semanas 6 a 12<br>60%</p>
+                        </div>
+                        <div class="row">
+                            <div class="col-12 col-md-6 col-lg-4">
+                                <div class="single-timeline-content d-flex wow fadeInLeft" data-wow-delay="0.3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInLeft;">
+                                    <div class="timeline-icon"><i class="fa fa-check-square-o" aria-hidden="true"></i></div>
+                                    <div class="timeline-text">
+                                        <h6><a href="https://virtual.udes.edu.co/mod/assign/view.php?id=3893" target="_blank" rel="noopener" title="Avance 3">Avance 3</a></h6>
+                                        <p>de la Semana 6 a la Semana 7</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-12 col-md-6 col-lg-4">
+                                <div class="single-timeline-content d-flex wow fadeInLeft" data-wow-delay="0.4s">
+                                    <div class="timeline-icon"><i class="fa fa-check-square-o" aria-hidden="true"></i></div>
+                                    <div class="timeline-text">
+                                        <h6><a href="https://virtual.udes.edu.co/mod/assign/view.php?id=3894" target="_blank" rel="noopener" title="Avance 4">Avance 4</a></h6>
+                                        <p>de la Semana 8 a la Semana 9</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-12 col-md-6 col-lg-4">
+                                <div class="single-timeline-content d-flex wow fadeInLeft" data-wow-delay="0.5s">
+                                    <div class="timeline-icon"><i class="fa fa-graduation-cap" aria-hidden="true"></i></div>
+                                    <div class="timeline-text">
+                                        <h6><a href="https://virtual.udes.edu.co/mod/assign/view.php?id=3895" target="_blank" rel="noopener" title="Producto Final">Producto Final</a></h6>
+                                        <p>de la Semana 10 a la Semana 12</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+"""
+
+# Let's write directly to the target file
+html_path = "/Users/buc-cvudes-medios1/Documents/GEO/PLANTILLA_CURSO/3_paginas_finales/Linea del tiempo/Lineadeltiempo.html"
+with open(html_path, "w", encoding="utf-8") as f:
+    f.write(timeline_html)
+
+print("Lineadeltiempo.html updated successfully!")
