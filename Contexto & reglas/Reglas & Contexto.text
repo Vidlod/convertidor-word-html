@@ -88,7 +88,7 @@ Regla de Créditos y Horas (Introducción al Curso):
 Los créditos académicos y la intensidad horaria en la pestaña "Detalles del Curso" se extraen obligatoriamente de la Rúbrica 1 (Rúbrica 1.pdf).
 
 Regla de Respeto a la Puntuación Original:
-Todos los puntos seguidos y puntos aparte (párrafos y saltos de línea) de los documentos Word/PDF de origen se deben respetar y trasladar de forma exacta al HTML sin alterarlos.
+Todos los puntos seguidos y puntos aparte (párrafos y saltos de línea) de los documentos Word/PDF de origen se deben respetar y trasladar de forma exacta al HTML sin alterarlos. Esta regla no tiene excepciones: si el Word tiene UN solo párrafo (aunque mencione varios entregables o plantillas), el HTML genera UN solo `<p>`. No crear párrafos ni bloques extra que el Word no tiene. Los saltos de línea internos (`<br><br>`) que vengan del HTML convertido se conservan, pero no se inventan separaciones nuevas.
 
 Regla de Terminología (Cambio de "Módulo" a "curso"):
 Siempre que aparezca la palabra "Módulo" (o sus variantes m/M y s/pl: módulo, Módulos, módulos) en los insumos o plantillas HTML, se debe cambiar por la palabra "curso" (o curso, cursos), manteniéndose en minúscula a no ser que sea necesario el uso de mayúscula inicial por reglas ortográficas o de redacción.

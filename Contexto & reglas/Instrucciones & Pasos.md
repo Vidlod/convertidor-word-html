@@ -18,6 +18,7 @@ El flujo de trabajo y la organización de archivos se estructuran en las siguien
 ## 1. Regla de Oro
 * **No inventar nada, no parafrasear nada:** La información textual debe coincidir exactamente con los archivos de origen (Words, PDFs, etc.). 
 * Si algún texto, instrucción o recurso no se encuentra en el archivo origen, se debe **detener y avisar al usuario** para que lo aclare, sin asumir ni inventar información.
+* **La estructura de párrafos del Word es sagrada:** si el Word tiene un solo `<p>` (aunque mencione varios entregables, anexos u otras cosas), el HTML genera un solo `<p>`. No crear párrafos ni bloques adicionales que el Word no tiene. Los saltos de línea internos (`<br><br>`) que el HTML convertido traiga del Word se conservan, pero no se inventan separaciones nuevas.
 
 ---
 
