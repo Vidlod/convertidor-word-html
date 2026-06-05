@@ -42,7 +42,7 @@ El flujo de trabajo y la organización de archivos se estructuran en las siguien
 * **Podcasts como RED**: Los podcasts son considerados Recursos Educativos Digitales (RED) y se integran mediante un reproductor de audio HTML5 nativo utilizando el formato de enlace portable.
   * Formato de código:
     ```html
-    <li style="margin-bottom: 10px;"><strong>Podcast: Título del Podcast.</strong><br><br>
+    <li><strong>Podcast: Título del Podcast.</strong><br><br>
         <audio controls="true" title="Podcast: Título del Podcast">
             <source src="@@PLUGINFILE@@/Nombre_Archivo.mp3">@@PLUGINFILE@@/Nombre_Archivo.mp3
         </audio>
@@ -56,10 +56,10 @@ El flujo de trabajo y la organización de archivos se estructuran en las siguien
 ## 4. Estructura, Viñetas y Espaciado
 * **Punto Final Obligatorio**: Al final del texto de cada viñeta (`<li>`), se debe colocar obligatoriamente un punto final (`.`).
 * **Prohibición de Combinar `<li>` y `<p>`**: Queda estrictamente prohibido anidar etiquetas de párrafo (`<p>`) dentro de las etiquetas de lista o viñeta (`<li>`). El contenido o texto debe escribirse directamente dentro del elemento `<li>` (ej. `<li>Texto...</li>`), sin envolverlo en etiquetas `<p>`, para evitar distorsiones en los márgenes y en el renderizado del navegador.
-* **Espaciado entre ítems (margin-bottom)**: 
-  * Si en un grupo de viñetas (`<ul>` o `<ol>`), al menos **una viñeta tiene más de 3 renglones**, o bien **dos viñetas tienen 2 renglones**, se debe aplicar un espacio de separación entre cada ítem.
-  * Implementación: Añadir `style="margin-bottom: 10px;"` a cada etiqueta `<li>` de ese grupo de viñetas.
-  * Si los ítems tienen un solo renglón, se dejan pegados (sin margen).
+* **Prohibición de Márgenes Inline para Separación**:
+  * Queda estrictamente prohibido el uso de estilos de margen inline (`style="margin-bottom: ..."` o `style="margin-top: ..."`) en cualquier etiqueta HTML (`p`, `li`, `h4`, etc.) para forzar la separación visual.
+  * Si es estrictamente necesario separar elementos de forma manual y no existe espaciado nativo, se debe utilizar únicamente la etiqueta `<br>`.
+  * Los párrafos (`<p>`) ya cuentan con separación automática en Moodle, por lo que queda prohibido insertar etiquetas `<br>` o márgenes inline entre ellos.
 * **Prohibición de saltos de línea inter-bloque (Prevención de Doble Espacio)**:
   * Queda estrictamente prohibido colocar etiquetas de salto de línea (`<br>` o `<br><br>`) directamente entre elementos de bloque HTML (por ejemplo, entre `</p>` y `<ul>`, o entre `</ul>` y `<p>`).
   * Moodle aplica márgenes CSS por defecto a los bloques. Colocar saltos de línea entre bloques acumula el margen con el salto de línea, produciendo una separación visual excesiva (doble renglón). Las listas y párrafos deben limitarse a abrirse y cerrarse consecutivamente (ej. `</p><ul>` o `</ul><p>`).
@@ -238,11 +238,6 @@ El flujo de trabajo y la organización de archivos se estructuran en las siguien
 
 ---
 
-## 23. Regla de Fusión de Semanas en Pestañas de Contenido (Contenido de los Entregables)
-* **Pestañas Agrupadas por Rango de Semanas:** En las pestañas de "Contenido de los Entregables" de ambos Momentos Evaluativos, queda prohibido tener pestañas de navegación superior (`nav-tabs`) separadas para cada semana individual si estas corresponden al mismo entregable o avance. En su lugar, se deben fusionar en una única pestaña agrupada que abarque el rango de semanas correspondiente (ej. "Semanas 1 - 3", "Semanas 4 - 5" para el Momento 1; "Semanas 6 - 7", "Semanas 8 - 9", "Semanas 10 - 12" para el Momento 2). Todo el contenido visual e instructivo de esas semanas debe consolidarse en un único panel de contenido (`tab-pane`) correspondiente a la pestaña agrupada.
-
----
-
 ## 24. Regla de Formateo Único de Recursos (Alineamiento con Momento 2)
 * **Eliminación de Redundancias:** Todos los recursos bibliográficos y de ampliación temática deben ser listados una única vez en el lugar donde son presentados (debajo del párrafo de la actividad correspondiente). Queda estrictamente prohibido duplicar los recursos bibliográficos al final de las pestañas semanales (como una lista redundante general).
 * **Formateo al Primer Uso:** Siempre que se haga referencia a recursos en el texto (ej. "Para el desarrollo de la actividad puede consultar los recursos:"), se debe colocar inmediatamente la estructura correcta del recurso. Se usarán viñetas (`<ul>` y `<li>`) únicamente si el recurso mencionado tiene un link en el word (con la cita completa y link visible en negrita). Los recursos (RED) se dejan igual en negrita y con el @@plugin si corresponde.
@@ -270,3 +265,20 @@ El flujo de trabajo y la organización de archivos se estructuran en las siguien
 * **Separación de Botones:** Todos los botones de envío (tanto los de las pestañas semanales como los de la pestaña "Instrumento para Enviar Entregable") deben ir colocados exactamente un renglón después del último párrafo o elemento que los antecede.
 * **Prohibición de Elementos Intermedios:** Queda estrictamente prohibido usar saltos de línea (`<br>` o `<br><br>`) o párrafos vacíos redundantes en medio. La separación debe lograrse a través del margen inferior nativo del elemento anterior.
 * **Separador de Botones Múltiples:** Únicamente se permite usar un párrafo vacío (`<p></p>`) entre botones de envío consecutivos en la pestaña de envíos múltiples para asegurar su separación visual sin acumular espacios en blanco innecesarios.
+
+---
+
+## 29. Regla de Consistencia de Insumos (PDF vs Word)
+* **Prioridad Syllabus y AAA:** En caso de discrepancias o inconsistencias entre los archivos PDF y Word (especialmente en los créditos académicos y la intensidad horaria del Syllabus, las ponderaciones de calificaciones de los momentos o la estructura de las actividades y entregables de la AAA), se dará siempre prioridad al Syllabus y a la AAA.
+* **Notificación Obligatoria:** Ante cualquier inconsistencia o contradicción entre los insumos, NO se corregirá de forma autónoma en el código HTML: se debe detener el procesamiento e informar/avisar de inmediato al usuario sobre la inconsistencia encontrada para que determine las acciones a seguir.
+
+---
+
+## 30. Regla de Enlaces a Foros
+* **Enlaces de Foros en Moodle:** Siempre que en los textos de origen o plantillas HTML se haga referencia a un tipo de foro (por ejemplo, foro social, foro punto de encuentro, foro de presentación, etc.), se debe detener el procesamiento e informar al usuario para que proporcione el enlace (link) correspondiente de Moodle y poder hipervincularlo adecuadamente en el HTML.
+
+---
+
+## 31. Regla de Evitar RED Redundantes al Final de Sección (Clarificación)
+* **Evitar RED Redundantes:** Si un recurso educativo (RED) como el mapa conceptual, el syllabus, o el video de bienvenida ya se menciona e hipervincula al inicio de los párrafos semanales o del momento correspondiente, dicho recurso NO se debe incluir ni repetir en el listado de Recursos Educativos Digitales (RED) que se coloca al final de esa misma sección o semana para evitar redundancias.
+* **Menciones Inline Posteriores:** Si el recurso vuelve a mencionarse de forma justificada en un párrafo intermedio o posterior del texto, se enlazará e hipervinculará normalmente en línea conforme a la regla de enlaces portable.

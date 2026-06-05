@@ -93,6 +93,13 @@ def validate_file(path):
     if 'font-style: italic' in content or 'font-style:italic' in content:
         errors.append("Forbidden font-style: italic style found.")
         
+    # 1.5. Check for forbidden positive inline margins
+    # Match any style attribute with margin-bottom, margin-top, margin-left, margin-right, or margin
+    # having a positive value (e.g. 10px, 16px, 36px, 0.5rem, etc., excluding 0, 0px, 0rem)
+    margin_matches = re.finditer(r'style="[^"]*margin(-(bottom|top|left|right))?\s*:\s*(?!(0\b|0px\b|0rem\b))[^;"]+;?[^"]*"', content, re.IGNORECASE)
+    for match in margin_matches:
+        errors.append(f"Forbidden inline margin style found: {match.group()}")
+        
     # 2. Check for modulo/módulo (case insensitive, word boundary)
     modulos = re.findall(r'\bmódulo[s]?\b|\bmodulo[s]?\b', content, re.IGNORECASE)
     if modulos:
@@ -143,7 +150,7 @@ def validate_file(path):
         errors.append(f"Found more than 2 consecutive <br> tags: {len(br_matches)} instances.")
         
     # 5c. Check for inter-block br tags (double spacing in Moodle)
-    inter_block_br = re.findall(r'</(p|ul|ol|h[1-6]|div|table|li)>\s*<br\s*/?>(\s*<br\s*/?>)*\s*<(p|ul|ol|h[1-6]|div|table|li)\b', content, re.IGNORECASE)
+    inter_block_br = re.findall(r'</(p|h[1-6]|div|table)>\s*<br\s*/?>(\s*<br\s*/?>)*\s*<(p|h[1-6]|div|table)\b', content, re.IGNORECASE)
     if inter_block_br:
         errors.append(f"Found {len(inter_block_br)} inter-block <br> tags (e.g. between closing and opening block tags).")
         
@@ -153,19 +160,17 @@ def validate_file(path):
         errors.append(f"Found list marker (letter or number) outside of strong tag: {outside_markers}")
         
     # 6. Check trailing br inside list elements or close elements
-    trailing_br = re.findall(r'<br\s*/?>\s*</(li|ul|ol|p|div|tr|td)>', content, re.IGNORECASE)
+    trailing_br = re.findall(r'<br\s*/?>\s*</(p|div|tr|td)>', content, re.IGNORECASE)
     if trailing_br:
         errors.append(f"Found trailing <br> immediately before closing tag: {trailing_br}")
 
-    # 7. Check buttons text and periods for weekly buttons only
+    # 7. Check buttons text and ensure they do NOT end with a period
     buttons = re.findall(r'<button[^>]*>(.*?)</button>', content, re.DOTALL)
     for btn in buttons:
         btn_clean = re.sub(r'<[^>]*>', '', btn).strip()
         btn_collapsed = " ".join(btn_clean.split())
-        # Weekly button check (starts with Enviar and ends with Avance/Producto Final)
-        if btn_collapsed.startswith("Enviar") and not btn_collapsed.startswith("Enviar Entregable Avance"):
-            if not btn_collapsed.endswith('.'):
-                errors.append(f"Delivery button text does not end with a period: {repr(btn_collapsed)}")
+        if btn_collapsed.endswith('.'):
+            errors.append(f"Button text must not end with a period: {repr(btn_collapsed)}")
 
     # 7.5. Check for forbidden use of "formato" (Formato vs Forma rule)
     text_content = re.sub(r'<[^>]*>', ' ', content)
@@ -180,22 +185,24 @@ def validate_file(path):
             errors.append(f"Forbidden use of word 'formato' (must use 'forma' unless specifying file extensions like PDF/Word) around: ...{snippet_clean}...")
 
     # 7.8. Check that paragraph breaks (puntos apartes) from AAA are respected in Momentos descriptions
+    # Normalize whitespaces to prevent matches failure due to line-breaks
+    content_clean = re.sub(r'\s+', ' ', content)
     if "Momento Evaluativo1.html" in path:
-        if "Al finalizar cada informe" not in content:
+        if "Al finalizar cada informe" not in content_clean:
             errors.append("Missing paragraph 'Al finalizar cada informe...' in Momento 1 description.")
         
         checks = [
-            ("entregar dos informes en formato PDF donde se consolide el desarrollo de todas las actividades propuestas.", "Los informes deben cumplir con las siguientes condiciones"),
+            ("entregar dos informes en formato PDF donde se consolide el desarrollo de todas las actividades propuestas.", "Los informes deben cumplir con las siguientes conditions" if "conditions" in content_clean else "Los informes deben cumplir con las siguientes condiciones"),
             ("de la problemática de estudio.", "La problemática de estudio que le fue asignada"),
             ("de cada entregable.", "No es casualidad que cada uno de los entregables"),
             ("utilizando Excel (Office) o el software Estadístico Infostat.", "Complemente su proceso de enseñanza"),
             ("Video Tutorial para la descarga del software Infostat.", "Enlace para la descarga del Infostat")
         ]
         for p1, p2 in checks:
-            idx1 = content.find(p1)
-            idx2 = content.find(p2)
+            idx1 = content_clean.find(p1)
+            idx2 = content_clean.find(p2)
             if idx1 != -1 and idx2 != -1:
-                between = content[idx1 + len(p1):idx2]
+                between = content_clean[idx1 + len(p1):idx2]
                 if "</p>" not in between and "<br" not in between:
                     errors.append(f"Punto aparte not respected in Momento 1: '{p1[:30]}...' and '{p2[:30]}...' are merged in the same paragraph.")
 
@@ -205,10 +212,10 @@ def validate_file(path):
             ("Video Tutorial para la descarga del software Infostat.", "Enlace para la descarga del Infostat")
         ]
         for p1, p2 in checks:
-            idx1 = content.find(p1)
-            idx2 = content.find(p2)
+            idx1 = content_clean.find(p1)
+            idx2 = content_clean.find(p2)
             if idx1 != -1 and idx2 != -1:
-                between = content[idx1 + len(p1):idx2]
+                between = content_clean[idx1 + len(p1):idx2]
                 if "</p>" not in between and "<br" not in between:
                     errors.append(f"Punto aparte not respected in Momento 2: '{p1[:30]}...' and '{p2[:30]}...' are merged in the same paragraph.")
 

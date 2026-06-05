@@ -88,7 +88,7 @@ se enlaza con el marcador de Moodle y el **nombre exacto** del archivo:
   `podcast-titulo` para recordar verificar el título escuchando el audio:
 
 ```html
-<li style="margin-bottom: 10px;"><strong>Podcast: Título.</strong><br><br>
+<li ><strong>Podcast: Título.</strong><br><br>
     <audio controls="true" title="Podcast: Título">
         <source src="@@PLUGINFILE@@/Nombre.mp3">@@PLUGINFILE@@/Nombre.mp3
     </audio>
@@ -113,8 +113,9 @@ se enlaza con el marcador de Moodle y el **nombre exacto** del archivo:
   `</ul>` y `<p>`. Deben ir **consecutivos** (`</p><ul>`, `</ul><p>`). Moodle aplica margen a
   los bloques; un `<br>` intermedio produce doble espacio. Esto **incluye** el `<div>` del
   botón de envío: va directo tras el último párrafo, sin `<br>` (ver sección 11).
-- Si una viñeta supera 3 renglones, o dos viñetas tienen 2 renglones → `style="margin-bottom: 10px;"`
-  en cada `<li>` del grupo. (Es visual: si dudas, emite FLAG en vez de adivinar.)
+- Queda estrictamente prohibido usar estilos inline de margen (`style="margin-bottom: ..."` o `style="margin-top: ..."`) en cualquier etiqueta HTML (`p`, `li`, `h4`, etc.) para forzar la separación visual.
+- Para separación vertical manual donde sea estrictamente necesario y no exista separación nativa, usar únicamente la etiqueta `<br>`.
+- Los párrafos (`<p>`) ya cuentan con separación automática en Moodle, por lo que no deben separarse entre sí con etiquetas `<br>`.
 
 ## 7. Nomenclatura "Producto Final"
 
@@ -191,14 +192,15 @@ Las actividades se titulan **`Actividad N: Nombre`** en negrita:
 
 - El botón va **directo tras el último párrafo**, separado solo por el margen nativo.
 - **Prohibido** `<br>`/`<br><br>` o `<p></p>` vacío entre el contenido y el botón:
+- **Puntuación en botones**: El texto del botón NUNCA debe terminar con un punto final.
 
 ```html
 <p style="text-align: justify;">...último párrafo / párrafo de envío.</p>
 <div style="text-align: center;">
     <a href="https://virtual.udes.edu.co/mod/assign/view.php?id=XXXX" target="_blank" rel="noopener">
-        <button type="button" class="btn btn-outline-primary btn-lg" aria-pressed="true" role="button">
-            <span class="spinner-grow spinner-grow-sm"></span> Enviar Avance N.
-        </button>
+         <button type="button" class="btn btn-outline-primary btn-lg" aria-pressed="true" role="button">
+             <span class="spinner-grow spinner-grow-sm"></span> Enviar Avance N
+         </button>
     </a>
 </div>
 ```
@@ -221,8 +223,8 @@ podcasts, etc. **Aunque el AAA los escriba con formato autor-año** (p. ej.
   FLAG `red-sin-archivo` si no hay archivo.
 
 ```html
-<li style="margin-bottom: 10px;"><strong><a href="@@PLUGINFILE@@/Mapa_Curso_Estadística.pdf" target="_blank" rel="noopener">Mapa mental Estadística Descriptiva</a></strong>.</li>
-<li style="margin-bottom: 10px;"><strong>Video de presentación y bienvenida del curso Estadística Descriptiva</strong>.</li>
+<li ><strong><a href="@@PLUGINFILE@@/Mapa_Curso_Estadística.pdf" target="_blank" rel="noopener">Mapa mental Estadística Descriptiva</a></strong>.</li>
+<li ><strong>Video de presentación y bienvenida del curso Estadística Descriptiva</strong>.</li>
 ```
 
 ### B) Cita bibliográfica externa
@@ -233,3 +235,15 @@ Libros/artículos de terceros (Posada 2016, Martínez 2013, etc.) con su URL ext
 ### Reglas comunes
 - Las viñetas de RED y de citas pueden convivir en la misma `<ul>` (como en la referencia).
 - **No dupliques** un recurso ya listado en su actividad (primer uso).
+
+## 13. Regla de Consistencia de Insumos (PDF vs Word)
+- **Prioridad de Insumos:** Ante discrepancias entre archivos PDF y Word (créditos y horas del Syllabus, ponderaciones o actividades), el Syllabus y la AAA tienen prioridad.
+- **Notificación y aviso:** Si encuentras una inconsistencia o discrepancia, NO la corrijas de forma autónoma en el código HTML. Detén el procesamiento y avisa/informa al usuario inmediatamente para recibir confirmación de cómo resolverla.
+
+## 14. Regla de Enlaces a Foros
+- **Uso obligatorio de links en foros:** Siempre que en el texto o plantilla HTML se mencione un tipo de foro (foro social, foro punto de encuentro, foro de presentación, etc.), se debe detener el procesamiento y avisar al usuario para que suministre el enlace correspondiente de Moodle, permitiendo así hipervincularlo correctamente.
+
+## 15. Regla de Evitar RED Redundantes al Final de Sección (Clarificación)
+- **Eliminación de RED redundantes:** Si un recurso educativo (RED) como el mapa conceptual, el syllabus, o el video de bienvenida ya se menciona e hipervincula al inicio de los párrafos explicativos de la sección/semana, dicho recurso NO se debe volver a incluir en la lista final de Recursos Educativos Digitales (RED) de esa misma sección para evitar duplicidad.
+- **Menciones Inline:** Si el recurso es mencionado más adelante en otro párrafo de forma justificada, se enlazará inline normalmente de forma portable.
+

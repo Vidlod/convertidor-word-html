@@ -41,13 +41,13 @@ El flujo de trabajo y la organización de archivos se estructuran en las siguien
 ---
 
 ## 4. Estructura, Viñetas y Espaciado
-* **Espaciado entre ítems (margin-bottom):** 
-  * Si en un grupo de viñetas (`<ul>` o `<ol>`), al menos **una viñeta tiene más de 3 renglones**, o bien **dos viñetas tienen 2 renglones**, se debe aplicar un espacio de separación entre cada ítem.
-  * Implementación: Añadir `style="margin-bottom: 10px;"` a cada etiqueta `<li>` de ese grupo de viñetas.
-  * Si los ítems tienen un solo renglón, se dejan pegados (sin margen).
-* **Separación de bloques (doble salto de línea):**
-  * Ningún grupo de viñetas (`<ul>` o `<ol>`) puede quedar pegado a un párrafo adyacente (al principio o al final) que no pertenezca a las viñetas.
-  * Se deben insertar etiquetas de salto de línea dobles (`<br><br>`) justo antes de abrir la lista y justo después de cerrarla.
+* **Prohibición de Márgenes Inline para Separación**:
+  * Queda estrictamente prohibido el uso de estilos de margen inline (`style="margin-bottom: ..."` o `style="margin-top: ..."`) en cualquier etiqueta HTML (`p`, `li`, `h4`, etc.) para forzar la separación visual.
+  * Si es estrictamente necesario separar elementos de forma manual y no existe espaciado nativo, se debe utilizar únicamente la etiqueta `<br>`.
+  * Los párrafos (`<p>`) ya cuentan con separación automática en Moodle, por lo que queda prohibido insertar etiquetas `<br>` o márgenes inline entre ellos.
+* **Prohibición de saltos de línea inter-bloque (Prevención de Doble Espacio)**:
+  * Queda estrictamente prohibido colocar etiquetas de salto de línea (`<br>` o `<br><br>`) directamente entre elementos de bloque HTML (por ejemplo, entre `</p>` y `<ul>`, o entre `</ul>` y `<p>`).
+  * Las listas y párrafos deben limitarse a abrirse y cerrarse consecutivamente (ej. `</p><ul>` o `</ul><p>`). Moodle aplica márgenes por defecto a los bloques; colocar saltos de línea intermedios produce una separación visual excesiva.
 
 ---
 
@@ -166,3 +166,20 @@ tenemos que localizar estos fracmentos ponerlos en negriña y cuando de click en
 
 ## 14. Regla de Rúbricas en Botones de Introducción
 * **Rúbrica Oficial a Enlazar:** En la página de `Información del Curso botones.html`, en el botón correspondiente a **Rúbricas**, se debe enlazar siempre y de forma exclusiva la **Rúbrica 1** (`RUBRICA1_NombreCurso.pdf`) del curso, la cual es la rúbrica inicial de proceso.
+
+---
+
+## 15. Regla de Consistencia de Insumos (PDF vs Word)
+* **Prioridad Syllabus y AAA:** En caso de discrepancias o inconsistencias entre los archivos PDF y Word (especialmente en los créditos académicos y la intensidad horaria del Syllabus, las ponderaciones de calificaciones de los momentos o la estructura de las actividades y entregables de la AAA), se dará siempre prioridad al Syllabus y a la AAA.
+* **Notificación Obligatoria:** Ante cualquier inconsistencia o contradicción entre los insumos, NO se corregirá de forma autónoma en el código HTML: se debe detener el procesamiento e informar/avisar de inmediato al usuario sobre la inconsistencia encontrada para que determine las acciones a seguir.
+
+---
+
+## 16. Regla de Enlaces a Foros
+* **Enlaces de Foros en Moodle:** Siempre que en los textos de origen o plantillas HTML se haga referencia a un tipo de foro (por ejemplo, foro social, foro punto de encuentro, foro de presentación, etc.), se debe detener el procesamiento e informar al usuario para que proporcione el enlace (link) correspondiente de Moodle y poder hipervincularlo adecuadamente en el HTML.
+
+---
+
+## 17. Regla de Evitar RED Redundantes al Final de Sección (Clarificación)
+* **Evitar RED Redundantes:** Si un recurso educativo (RED) como el mapa conceptual, el syllabus, o el video de bienvenida ya se menciona e hipervincula al inicio de los párrafos semanales o del momento correspondiente, dicho recurso NO se debe incluir ni repetir en el listado de Recursos Educativos Digitales (RED) que se coloca al final de esa misma sección o semana para evitar redundancias.
+* **Menciones Inline Posteriores:** Si el recurso vuelve a mencionarse de forma justificada en un párrafo intermedio o posterior del texto, se enlazará e hipervinculará normalmente en línea conforme a la regla de enlaces portable.

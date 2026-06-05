@@ -15,7 +15,7 @@ Anexos:
 
 Si en cualquier estructura del html se encuentran anexos, se deben enlazar de forma local utilizando el formato portable @@PLUGINFILE@@/Nombre_Archivo.ext con el nombre exacto del archivo ubicado en la carpeta "Archivos E", siempre en negrita (<strong>). Se prohíbe el uso de enlaces a OneDrive o SharePoint (Drives) en el HTML.
 
-En los grupos de las viñetas, cuando las viñetas sobrepasen los 3 o dos renglones dejas un espacio entre ellas (style="margin-bottom: 10px;"), cuando solo tengan un renglón las puedes dejar pegadas (sin margen).
+Queda estrictamente prohibido usar estilos inline de margen (como style="margin-bottom: ...") para separar elementos de texto, listas o párrafos. Para separación vertical manual donde sea estrictamente necesario y no exista separación nativa, usar únicamente la etiqueta <br>. Sin embargo, los párrafos (<p>) ya cuentan con separación automática en Moodle, por lo que no deben separarse entre sí con etiquetas <br>.
 
 
 Para Línea del tiempo:
@@ -25,7 +25,7 @@ Los títulos solo deben ser "Avance (Número)" (sin subtítulos ni textos adicio
 Para el último avance (Producto Final) se aplica la regla de colocar "Producto Final" tanto en el texto como en el atributo title.
 Elimina la línea de CIERRE DE CURSO (no va).
 
-REGLAS (No inventar nada, no parafrasear nada, si no se encuentra me avisas, si en un grupo de viñetas, una tiene más de 3 renglones o 2 tienen 2 renglones se separan con style="margin-bottom: 10px;").
+REGLAS (No inventar nada, no parafrasear nada, si no se encuentra me avisas. Queda prohibido el uso de style="margin-bottom: ..." o style="margin-top: ..." en cualquier etiqueta para separar elementos).
 El texto nunca se pone en cursiva, solo negrita y texto normal. Si en la estructura original los títulos están con las negritas en azulado, se deja el título corregido con esa estructura. Todo esto guiándote de los archivos Word y a veces PDF adjuntados.
 
 En cuanto a viñetas:
@@ -46,12 +46,12 @@ En los momentos 1 o 2, en la última semana de cada avance (ej. Semana 3 para Av
 <div style="text-align: center;">
     <a href="https://virtual.udes.edu.co/mod/assign/view.php?id=XXXX" target="_blank" rel="noopener">
         <button type="button" class="btn btn-outline-primary btn-lg" aria-pressed="true" role="button">
-            <span class="spinner-grow spinner-grow-sm"></span> Enviar Producto Final.
+            <span class="spinner-grow spinner-grow-sm"></span> Enviar Producto Final
         </button>
     </a>
 </div>
 
-*Nota: Para el último avance del momento 2 (Producto Final), el botón debe decir "Enviar Producto Final." en lugar de "Enviar Producto Final".*
+*Nota: En el texto de los botones nunca se le pone punto final (ej. "Enviar Producto Final" o "Enviar Avance 1" sin punto al final).*
 
 También en la pestaña "Instrumento para Enviar Entregable" (Pestaña 4) de cada momento, se deben colocar o ajustar los botones de envío correspondientes al número de avances de dicho momento.
 
@@ -119,6 +119,15 @@ Cuando se tengan listas de texto plano marcadas con letras o números (ej. a., b
 
 Regla de Espaciado de Botones de Envío:
 Todos los botones de envío (tanto los de las pestañas semanales como los de la pestaña "Instrumento para Enviar Entregable") deben ir colocados exactamente un renglón después del último párrafo o elemento que los antecede. Queda estrictamente prohibido usar saltos de línea (<br> o <br><br>) o párrafos vacíos redundantes en medio. La separación debe lograrse de manera limpia a través del margen inferior nativo del elemento anterior. Únicamente se permite usar un párrafo vacío (<p></p>) entre botones de envío consecutivos en la pestaña de envíos múltiples para asegurar su separación visual.
+
+Regla de Consistencia de Insumos (PDF vs Word):
+En caso de detectar discrepancias o inconsistencias entre los archivos PDF y los documentos Word (especialmente en los créditos académicos y la intensidad horaria del Syllabus, las ponderaciones de calificaciones de los momentos o la estructura de las actividades y entregables de la AAA), se dará siempre prioridad al Syllabus (Syllabus.PDF/Syllabus.docx) y a la AAA (AAA.docx). Al hallar cualquier inconsistencia o contradicción entre los insumos, NO se corregirá de forma autónoma en el código HTML: se debe detener el procesamiento e informar/avisar de inmediato al usuario sobre la inconsistencia encontrada para que determine las acciones a seguir.
+
+Regla de Enlaces a Foros:
+Siempre que en los textos de origen o plantillas HTML se haga referencia a un tipo de foro (por ejemplo, foro social, foro punto de encuentro, foro de presentación, etc.), se debe detener el procesamiento e informar al usuario para que proporcione el enlace (link) correspondiente de Moodle y poder hipervincularlo adecuadamente en el HTML.
+
+Regla de Evitar RED Redundantes al Final de Sección (Clarificación):
+Si un recurso educativo (RED) como el mapa conceptual, el syllabus, o el video de bienvenida ya se menciona e hipervincula al inicio de los párrafos semanales o del momento correspondiente, dicho recurso NO se debe incluir ni repetir en el listado de Recursos Educativos Digitales (RED) que se coloca al final de esa misma sección o semana para evitar redundancias indeseadas. No obstante, si el recurso vuelve a mencionarse de forma justificada en un párrafo intermedio o posterior del texto, se enlazará e hipervinculará normalmente en línea conforme a la regla de enlaces portable.
 
 
 
