@@ -3,12 +3,19 @@ import re
 import sys
 import io
 import mammoth
+import pymupdf4llm
+import pypandoc
+import markdown
 from flask import Flask, render_template, request, jsonify
 from html.parser import HTMLParser
 
 app = Flask(__name__)
 
-# Note: We no longer need app.config['UPLOAD_FOLDER'] or os.makedirs because we process files 100% in-memory!
+# Ensure pandoc is installed via pypandoc
+try:
+    pypandoc.ensure_pandoc_installed()
+except Exception as e:
+    print(f"Advertencia: No se pudo verificar o instalar Pandoc automáticamente: {e}", file=sys.stderr)
 
 class BlockSegmenter(HTMLParser):
     def __init__(self):
@@ -57,7 +64,8 @@ class BlockSegmenter(HTMLParser):
                 "type": block_type,
                 "html": html_content,
                 "text": text_content,
-                "inner_html": inner_html
+                "inner_html": inner_html,
+                "markdown": ""
             })
             self.current_tag = None
 
@@ -119,6 +127,67 @@ def format_html(html_str):
             
     return '\n'.join(result)
 
+def segment_markdown_to_blocks(md_text):
+    # Standardize newlines
+    md_text = md_text.replace('\r\n', '\n')
+    
+    # Pre-split by double newlines
+    raw_parts = md_text.split('\n\n')
+    blocks = []
+    
+    def is_list_line(l):
+        l_strip = l.strip()
+        return bool(re.match(r'^[-*+]\s+', l_strip)) or bool(re.match(r'^\d+\.\s+', l_strip))
+        
+    for part in raw_parts:
+        part_text = part.strip()
+        if not part_text:
+            continue
+            
+        # If a block starts with a header but contains more lines, split the header from the rest
+        lines = part_text.split('\n')
+        if lines[0].strip().startswith('#') and len(lines) > 1:
+            header_line = lines[0]
+            rest = '\n'.join(lines[1:])
+            blocks.append((header_line, "título (H" + str(len(re.match(r'^(#+)', header_line.strip()).group(1))) + ")"))
+            part_text = rest.strip()
+            lines = part_text.split('\n')
+            
+        first_line = lines[0].strip()
+        if first_line.startswith('#'):
+            h_match = re.match(r'^(#+)', first_line)
+            level = len(h_match.group(1)) if h_match else 1
+            blocks.append((part_text, f"título (H{level})"))
+        elif first_line.startswith('|') or (len(lines) > 1 and lines[1].strip().startswith('|')):
+            blocks.append((part_text, "tabla/cuadro"))
+        elif is_list_line(first_line):
+            blocks.append((part_text, "lista"))
+        else:
+            blocks.append((part_text, "párrafo"))
+            
+    segmented_blocks = []
+    for block_md, block_type in blocks:
+        # Convert markdown block to HTML (with tables support)
+        block_html = markdown.markdown(block_md, extensions=['extra', 'tables'])
+        
+        # Clean text
+        clean_text_lines = []
+        for line in block_html.split('\n'):
+            line_clean = re.sub(r'<[^>]*>', '', line).strip()
+            if line_clean:
+                clean_text_lines.append(line_clean)
+        clean_text = ' '.join(clean_text_lines)
+        
+        segmented_blocks.append({
+            "type": block_type,
+            "html": block_html,
+            "text": clean_text or block_md,
+            "markdown": block_md,
+            "inner_html": ""
+        })
+        
+    return segmented_blocks
+
 @app.route('/')
 def index():
     return render_template('index.html')
@@ -132,38 +201,78 @@ def upload_file():
     if file.filename == '':
         return jsonify({"error": "Nombre de archivo no válido"}), 400
         
-    if file and file.filename.endswith('.docx'):
+    engine = request.form.get('engine', 'mammoth') # 'mammoth', 'pandoc' or 'pymupdf4llm'
+    filename = file.filename
+    ext = os.path.splitext(filename)[1].lower()
+    
+    if ext == '.pdf':
+        engine = 'pymupdf4llm'
+    elif ext == '.docx':
+        if engine not in ['mammoth', 'pandoc']:
+            engine = 'mammoth'
+    else:
+        return jsonify({"error": "Tipo de archivo no permitido. Debe ser .docx o .pdf"}), 400
+
+    if engine == 'mammoth':
         try:
-            # Process the file completely in-memory using io.BytesIO
             file_bytes = file.read()
             docx_file_in_memory = io.BytesIO(file_bytes)
             
-            # Convert DOCX to raw HTML
             result = mammoth.convert_to_html(docx_file_in_memory)
             raw_html = result.value
             
-            # Segment HTML into blocks
             parser = BlockSegmenter()
             parser.feed(raw_html)
             blocks = parser.blocks
             
-            # Clean up: format raw_html and inner_html for each block
             for block in blocks:
                 block['html'] = format_html(block['html'])
                 if block['inner_html']:
                     block['inner_html'] = format_html(block['inner_html'])
-                    
+                block['markdown'] = ""
+                
             return jsonify({
-                "filename": file.filename,
+                "filename": filename,
+                "engine": engine,
                 "blocks": blocks,
                 "warnings": [msg.message for msg in result.messages]
             })
         except Exception as e:
-            return jsonify({"error": f"Fallo al procesar el archivo Word: {str(e)}"}), 500
+            return jsonify({"error": f"Fallo al procesar con Mammoth: {str(e)}"}), 500
     else:
-        return jsonify({"error": "Tipo de archivo no permitido. Debe ser un archivo .docx"}), 400
+        # Pandoc or PyMuPDF4LLM
+        upload_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'uploads')
+        os.makedirs(upload_dir, exist_ok=True)
+        temp_path = os.path.join(upload_dir, filename)
+        
+        try:
+            file.save(temp_path)
+            
+            if engine == 'pandoc':
+                md_content = pypandoc.convert_file(temp_path, 'markdown')
+            else:
+                md_content = pymupdf4llm.to_markdown(temp_path)
+                
+            if os.path.exists(temp_path):
+                os.remove(temp_path)
+                
+            blocks = segment_markdown_to_blocks(md_content)
+            
+            for block in blocks:
+                block['html'] = format_html(block['html'])
+                
+            return jsonify({
+                "filename": filename,
+                "engine": engine,
+                "blocks": blocks,
+                "warnings": []
+            })
+        except Exception as e:
+            if os.path.exists(temp_path):
+                os.remove(temp_path)
+            return jsonify({"error": f"Fallo al procesar con {engine}: {str(e)}"}), 500
 
 if __name__ == '__main__':
-    # Running locally on http://localhost:5000
     print("Iniciando servidor Flask local...")
     app.run(host='127.0.0.1', port=5000, debug=True)
+
